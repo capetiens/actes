@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="17.1">
+    <meta>
+        <filters directoryPatterns="" filePatterns="" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options>
+            <serialized version="17.1" xml:space="preserve">
+                <serializableOrderedMap>
+                    <entry>
+                        <String>author.caret.proximity.highlight.color</String>
+                        <String>255,255,238</String>
+                    </entry>
+                    <entry>
+                        <String>author.show.processing.instructions</String>
+                        <Boolean>false</Boolean>
+                    </entry>
+                    <entry>
+                        <String>auto.correct.double.quotes</String>
+                        <autoCorrectQuotes>
+                            <field name="enabled">
+                                <Boolean>true</Boolean>
+                            </field>
+                            <field name="startQuote">
+                                <Character>“</Character>
+                            </field>
+                            <field name="endQuote">
+                                <Character>”</Character>
+                            </field>
+                        </autoCorrectQuotes>
+                    </entry>
+                    <entry>
+                        <String>auto.correct.single.quotes</String>
+                        <autoCorrectQuotes>
+                            <field name="enabled">
+                                <Boolean>true</Boolean>
+                            </field>
+                            <field name="startQuote">
+                                <Character>‘</Character>
+                            </field>
+                            <field name="endQuote">
+                                <Character>’</Character>
+                            </field>
+                        </autoCorrectQuotes>
+                    </entry>
+                    <entry>
+                        <String>autocorrect.load.user.defined.replacements.fromdefault.folder</String>
+                        <Boolean>false</Boolean>
+                    </entry>
+                    <entry>
+                        <String>autocorrect.use.suggeestions.from.spell.check.dicts</String>
+                        <Boolean>true</Boolean>
+                    </entry>
+                    <entry>
+                        <String>autocorrect.user.defined.replacements.custom.folder</String>
+                        <String>${pd}</String>
+                    </entry>
+                    <entry>
+                        <String>editor.format.indent.inline.elements</String>
+                        <Boolean>false</Boolean>
+                    </entry>
+                    <entry>
+                        <String>editor.format.preserve.empty.lines</String>
+                        <Boolean>false</Boolean>
+                    </entry>
+                    <entry>
+                        <String>editor.format.preserve.spaces.elements.v11</String>
+                        <String-array>
+                            <String>xsl:text</String>
+                            <String>xsl:comment</String>
+                            <String>xsl:processing-instruction</String>
+                            <String>literallayout</String>
+                            <String>programlisting</String>
+                            <String>screen</String>
+                            <String>synopsis</String>
+                            <String>pre</String>
+                            <String>xd:pre</String>
+                            <String>temoin</String>
+                        </String-array>
+                    </entry>
+                    <entry>
+                        <String>editor.line.wrap</String>
+                        <Boolean>true</Boolean>
+                    </entry>
+                    <entry>
+                        <String>editor.sort.attributes</String>
+                        <Boolean>true</Boolean>
+                    </entry>
+                    <entry>
+                        <String>key.author.caret.navigation.option.pane</String>
+                        <Boolean>true</Boolean>
+                    </entry>
+                    <entry>
+                        <String>key.author.editor.option.pane</String>
+                        <Boolean>true</Boolean>
+                    </entry>
+                    <entry>
+                        <String>key.author.editor.schema.aware.option.pane</String>
+                        <Boolean>true</Boolean>
+                    </entry>
+                    <entry>
+                        <String>key.editor.format.xml.option.pane</String>
+                        <Boolean>true</Boolean>
+                    </entry>
+                    <entry>
+                        <String>key.text.editor.option.pane</String>
+                        <Boolean>true</Boolean>
+                    </entry>
+                </serializableOrderedMap>
+            </serialized>
+        </options>
+    </meta>
+    <projectTree name="projet.xpr">
+        <file name="L10.xml"/>
+    </projectTree>
+</project>

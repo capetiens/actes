@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes" ns="http://enc-sorbonne.fr/ns/actes" xmlns="http://relaxng.org/ns/structure/1.0" xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">
+  <start>
+    <ref name="catalogue"/>
+  </start>
+  <define name="catalogue">
+    <element name="catalogue">
+      <a:documentation>Une collection d’actes.</a:documentation>
+      <oneOrMore>
+        <ref name="acte"/>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="acte">
+    <element name="acte">
+      <attribute name="xml:id">
+        <a:documentation>Identifiant d’acte, préfixe de roi, numéro d’ordre</a:documentation>
+        <data type="ID">
+          <param name="pattern">(L10|P4|P5|C4)-[0-9]+</param>
+        </data>
+      </attribute>
+      <ref name="titre"/>
+      <optional>
+        <ref name="datation"/>
+      </optional>
+      <optional>
+        <ref name="localisation"/>
+      </optional>
+      <optional>
+        <ref name="analyse"/>
+      </optional>
+      <ref name="tradition"/>
+      <optional>
+        <ref name="expeditions"/>
+      </optional>
+      <optional>
+        <ref name="mentions"/>
+      </optional>
+      <optional>
+        <ref name="scellage"/>
+      </optional>
+      <optional>
+        <ref name="remarques"/>
+      </optional>
+      <optional>
+        <ref name="personnel"/>
+      </optional>
+    </element>
+  </define>
+  <define name="titre">
+    <element name="titre">
+      <element name="date">
+        <a:documentation>Date de l’acte au format AAAA-MM-JJ.</a:documentation>
+        <choice>
+          <data type="token">
+            <param name="pattern">[0-9]{4}(-[0-9]{2}(-[0-9]{2})?)?</param>
+          </data>
+          <value>s.d.</value>
+        </choice>
+      </element>
+      <element name="lieu">
+        <text/>
+      </element>
+    </element>
+    
+  </define>
+  <define name="analyse">
+    <element name="analyse">
+      <a:documentation>Pour l’instant, mots clés, pas encor affichable</a:documentation>
+      <!-- Paragraphes ? -->
+      <ref name="texte"/>
+    </element>
+  </define>
+  <define name="tradition">
+    <element name="tradition">
+      <a:documentation>Série des témoins, toujours au moins un, l’ordre est sigificatif</a:documentation>
+      <oneOrMore>
+        <choice>
+          <ref name="temoin"/>
+          <ref name="tmp"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="tmp">
+    <element name="tmp">
+      <text/>
+    </element>
+  </define>
+  <define name="temoin">
+    <element name="temoin">
+      <a:documentation>Série des témoins, l’ordre est sigificatif</a:documentation>
+      <attribute name="type">
+        <choice>
+          <value>chancellerie</value>
+          <value>copie</value>
+          <value>edition</value>
+          <value>indique</value>
+          <value>original</value>
+          <value>parlement</value>
+          <value>vidimus</value>
+          <value>???</value>
+        </choice>
+      </attribute>
+      <ref name="texte"/>
+      <optional>
+        <element name="source">
+          <ref name="texte"/>
+        </element>
+      </optional>
+    </element>
+  </define>
+  <define name="datation">
+    <element name="datation">
+      <a:documentation>Précisions sur la datation (optionnel)</a:documentation>
+      <ref name="texte"/>
+    </element>
+  </define>
+  <define name="localisation">
+    <element name="localisation">
+      <a:documentation>Précisions sur le lieu (optionnel)</a:documentation>
+      <ref name="texte"/>
+    </element>
+  </define>
+  <define name="expeditions">
+    <element name="expeditions">
+      <a:documentation>ex : « tripplicata », texte libre</a:documentation>
+      <ref name="texte"/>
+    </element>
+  </define>
+  <define name="mentions">
+    <element name="mentions">
+      <a:documentation>Texte libre</a:documentation>
+      <ref name="texte"/>
+    </element>
+  </define>
+  <define name="scellage">
+    <element name="scellage">
+      <a:documentation>Sceau, cire…</a:documentation>
+      <ref name="texte"/>
+    </element>
+  </define>
+  <define name="remarques">
+    <element name="remarques">
+      <a:documentation>Remarques, texte libre</a:documentation>
+      <ref name="texte"/>
+    </element>
+  </define>
+  <define name="personnel">
+    <element name="personnel">
+      <a:documentation>Liste de rôles ayant eu part à l’acte</a:documentation>
+      <oneOrMore>
+        <ref name="role"/>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="role">
+    <element name="role">
+      <a:documentation>Rôle dans un acte, type obligatoire, identifié par un nom ou un code</a:documentation>
+      <attribute name="type">
+        <choice>
+          <value>collateur</value>
+          <value>collation</value>
+          <value>notaire</value>
+          <value>refait</value>
+          <value>refait notaire</value>
+          <value>sous</value>
+        </choice>
+      </attribute>
+      <text/>
+    </element>
+  </define>
+  <define name="texte">
+    <a:documentation>Texte riche</a:documentation>
+    <zeroOrMore>
+      <choice>
+        <text/>
+        <ref name="i"/>
+        <ref name="sup"/>
+      </choice>
+    </zeroOrMore>
+  </define>
+  <define name="i">
+    <element name="i">
+      <a:documentation>Italique</a:documentation>
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="sup"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="sup">
+    <element name="sup">
+      <a:documentation>Exposant</a:documentation>
+      <text/>
+    </element>
+  </define>
+  <define name="pc">
+    <element name="pc">
+      <a:documentation>Petites capitales</a:documentation>
+      <text/>
+    </element>
+  </define>
+</grammar>

@@ -1,0 +1,81 @@
+/* Structure */
+
+catalogue { display: block; background-color: #EBECE4; }
+acte { display: block;  border-top: 1px solid #666666; padding-top: 1em; margin-top: 1em; padding-right: 2em; }
+
+/* Titre */
+titre { display: block; font-weight: bold; font-size: 1.2em; margin: 0 0 1ex 2em; }
+date, lieu { display: inline; background-color: #FFFFFF; }
+lieu:before { content:", "; color: #888888; background-color: #EBECE4; }
+
+/* Blocs d’informations */
+analyse, datation, expeditions, localisation, mentions, remarques, scellage { display: block; background-color: #FFFFFF; border-top: 1px solid #EBECE4; margin:0; padding: 0; }
+analyse:before, datation:before, expeditions:before, localisation:before, mentions:before, remarques:before, scellage:before { background-color: #EBECE4; margin: 0 1ex 0 0; width: 100px; font-family: "Arial Narrow", Arial,sans-serif; color: #8888AA; text-align: right; }
+analyse:before { content: "Analyse ";  }
+datation:before { content: "Datation "; }
+expeditions:before { content: "Expéditions "; }
+localisation:before { content: "Localisation "; }
+mentions:before { content: "Mentions "; }
+remarques:before { content: "Remarques "; }
+scellage:before { content: "Scellage "; }
+
+/* Tradition */
+
+tradition { display: block; margin-top: 1em; margin-bottom: 1em; }
+tmp { display: none; }
+temoin { display: block; background-color: #FFFFFF; border-bottom: 1px solid #EBECE4; }
+temoin:before {
+  background-color: #EBECE4; margin: 0; padding: 0; color: #666699; margin-right: 1ex;
+  content:
+    oxy_button(
+      showIcon, false,
+      transparent, true,
+      color, #666699,
+      action, oxy_action(
+        name, '▲',
+        description, 'Déplacer le témoin vers le haut', 
+        operation, 'ro.sync.ecss.extensions.commons.operations.MoveElementOperation', 
+        arg-sourceLocation, '.',
+        arg-targetLocation, 'preceding-sibling::temoin[1]',
+        arg-insertPosition, 'Before'
+      )
+    )
+    oxy_button(
+      showIcon, false,
+      transparent, true,
+      color, #666699,
+      action, oxy_action(
+        name, '▼', 
+        description, 'Déplacer le témoin vers le bas', 
+        operation, 'ro.sync.ecss.extensions.commons.operations.MoveElementOperation', 
+        arg-sourceLocation, '.',
+        arg-targetLocation, 'following-sibling::temoin[1]',
+        arg-insertPosition, 'After'
+      )
+    )
+    oxy_combobox(
+      edit, "@type",
+      color, #666699
+    )
+    ' '
+  ;
+}
+source { display: inline; color: #008000; }
+source:before { content:", "; background-color: #EBECE4; width: 5ex; }
+
+/* Personnel */
+personnel { display: block; margin-top: 1em; }
+role { display: inline; background-color: #FFFFFF; }
+role:before {
+  background-color: #EBECE4;
+  margin: 0; padding: 0;
+  content:oxy_combobox(
+    edit, "@type",
+    color, #666699,
+    editable, true
+  );
+}
+
+/* Typo */
+i { display: inline; font-style:italic; -oxy-display-tags: none; }
+sup { display: inline; vertical-align:super; font-size:80%; line-height:0.1; -oxy-display-tags: none; }
