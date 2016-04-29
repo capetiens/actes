@@ -80,7 +80,6 @@
         <text/>
       </element>
     </element>
-    
   </define>
   <define name="analyse">
     <element name="analyse">
@@ -120,7 +119,12 @@
           <value>???</value>
         </choice>
       </attribute>
-      <ref name="texte"/>
+      <zeroOrMore>
+        <choice>
+          <text/>
+          <ref name="ref"/>
+        </choice>
+      </zeroOrMore>
       <optional>
         <element name="source">
           <ref name="texte"/>

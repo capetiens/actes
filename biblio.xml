@@ -3,106 +3,24 @@
 <?xml-model href="actes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <biblio xmlns="http://capetiens.github.io/actes/actes.rng">
   <!--
-    <ref><b style="mso-bidi-font-weight:normal">I. Partout</b></ref>
-    <ref sigle="n°">n° </ref>
-    <ref><span style="mso-bidi-font-weight:bold">
-      
-      </span></ref>
-    <p class="MsoNormal" style="text-align:justify"><b style="mso-bidi-font-weight: normal">II. Remplacement des cotes</b></ref>
-    <p class="MsoNormal" style="text-align:justify"><b style="mso-bidi-font-weight: normal">Dans les seules colonnes concernant la tradition (soit « cote », « original », « copie », « vidimus », « enr. Parlement », « réenr. » et « réenr. Parlement »), à l’exclusion du champ de description (« d’après… »)</b></ref>
-    <ref><b style="mso-bidi-font-weight:normal">En cas de remplacement conditionnel, les conditions sont en italique à la suite ; la case est obligatoirement à respecter :</b></ref>
-    <ref sigle="JJ">AN, JJ</ref>
-    <p class="MsoNormal" style="margin-left:35.45pt;text-align:justify;text-indent: -.05pt"><i>si JJ est suivi d’un espace et s’il n’est précédé d’aucun caractère ou seulement d’un espace</i></ref>
-    <ref sigle="KK">AN, KK</ref>
-    <p class="MsoNormal" style="margin-left:35.45pt;text-align:justify;text-indent: -.05pt"><i><span style="mso-bidi-font-weight:bold">si KK est suivi d’un espace et s’il n’est précédé d’aucun caractère ou seulement d’un espace</span></i></ref>
-    <ref><span style="mso-bidi-font-weight:bold">KK=AN, KK </span></ref>
-    <ref><span style="mso-bidi-font-weight:bold"><span style="mso-tab-count: 1">            </span><i>si KK est suivi d’un chiffre et s’il n’est précédé d’aucun caractère ou seulement d’un espace</i></span></ref>
-    <ref><span style="mso-bidi-font-weight:bold">K=AN, K</span></ref>
-    <ref><span style="mso-bidi-font-weight:bold"><span style="mso-tab-count: 1">            </span><i>si K est suivi d’un espace et d’un chiffre et s’il n’est précédé d’aucun caractère ou seulement d’un espace</i></span></ref>
-    <ref><span style="mso-bidi-font-weight:bold">K=AN, K </span></ref>
-    <ref><span style="mso-bidi-font-weight:bold"><span style="mso-tab-count: 1">            </span><i>si K est suivi d’un chiffre et s’il n’est précédé d’aucun caractère ou seulement d’un espace</i></span></ref>
-    <ref><span style="mso-bidi-font-weight:bold">S=AN, S</span></ref>
-    <ref><span style="mso-bidi-font-weight:bold"><span style="mso-tab-count: 1">            </span><i>si S est suivi d’un espace et d’un chiffre et s’il n’est précédé d’aucun caractère ou seulement d’un espace</i></span></ref>
-    <ref><span style="mso-bidi-font-weight:bold">S=AN, S </span></ref>
-    <ref><span style="mso-bidi-font-weight:bold"><span style="mso-tab-count: 1">            </span><i>si S est suivi d’un chiffre et s’il n’est précédé d’aucun caractère ou seulement d’un espace</i></span></ref>
-    <ref><span style="mso-bidi-font-weight:bold">P=AN, P</span></ref>
-    <ref><span style="mso-bidi-font-weight:bold"><span style="mso-tab-count: 1">            </span><i>si P est suivi d’un espace et d’un chiffre et s’il n’est précédé d’aucun caractère ou seulement d’un espace</i></span></ref>
-    <ref><span style="mso-bidi-font-weight:bold">P=AN, P </span></ref>
-    <ref><span style="mso-bidi-font-weight:bold"><span style="mso-tab-count: 1">            </span><i>si P est suivi d’un chiffre et s’il n’est précédé d’aucun caractère ou seulement d’un espace</i></span></ref>
-    <ref><span style="mso-bidi-font-weight:bold">J=AN, J</span></ref>
-    <ref><span style="mso-bidi-font-weight:bold"><span style="mso-tab-count: 1">            </span><i>si J est suivi d’un espace et d’un chiffre et s’il n’est précédé d’aucun caractère</i></span></ref>
-    <ref><span style="mso-bidi-font-weight:bold">J=AN, J </span></ref>
-    <ref><span style="mso-bidi-font-weight:bold"><span style="mso-tab-count: 1">            </span><i>si J est suivi d’un chiffre et s’il n’est précédé d’aucun caractère</i></span></ref>
-    <ref><span style="mso-bidi-font-weight:bold">L=AN, L</span></ref>
-    <ref><span style="mso-bidi-font-weight:bold"><span style="mso-tab-count: 1">            </span><i>si L est suivi d’un espace et d’un chiffre et s’il n’est précédé d’aucun caractère</i></span></ref>
-    <ref><span style="mso-bidi-font-weight:bold">L=AN, L </span></ref>
-    <ref><span style="mso-bidi-font-weight:bold"><span style="mso-tab-count: 1">            </span><i>si J est suivi d’un chiffre et s’il n’est précédé d’aucun caractère</i></span></ref>
-    <ref><span style="mso-bidi-font-weight:bold">1AP=AN, 1AP</span></ref>
-    <ref><span style="mso-bidi-font-weight:bold">Q1=AN, Q1</span></ref>
-    <ref><span style="mso-bidi-font-weight:bold"><span style="mso-tab-count: 1">            </span><i>si Q1 n’est précédé d’aucun caractère</i></span></ref>
-    <ref><span style="mso-bidi-font-weight:bold">R=AN, R</span></ref>
-    <ref><span style="mso-bidi-font-weight:bold"><span style="mso-tab-count: 1">            </span><i>si R1 n’est précédé d’aucun caractère et est suivi d’un chiffre</i></span></ref>
-    <ref><span style="mso-bidi-font-weight:bold">Y1=AN, Y1</span></ref>
-    <ref><span style="mso-bidi-font-weight:bold"><span style="mso-tab-count: 1">            </span><i>si Y1 n’est précédé d’aucun caractère</i></span></ref>
-    <ref><span style="mso-bidi-font-weight:bold">V2=AN, V2</span></ref>
-    <ref><span style="mso-bidi-font-weight:bold"><span style="mso-tab-count: 1">            </span><i>si V2 n’est précédé d’aucun caractère</i></span></ref>
-    <ref><span style="mso-bidi-font-weight:bold">X1=AN, X1</span></ref>
-    <ref><span style="mso-bidi-font-weight:bold">X2A=AN, X2A</span></ref>
-    <ref><span style="mso-bidi-font-weight:bold">Z1B=AN, Z1B</span></ref>
-    <ref><span style="mso-bidi-font-weight:bold">ACA=</span><span lang="ES-TRAD" style="mso-ansi-language:ES-TRAD">Archivo de la Corona de Aragón,</span><span style="mso-bidi-font-weight:bold">
-      
-      </span></ref>
-    <ref><span style="mso-bidi-font-weight:bold">PRO=The National Archives,</span></ref>
-    <ref><span style="mso-bidi-font-weight:bold">fr. =BNF, fr. </span></ref>
-    <ref><span style="mso-bidi-font-weight:bold">lat. =BNF, lat. </span></ref>
-    <ref><span style="mso-bidi-font-weight:bold">NAL =BNF, NAL </span></ref>
-    <ref><span style="mso-bidi-font-weight:bold">NAF = BNF, NAF </span></ref>
-    <ref><span style="mso-bidi-font-weight:bold">Doat=BNF, Doat</span></ref>
-    <ref><span style="mso-bidi-font-weight:bold">Mélanges Colbert=BNF, Mélanges Colbert</span></ref>
-    <ref><span style="mso-bidi-font-weight:bold">Clairambault=BNF, Clairambault</span></ref>
-    <ref><span style="mso-bidi-font-weight:bold"><span style="mso-tab-count: 1">            </span><i>si Clairambault est suivi d’un espace, puis d’un chiffre</i> </span></ref>
-    <ref><span style="mso-bidi-font-weight:bold">Picardie=BNF, Picardie</span></ref>
-    <ref><span style="mso-bidi-font-weight:bold"><span style="mso-tab-count: 1">            </span><i>si Picardie est suivi d’un espace, puis d’un chiffre</i> </span></ref>
-    <ref><span style="mso-bidi-font-weight:bold">Dupuy=BNF, Dupuy</span></ref>
-    <ref><span style="mso-bidi-font-weight:bold"><span style="mso-tab-count: 1">            </span><i>si Dupuy est suivi d’un espace, puis d’un chiffre</i></span></ref>
-    <ref><span style="mso-bidi-font-weight:bold">Touraine=BNF, Touraine</span></ref>
-    <ref><span style="mso-bidi-font-weight:bold"><span style="mso-tab-count: 1">            </span><i>si Touraine est suivi d’un espace, puis d’un chiffre</i></span></ref>
-    <ref><span style="mso-bidi-font-weight:bold">Champagne=BNF, Champagne</span></ref>
-    <ref><span style="mso-bidi-font-weight:bold"><span style="mso-tab-count: 1">            </span><i>si Champagne est suivi d’un espace, puis d’un chiffre</i></span></ref>
-    <ref><span style="mso-bidi-font-weight:bold">Moreau=BNF, Moreau</span></ref>
-    <ref><span style="mso-bidi-font-weight:bold"><span style="mso-tab-count: 1">            </span><i>si Moreau est suivi d’un espace, puis d’un chiffre</i></span></ref>
-    <ref><span style="mso-bidi-font-weight:bold">PO=BNF, Pièces originales</span></ref>
-    <ref><span style="mso-bidi-font-weight:bold"><span style="mso-tab-count: 1">            </span><i>si PO est suivi d’un espace, puis d’un chiffre</i></span></ref>
-    <ref><span style="mso-bidi-font-weight:bold">AGR =Archives générales du royaume, </span></ref>
-    <ref><span style="mso-bidi-font-weight:bold">AD + <i>nom (avec d’éventuels traits d’union) + espace</i>=AD + <i>nom + virgule + espace</i></span></ref>
-    <ref><span style="mso-bidi-font-weight:bold">AD PdC=AD Pas-de-Calais</span></ref>
-    <ref><span style="mso-bidi-font-weight:bold">BM + <i>nom (avec d’éventuels traits d’union) + espace</i>=BM + <i>nom + virgule + espace</i></span></ref>
-    <ref><span style="mso-bidi-font-weight:bold">AM + <i>nom (avec d’éventuels traits d’union) + espace</i>=AM + <i>nom + virgule + espace</i></span></ref>
-    <ref><span style="mso-bidi-font-weight:bold">ASV=Archivio segreto vaticano,</span></ref>
-    <ref><span style="mso-bidi-font-weight:bold">BL =British Library, </span></ref>
-    <ref><span style="mso-bidi-font-weight:bold">BSG=bibliothèque Sainte-Geneviève, </span></ref>
-    <ref><span style="mso-bidi-font-weight:bold">Lenoir 104 Mi=collection Lenoir, AN, 104 Mi</span></ref>
-    <ref><span style="mso-bidi-font-weight:bold">
-      
-      </span></ref>
-      -->
-  <!--
-    <p class="MsoNormal" style="text-align:justify"><b style="mso-bidi-font-weight: normal">II. Remplacement des références bibliographiques</b></ref>
-    <p class="MsoNormal" style="text-align:justify"><b style="mso-bidi-font-weight: normal">Dans les seules colonnes concernant la tradition (soit « cote », « original », « copie », « vidimus », « enr. Parlement », « réenr. » et « réenr. Parlement »), à l’exclusion du champ de description (« d’après… »)</b></ref>
-    <ref><b style="mso-bidi-font-weight:normal">Remplacements stricts de part et d’autre du =</b></ref>
-    <ref><i><span style="mso-bidi-font-weight:bold">Toutes les abréviations renvoient à des éditions. Si l’abréviation apparaît dans un témoin (hors sa description en texte libre) qui est signalé comme « copie », il faut donc le transformer en « édition » ( ! : si le témoin est un indiqué, il le reste). </span></i></ref>
-    <ref><i><span style="mso-bidi-font-weight:bold">! Cette transformation ne concerne pas l’abréviation suivante, qui peut donc signaler une copie et non une édition : </span></i></ref>
-    <ref><span style="mso-bidi-font-weight:bold">Livre rouge de la Chambre des comptes =C</span>harles-Victor Langlois, « Registres perdus des archives de la chambre des comptes de Paris », dans <i style="mso-bidi-font-style: normal">Notices et extraits des manuscrits de la Bibliothèque nationale et autres bibliothèques publiés par l’Académie des inscriptions et belles-lettres</i>, t. 40, 1916, p. 33-398 ; tiré à part, Paris, 1917, appendice II, p. 247-366, n° </ref>
+ II. Remplacement des références bibliographiques
+ 
+Dans les seules colonnes concernant la tradition (soit « cote », « original », « copie », « vidimus », « enr. Parlement », « réenr. » et « réenr. Parlement »), à l’exclusion du champ de description (« d’après… »)
+
+Toutes les abréviations renvoient à des éditions. Si l’abréviation apparaît dans un témoin (hors sa description en texte libre) qui est signalé comme « copie », il faut donc le transformer en « édition » ( ! : si le témoin est un indiqué, il le reste).
+
+Livre rouge de la Chambre des comptes =Charles-Victor Langlois, « Registres perdus des archives de la chambre des comptes de Paris », dans <i>Notices et extraits des manuscrits de la Bibliothèque nationale et autres bibliothèques publiés par l’Académie des inscriptions et belles-lettres</i>, t. 40, 1916, p. 33-398 ; tiré à part, Paris, 1917, appendice II, p. 247-366, n° 
+
     -->
   <ref sigle="de Curzon">Théodore de Curzon, inventaire analytique par ordre chronologique du Trésor des chartes, 1890-1891, fiches mss. (conservé aux Archives nationales, département de l’Ancien Régime)</ref>
   <ref sigle="Irht fiches">Corpus philippicum, itinéraire de Philippe le Bel, fiches mss. (conservé à l’Institut de recherches et d’histoire des textes)</ref>
   <ref sigle="dépouillement Irht">Corpus philippicum, analyses par dépôt d’archives, mss. (conservé à l’Institut de recherches et d’histoire des textes)</ref>
   <ref sigle="Couderc n°">Camille Couderc, <i>Étude sur le gouvernement de Charles IV dit le Bel et catalogue des mandements du règne</i>, thèse pour le dipl. d’archiviste paléographe, 1886, mss. (conservé à la la bibliothèque de la Société des lettres, sciences et arts de l’Aveyron, à Rodez), n° </ref>
-  <ref sigle="AHP 11">Paul Guérin, <i>Recueil des documents concernant le Poitou contenus dans les registres de la chancellerie de France</i>, t. I : <i>1302-1333</i>, Poitiers, 1881 (<i>Archives historiques du Poitou, 11</i>)</ref>
-  <ref sigle="AHP 13">Paul Guérin, <i>Recueil des documents concernant le Poitou contenus dans les registres de la chancellerie de France</i>, t. II : <i>1334-1348</i>, Poitiers, 1883 (<i>Archives historiques du Poitou</i>, 13)</ref>
-  <ref sigle="AHS 12">Paul Guérin, <i>Documents relatifs à l’histoire de la Saintonge et de l’Aunis extraits des registres du Trésor des chartes</i>, Paris/Saintes, 1884 (<i>Archives historiques de la Saintonge et de l’Aunis</i>, 12)</ref>
-  <ref sigle="Petit, Essai, n">Joseph Petit, Michel Gavrilovitch, Maury et D.-A. Teodoru, <i>Essai de restitution des plus anciens mémoriaux de la Chambre des comptes</i>, Paris, 1899 (<i>Université de Paris. Bibliothèque de la faculté des Lettres</i>, 7), n</ref>
-  <ref sigle="Petit, Essai, pj">Joseph Petit, Michel Gavrilovitch, Maury et D.-A. Teodoru, <i>Essai de restitution des plus anciens mémoriaux de la Chambre des comptes</i>, Paris, 1899 (<i>Université de Paris. Bibliothèque de la faculté des Lettres</i>, 7), pièce justificative</ref>
+  <ref sigle="AHP 11">Paul Guérin, <i>Recueil des documents concernant le Poitou contenus dans les registres de la chancellerie de France</i>, t. I : <i>1302-1333</i>, Poitiers, 1881 (Archives historiques du Poitou, 11)</ref>
+  <ref sigle="AHP 13">Paul Guérin, <i>Recueil des documents concernant le Poitou contenus dans les registres de la chancellerie de France</i>, t. II : <i>1334-1348</i>, Poitiers, 1883 (Archives historiques du Poitou, 13)</ref>
+  <ref sigle="AHS 12">Paul Guérin, <i>Documents relatifs à l’histoire de la Saintonge et de l’Aunis extraits des registres du Trésor des chartes</i>, Paris/Saintes, 1884 (Archives historiques de la Saintonge et de l’Aunis, 12)</ref>
+  <ref sigle="Petit, Essai, n">Joseph Petit, Michel Gavrilovitch, Maury et D.-A. Teodoru, <i>Essai de restitution des plus anciens mémoriaux de la Chambre des comptes</i>, Paris, 1899 (Université de Paris. Bibliothèque de la faculté des Lettres, 7), n</ref>
+  <ref sigle="Petit, Essai, pj">Joseph Petit, Michel Gavrilovitch, Maury et D.-A. Teodoru, <i>Essai de restitution des plus anciens mémoriaux de la Chambre des comptes</i>, Paris, 1899 (Université de Paris. Bibliothèque de la faculté des Lettres, 7), pièce justificative</ref>
   <ref sigle="Stein">Henri Stein, <i>Inventaire analytique des ordonnances enregistrées au parlement de Paris jusqu’à la mort de Louis XII</i>, Paris, 1908,</ref>
   <ref sigle="Tardif">Jules Tardif, <i>Monuments historiques. Cartons des rois</i>, Paris, 1866 (Archives de l’Empire : inventaires et documents), n° </ref>
   <ref sigle="d’Achery, Spicilegium VIII">dom Luc d’Achery, <i>Veterum aliquot scriptorum qui in Galliae bibliothecis, maxime benedictinorum latuerant, spicilegium</i>, t. VIII, Paris, 1668, </ref>
@@ -120,24 +38,24 @@
   <ref sigle="Artonne p.">André Artonne, <i>Le mouvement de 1314 et les chartes provinciales de 1315</i>, Paris, 1912 (Université de Paris. Bibliothèque de la faculté des Lettres, 29), p. </ref>
   <ref sigle="Aubert de la Faige, Testament">commandant Genest Émile Aubert de la Faige, <i>Le testament de Gilles Aycelin de Montaigu, archevêque de Narbonne, puis de Rouen, chancelier de Philippe-le-Bel</i>, Riom, 1898,</ref>
   <ref sigle="Audouin, Cartulaire">Édouard Audouin, « Le cartulaire municipal de Poitiers, dit “manuscrit d’Auzance” », dans <i>Bulletin philologique et historique (jusqu’à 1715) du Comité des travaux historiques et scientifiques</i>, 1917, p. 147-160,</ref>
-  <ref sigle="Audouin AHP 44">Édouard Audouin, <i>Recueil de documents concernant la ville de Poitiers</i>, t. I : <i>De 1063 à 1327</i>, Poitiers, 1923 (<i>Archives historiques du Poitou</i>, 44),</ref>
+  <ref sigle="Audouin AHP 44">Édouard Audouin, <i>Recueil de documents concernant la ville de Poitiers</i>, t. I : <i>De 1063 à 1327</i>, Poitiers, 1923 (Archives historiques du Poitou, 44),</ref>
   <ref sigle="Baudouin">Adolphe Baudouin, <i>Lettres inédites de Philippe le Bel publiées aux frais du ministère de l’Instruction publique par l’Académie des sciences, inscriptions et belles-lettres de Toulouse</i>, Paris, 1887,</ref>
   <ref sigle="Bernard">Jacques Bernard, <i>Recueil des traitez de paix, de trêve, de neutralité, de suspensions d’armes, de confédération</i> […], 4 t., Amsterdam/La Haye, 1700, t. I, n° </ref>
   <ref sigle="Beugnot">comte Auguste-Arthur Beugnot, <i>Les <i>Olim</i> ou registres des arrêts rendus par la Cour du roi sous les règnes de saint Louis, de Philippe le Hardi, de Philippe le Bel, de Louis le Hutin et de Philippe le Long</i>, 3 t. en 4 vol., Paris, 1839-1844 (Collection des documents inédits sur l’histoire de France. 1<sup>re</sup> série : histoire politique), t. </ref>
   <ref sigle="Beugnot">comte Auguste-Arthur Beugnot, <i>Les <i>Olim</i> ou registres des arrêts rendus par la Cour du roi sous les règnes de saint Louis, de Philippe le Hardi, de Philippe le Bel, de Louis le Hutin et de Philippe le Long</i>, 3 t. en 4 vol., Paris, 1839-1844 (Collection des documents inédits sur l’histoire de France. 1<sup>re</sup> série : histoire politique), t. </ref>
   <ref sigle="Bock, Kaisertum…">Friedrich Bock, « Kaisertum, Kurie und Nationalstaat im Beginn des 14. Jahrhunderts. Zweiter Teil », dans <i>Römische Quartalschrift für christliche Altertumskunde und für Kirchengeschichte</i>, t. 44, 1936, p. 169-220,</ref>
   <ref sigle="Bonnin">Théodore Bonnin, <i>Cartulaire de Louviers. Documents historiques originaux</i> […], t. II, 1<sup>re</sup> partie : <i><pc>xiv</pc><sup>e</sup> siècle</i>, Évreux, 1871, </ref>
-  <ref sigle="Boutaric">Edgard Boutaric, <i>Actes du parlement de Paris. I<sup>ère</sup> série : de l’an 1254 à l’an 1328</i>, 2 t., Paris, 1863-1867 (<i>Archives de l’Empire : inventaires et documents</i>), t. II, n° </ref>
+  <ref sigle="Boutaric">Edgard Boutaric, <i>Actes du parlement de Paris. I<sup>ère</sup> série : de l’an 1254 à l’an 1328</i>, 2 t., Paris, 1863-1867 (Archives de l’Empire : inventaires et documents), t. II, n° </ref>
   <ref sigle="Boutaric, Notices et extraits...">Edgard Boutaric, « Notices et extraits de documents inédits relatifs à l’histoire de France sous Philippe le Bel », dans <i>Notices et extraits des manuscrits de la Bibliothèque impériale et autres bibliothèques…</i>, t. XX, 2<sup>e</sup> partie, Paris, 1862,</ref>
   <ref sigle="Bovesse">Jean Bovesse, « Actes originaux inédits de souverains de France et d’Allemagne conservés aux Archives de l’État à Namur (1281-1373) », dans <i>Académie royale de Belgique. Bulletin de la Commission royale d’histoire</i>, t. 114, 1949, p. 299-421,</ref>
   <ref sigle="Brown, Subsidy and Reform">Elizabeth A. R. Brown, « Subsidy and reform in 1321 : the accounts of Najac and the policies of Philip V », dans <i>Traditio</i>, t. 27, 1971, p. 399-430 ; réimpr. dans ead., <i>Politics and Institutions in Capetian France</i>, Aldershot, 1991, art. VIII, à la</ref>
   <ref sigle="Brown, Assemblies...">Elizabeth A. R. Brown, « Assemblies of French towns in 1316 : some new texts », dans <i>Speculum</i>, t. 46, 1971, p. 282-301 ; réimpr. dans ead., <i>Politics and Institutions in Capetian France</i>, Aldershot, 1991, art. VI., à la</ref>
   <ref sigle="Brown, Reform and Resistance">Elizabeth A. R. Brown, « Reform and resistance to royal authority in Fourteenth-century France : the Leagues of 1314-1315 », dans <i>Parliaments, Estates and Representation</i>, t. 1, 1981, p. 109-137 ; réimpr. dans ead., <i>Politics and Institutions in Capetian France</i>, Aldershot, 1991, art. V, à la</ref>
   <ref sigle="Brown, Royal Salvation">Elizabeth A. R. Brown, « Royal salvation and needs of State in early Fourteenth-century France », dans ead., <i>The Monarchy of Capetian France and Royal Ceremonial</i>, Aldershot, 1991, art. IV, p. 1-56, à la</ref>
-  <ref sigle="Brown, Royal Marriage">Elizabeth A. R. Brown, <i>Royal Marriage, Royal Property, and the Patrimony of the Crown : Inalienability and the Prerogative in Fourteenth Century France</i>, Pasadena (Ca.), 1981 (<i>Humanities Working Paper</i>, 70),</ref>
+  <ref sigle="Brown, Royal Marriage">Elizabeth A. R. Brown, <i>Royal Marriage, Royal Property, and the Patrimony of the Crown : Inalienability and the Prerogative in Fourteenth Century France</i>, Pasadena (Ca.), 1981 (Humanities Working Paper, 70),</ref>
   <ref sigle="Brown, The king’s conundrum">Elizabeth A. R. Brown, « The king’s conundrum : endowing queens and loyal servants, ensuring salvation, and protecting the patrimony in Fourteenth-century France », dans <i>Medieval Futures : Attitudes to the Future in the Middle Ages</i>, éd. John Anthony Burrow et Ian P. Wei, Woodbridge, 2000, p. 115-165, à la</ref>
   <ref sigle="Brown, The double funeral">Elizabeth A. R. Brown, « The ceremonial of royal succession in Capetian France : the double funeral of Louis X », dans <i>Traditio</i>, t. 34, 1978, p. 227-271 ; réimpr. dans ead., <i>The Monarchy of Capetian France and Royal Ceremonial</i>, Aldershot, 1991, art. VII, à la</ref>
-  <ref sigle="Brown, Customary aids... pj">Elizabeth A. R. Brown, <i>Customary Aids and Royal Finances in Capetian France : the Marriage Aide of Philippe the Fair</i>, Cambridge (Mass.), 1992, pièce justificative n°</ref>
+  <ref sigle="Brown, Customary aids... pj">Elizabeth A. R. Brown, <i>Customary Aids and Royal Finances in Capetian France : the Marriage Aide of Philippe the Fair</i>, Cambridge (Mass.), 1992, pièce justificative n° </ref>
   <ref sigle="Brunel, Docs sur le Ponthieu">Clovis Brunel, « Documents sur le Pontieu conservés dans la collection de l’Ancient Correspondence au Public Record Office de Londres (1278-1337) », dans <i>Bulletin philologique et historique (jusqu’à 1715) du Comité des travaux historiques et scientifiques</i>, 1917, p. 231-277,</ref>
   <ref sigle="Brunel, Images">Ghislain Brunel, <i>Images du pouvoir royal. Les chartes décorées des Archives nationales (<pc>xiii</pc><sup>e</sup>-<pc>xv</pc><sup>e</sup> siècle)</i>, Paris, 2005,</ref>
   <ref sigle="Canellas">Angel Canellas Lopez, « La cancilleria del reino de Navarra desde Teobaldo I a Blanca », dans <i>J. Zurita. Cuadernos de historia</i>, t. 47-48, 1983, p. 71-138, planches</ref>
@@ -147,7 +65,7 @@
   <ref sigle="Catalogue Joursanvault"><i>Catalogue analytique des archives de M. le baron de Joursanvault</i> […], 2 t., Paris, 1838, n° </ref>
   <ref sigle="Castro">José Ramon Castro, <i>Archivo general de Navarra. Catalogo de la seccion de Comptos. Documentos</i>, t. I : <i>Años 842-1331</i>, Pampelune, 1952,</ref>
   <ref sigle="Champollion-Figeac, Lettres">Jacques-Joseph Champollion-Figeac, <i>Lettres de rois, reines et autres personnages des cours de France et d’Angleterre depuis Louis VII jusqu’à Henri IV tirées des archives de Londres par Bréquigny</i>, 2 t., Paris, 1839-1847 (Collection des documents inédits sur l’histoire de France. 1<sup>re</sup> série : histoire politique), t. </ref>
-  <ref sigle="Chaplais">Pierre Chaplais, <i>The War of Saint-Sardos (1323-1325). Gascon Correspondence and Diplomatic Documents</i>, Londres, 1954 (<i>Camden Third Series</i>, 87),</ref>
+  <ref sigle="Chaplais">Pierre Chaplais, <i>The War of Saint-Sardos (1323-1325). Gascon Correspondence and Diplomatic Documents</i>, Londres, 1954 (Camden Third Series, 87),</ref>
   <ref sigle="Charon">Philippe Charon, <i>La principauté d’Évreux au <pc>xiv</pc><sup>e</sup> siècle</i>, thèse de doctorat, histoire, université Paris I, 2006, 2 t., dactyl.,</ref>
   <ref sigle="Charrault, « La chartreuse de Bellary (1209-1793) », dans Bulletin de la Société nivernaise des lettres, sciences et arts, t. 22, 1908">abbé Lucien Charrault, « La chartreuse de Bellary (1209-1793) », dans <i>Bulletin de la Société nivernaise des lettres, sciences et arts</i>, t. 22, 1908, p. 541-632, à la</ref>
   <ref sigle="Cheyette">Fredric Cheyette, « Paris B.N. ms. latin 5954 : the professional papers of an English ambassador on the eve of the Hundred Year’s war », dans <i>Économies et sociétés au Moyen Âge. Mélanges offerts à Édouard Perroy</i>, Paris, 1973 (Publications de la Sorbonne. Études, 5), p. 400-413,</ref>
@@ -155,19 +73,19 @@
   <ref sigle="J. Claustre, dans Histoire de la mémoire judiciaire">Julie Claustre, « Naissance d’une mémoire judiciaire : les débuts de la “clergie” du châtelet de Paris », dans <i>Une histoire de la mémoire judiciaire</i>, éd. Olivier Poncet et Isabelle Storez-Brancourt, Paris, 2009 (Études et rencontres de l’École des chartes, 29), p. 151-161, à la</ref>
   <ref sigle="Constans">Léopold Constans, <i>Le Livre de l’épervier, cartulaire de la commune de Millau (Aveyron), suivi d’autres documents relatifs au Rouergue</i>, Montpellier/Paris, 1882,</ref>
   <ref sigle="Coüard-Luys">Émile Coüard-Luys, <i>Cartulaire de Saint-Spire au diocèse de Paris</i>, Rambouillet, 1882</ref>
-  <ref sigle="Couderc et Rigal">Camille Couderc et Jean-Louis Rigal, <i>Cartulaire et documents de l’abbaye de Nonenque</i>, Rodez, s. d. (<i>Archives historiques du Rouergue</i>, 18),</ref>
+  <ref sigle="Couderc et Rigal">Camille Couderc et Jean-Louis Rigal, <i>Cartulaire et documents de l’abbaye de Nonenque</i>, Rodez, s. d. (Archives historiques du Rouergue, 18),</ref>
   <ref sigle="de Potter">Frans De Potter, <i>Second cartulaire de Gand</i>, Gand, [1886],</ref>
   <ref sigle="Delisle, Les cartulaires de Bricquebec">Léopold Delisle, « Les cartulaires de la baronnie de Bricquebec », dans <i>Annuaire du département de la Manche</i>, 1899 ; tiré à part, Saint-Lô, 1899,</ref>
   <ref sigle="Delisle, Essai de restitution…">Léopold Delisle, « Essai de restitution d’un volume des <i>Olim</i> perdu depuis le <pc>xvi</pc><sup>e</sup> siècle et jadis connu sous le nom de <i>Livre pelu noir</i>, ou Livre des enquêtes de Nicolas de Chartres », dans Edgard Boutaric, <i>Actes du parlement de Paris. I<sup>ère</sup> série : de l’an 1254 à l’an 1328</i>, 2 t., Paris, 1863-1867 (Archives de l’Empire : inventaires et documents), t. I, appendice, p. 297-464, à la</ref>
   <ref sigle="Denifle"> Heinrich Denifle et Émile Châtelain, <i>Chartularium universitatis Parisiensis…</i>, t. II : <i>Ab anno MCCLXXXVI usque ad annum MCCCL</i>, Paris, 1891,</ref>
   <ref sigle="Depoin, Cartulaire de l’Hôtel-Dieu de Pontoise">Joseph Depoin, <i>Cartulaire de l’Hôtel-Dieu de Pontoise publié avec des notes d’après les originaux</i>, Pontoise, 1886,</ref>
   <ref sigle="Depoin, Le prieuré de Saint-Germain">Joseph Depoin, <i>Le prieuré de Saint-Germain-en-Laye. Origines et cartulaire</i>, Versailles, 1895,</ref>
-  <ref sigle="Depoin">Joseph Depoin et Adolphe Dutilleux, <i>Cartulaire de l’abbaye de Maubuisson (Notre-Dame-la-Royale)</i>, 2 t., Pontoise, 1890-1913 (<i>Documents édités par la Société historique du Vexin</i>), </ref>
+  <ref sigle="Depoin">Joseph Depoin et Adolphe Dutilleux, <i>Cartulaire de l’abbaye de Maubuisson (Notre-Dame-la-Royale)</i>, 2 t., Pontoise, 1890-1913 (Documents édités par la Société historique du Vexin), </ref>
   <ref sigle="Deschamps">Paul Deschamps, « Les lettres closes au début du <pc>xiv</pc><sup>e</sup> siècle », dans <i>Le Moyen Âge</i>, t. 36, 1926, p. 333-347, à la</ref>
   <ref sigle="Devillers">Léopold Devillers, <i>Monuments pour servir à l’histoire des provinces de Namur, de Hainaut et de Luxembourg</i>, t. III, Bruxelles, 1874 (Collection des chroniques belges inédites, 5),</ref>
   <ref sigle="Diegerick">Isidore-Lucien-Antoine Diegerick, <i>Inventaire analytique et chronologique des chartes et documents appartenant aux archives de la ville d’Ypres</i>, 7 t., Bruges, 1853-1868,</ref>
-  <ref sigle="Dillay">Madeleine Dillay, <i>Les chartes de franchises du Poitou</i>, Paris, 1927 (<i>Catalogue des chartes de franchises de la France</i>, 1),</ref>
-  <ref sigle="Douët d’Arcq, Comptes">Louis-Claude Douët d’Arcq, <i>Comptes de l’argenterie des rois de France au <pc>xiv</pc><sup>e</sup> siècle</i>, Paris, 1851 (<i>Société de l’histoire de France</i>)</ref>
+  <ref sigle="Dillay">Madeleine Dillay, <i>Les chartes de franchises du Poitou</i>, Paris, 1927 (Catalogue des chartes de franchises de la France, 1),</ref>
+  <ref sigle="Douët d’Arcq, Comptes">Louis-Claude Douët d’Arcq, <i>Comptes de l’argenterie des rois de France au <pc>xiv</pc><sup>e</sup> siècle</i>, Paris, 1851 (Société de l’histoire de France)</ref>
   <ref sigle="Douët d’Arcq, BEC 1856">Louis-Claude Douët d’Arcq, « Lettres de rémission pour Jean Brunet, prévôt de Bourges (1334) », dans <i>Bibliothèque de l’École des chartes</i>, t. 17, 1856, p. 54-75</ref>
   <ref sigle="Dubrulle">abbé Henry Dubrulle, « Lettres des rois de France conservées dans le fonds de la cathédrale de Cambrai aux archives départementales du Nord », dans <i>Bulletin de la Société d’études de la province de Cambrai</i>, t. 4, 1902, p. 233-255 et t. 5, 1903, p. 39-57 et p. 174-192 ; tiré à part, Lille, 1903</ref>
   <ref sigle="Duchesne, Ducs, preuves de Bourgogne">André Du Chesne, <i>Histoire généalogique des ducs de Bourgongne de la maison de France</i>, Paris, 1628, <i>Preuves de la généalogie des ducs de Bourgongne</i> […]</ref>
@@ -180,7 +98,7 @@
   <ref sigle="Duplès-Agier, BEC 1853">Henri Duplès-Agier, « Ordonnances inédites de Philippe le Bel et de Philippe le Long sur la police de la pêche fluviale », dans <i>Bibliothèque de l’École des chartes</i>, t. 14, 1853, p. 43-55, à la</ref>
   <ref sigle="Espinas, Douai">Georges Espinas, <i>La vie urbaine de Douai au Moyen Âge</i>, t. IV : <i>Pièces justificatives : <pc>xiv</pc><sup>e</sup> siècle</i>, Paris, 1913</ref>
   <ref sigle="Espinas, Recueil">Georges Espinas, <i>Recueil de documents relatifs à l’histoire du droit municipal en France des origines à la Révolution française : Artois</i>, 3 t., Paris, 1934-1943 (Société d’histoire du droit)</ref>
-  <ref sigle="Espinas - Verlinden">Georges Espinas, Charles Verlinden et Jan Buntinx, <i>Privilèges et chartes de franchise de la Flandre</i>, 2 t., Bruxelles, 1959-1961 (<i>Recueil des anciennes coutumes de la Belgique</i>),</ref>
+  <ref sigle="Espinas - Verlinden">Georges Espinas, Charles Verlinden et Jan Buntinx, <i>Privilèges et chartes de franchise de la Flandre</i>, 2 t., Bruxelles, 1959-1961 (Recueil des anciennes coutumes de la Belgique),</ref>
   <ref sigle="Finke I">Heinrich Finke, Acta Aragonensia. <i>Quellen zur deutschen, italienischen, französischen, spanischen, zur Kirchen- und Kulturgeschichten aus der diplomatischen Korrespondenz Jaymes II</i>, 3 t., Berlin/Leipzig, 1908-1922, t. I,</ref>
   <ref sigle="Finot">Jules Finot, <i>Étude historique sur les relations commerciales entre la France et la Flandre au Moyen Âge</i>, Paris, 1894</ref>
   <ref sigle="Finot pj">Jules Finot, <i>Étude historique sur les relations commerciales entre la France et la Flandre au Moyen Âge</i>, Paris, 1894, pièce justificative n° </ref>
@@ -199,21 +117,21 @@
   <ref sigle="Goni Gaztambide dans Principe de Viana 1962">Jose Goñi Gaztambide, « Los obispos de Pamplona del siglo <pc>xiv</pc> », dans <i>Principe de Viana</i>, t. 23, 1962, p. 5-194,</ref>
   <ref sigle="Goni Gaztambide, Catalogo">Jose Goñi Gaztambide, <i>Catalogo del archivo catedral de Pamplona</i>, t. I : <i>829-1500</i>, Pampelune, 1965,</ref>
   <ref sigle="Gosset">[Claude Gosset], <i>Ordonnances, édits, déclarations, arrests et lettres patentes concernant l’autorité et la jurisdiction de la chambre des comptes de Paris</i> […], 2 t., Paris, 1726-1728, t. </ref>
-  <ref sigle="Gouron">Marcel Gouron, <i>Les chartes de franchises de Guienne et Gascogne</i>, Paris, 1935 (<i>Catalogue des chartes de franchises de la France</i>, 2),</ref>
-  <ref sigle="Grillon et Etchechoury, Le chartrier de Saint-Astier">Louis Grillon et Maïté Etchechoury, <i>Le chartrier de l’abbaye Saint-Pierre de Saint-Astier</i>, [Périgueux], 2007 (<i>Archives en Dordogne. Études et documents</i>, 4),</ref>
+  <ref sigle="Gouron">Marcel Gouron, <i>Les chartes de franchises de Guienne et Gascogne</i>, Paris, 1935 (Catalogue des chartes de franchises de la France, 2),</ref>
+  <ref sigle="Grillon et Etchechoury, Le chartrier de Saint-Astier">Louis Grillon et Maïté Etchechoury, <i>Le chartrier de l’abbaye Saint-Pierre de Saint-Astier</i>, [Périgueux], 2007 (Archives en Dordogne. Études et documents, 4),</ref>
   <ref sigle="Guesnon">Adolphe Guesnon, <i>Inventaire chronologique des chartes de la ville d’Arras. Documents</i>, s. d. n. l.,</ref>
   <ref sigle="Guignard">Philippe Guignard, « Mandement de Philippe le Long relatif aux Juifs de Troyes », dans <i>Bibliothèque de l’École des chartes</i>, t. 10, 1848-1849, p. 413-415, aux </ref>
   <ref sigle="Guigue">Marie-Claude Guigue, <i>Cartulaire municipal de la ville de Lyon : privilèges, franchises, libertés et autres titres de la commune. Recueil formé au <pc>xiv</pc><sup>e</sup> siècle par Étienne de Villeneuve</i> […], Lyon, 1876,</ref>
   <ref sigle="Guilhiermoz, BEC 1902">Paul Guilhiermoz, « Ordonnance inédite de Philippe le Bel sur la police de la pêche fluviale », dans <i>Bibliothèque de l’École des chartes</i>, t. 63, 1902, p. 331-337, à la</ref>
   <ref sigle="Guiraud">Jean Guiraud, <i>Cartulaire de Notre-Dame de Prouille, précédé d’une étude sur l’albigéisme languedocien aux <pc>xii</pc><sup>e</sup> et <pc>xiii</pc><sup>e</sup> siècles</i>, 3 t., Paris, 1907,</ref>
   <ref sigle="Guynemer">Paul Guynemer, <i>Cartulaire de Royallieu</i>, Compiègne, 1911,</ref>
-  <ref sigle="Haigneré">abbé Daniel Haigneré, <i>Les chartes de Saint-Bertin, d’après le grand cartulaire de dom Charles-Joseph Dewitte, dernier archiviste de ce monastère</i>, t. II : <i>1241-1380</i>, Saint-Omer, 1891 (<i>Société des antiquaires de la Morinie</i>),</ref>
+  <ref sigle="Haigneré">abbé Daniel Haigneré, <i>Les chartes de Saint-Bertin, d’après le grand cartulaire de dom Charles-Joseph Dewitte, dernier archiviste de ce monastère</i>, t. II : <i>1241-1380</i>, Saint-Omer, 1891 (Société des antiquaires de la Morinie),</ref>
   <ref sigle="Herbomez, Annales 23">Armand d’Herbomez, « Comment la commune de Tournai s’agrandit aux dépens du comté de Hainaut à la fin du <pc>xiii</pc><sup>e</sup> siècle », dans <i>Annales du cercle archéologique de Mons</i>, t. 23, p. 395-444 ; tiré à part, Mons, 1892</ref>
   <ref sigle="Herbomez, &quot;Philippe...&quot;">Armand d’Herbomez, « Philippe le Bel et les Tournaisiens », dans <i>Compte-rendus des séances de la Commission royale d’histoire, ou recueil de ses bulletins</i>, 5<sup>e</sup> série, t. 3, 1893, p. 19-197,</ref>
   <ref sigle="Herbomez, Chartes de l’abbaye, II">Armand d’Herbomez, <i>Chartes de l’abbaye de Saint-Martin de Tournai</i>, t. II, Bruxelles, 1901</ref>
   <ref sigle="Herbomez, BEC 1898">Armand d’Herbomez, « Notes et documents pour servir à l’histoire des rois fils de Philippe-le-Bel », dans <i>Bibliothèque de l’École des chartes</i>, t. 59, 1898, p. 497-532 et 689-711, à la</ref>
-  <ref sigle="Hoop">Félix-Henri d’Hoop, <i>Cartularium : recueil des chartes du prieuré de Saint-Bertin à Poperinghe et de ses dépendances à Bas-Warneton et à Couckelaere, déposées aux archives de l’État à Gand</i>, Bruges, 1870 (<i>Recueil de chroniques, chartes et autres documents concernant l’histoire et les antiquités de la Flandre publié par la Société d’émulation de Bruges, 1<sup>re</sup> série : chroniques des monastères de Flandre</i>),</ref>
-  <ref sigle="Huillard">Alphonse Huillard-Bréholles, <i>Titres de la maison ducale de Bourbon</i>, t. I, Paris, 1867 (<i>Archives de l’Empire : inventaires et documents</i>), n° </ref>
+  <ref sigle="Hoop">Félix-Henri d’Hoop, <i>Cartularium : recueil des chartes du prieuré de Saint-Bertin à Poperinghe et de ses dépendances à Bas-Warneton et à Couckelaere, déposées aux archives de l’État à Gand</i>, Bruges, 1870 (Recueil de chroniques, chartes et autres documents concernant l’histoire et les antiquités de la Flandre publié par la Société d’émulation de Bruges, 1<sup>re</sup> série : chroniques des monastères de Flandre),</ref>
+  <ref sigle="Huillard">Alphonse Huillard-Bréholles, <i>Titres de la maison ducale de Bourbon</i>, t. I, Paris, 1867 (Archives de l’Empire : inventaires et documents), n° </ref>
   <ref sigle="Irurita">Maria Angeles Irurita Lusarreta, <i>El municipio de Pamplona en la Edad Media</i>, Pampelune, 1959,</ref>
   <ref sigle="Jullien de Pomerol">Marie-Hélène Jullien de Pomerol, <i>Sources de l’histoire des universités françaises au Moyen Âge. Université d’Orléans</i>, Paris, 1978, n° </ref>
   <ref sigle="Lacabane dans BEC 1842">Léon Lacabane, « Dissertations sur l’histoire de France au <pc>xiv</pc><sup>e</sup> siècle. I : mort de Philippe le Bel, avènement de Louis Hutin », dans <i>Bibliothèque de l’École des chartes</i>, t. 3, 1841-1842, p. 1-16, à la</ref>
@@ -226,14 +144,14 @@
   <ref sigle="BEC 1917">Charles-Victor Langlois, « Gilles d’Audenarde », dans <i>Bibliothèque de l’École des chartes</i>, t. 78, 1917, p. 490-491, à la</ref>
   <ref sigle="Langlois, Formulaires...">Charles-Victor Langlois, « Formulaires de lettres du <pc>xii</pc><sup>e</sup>, du <pc>xiii</pc><sup>e</sup> et du <pc>xiv</pc><sup>e</sup> siècles », art. 1 : « Notice et extraits du manuscrit latin 4763 de la Bibliothèque nationale », dans <i>Notices et extraits des manuscrits de la Bibliothèque nationale et autres bibliothèques publiés par l’Académie des inscriptions et belles-lettres</i>, t. XXXIV, Paris, 1891, p. 1-32</ref>
   <ref sigle="Langlois, Formulaires de lettres..., t. XXXV, 2e partie">Charles-Victor Langlois, « Formulaires de lettres du <pc>xii</pc><sup>e</sup>, du <pc>xiii</pc><sup>e</sup> et du <pc>xiv</pc><sup>e</sup> siècles », art. 6 : « Les plus anciens formulaires de la chancellerie de France », dans <i>Notices et extraits des manuscrits de la Bibliothèque nationale et autres bibliothèques publiés par l’Académie des inscriptions et belles-lettres</i>, t. XXXV, 2<sup>e</sup> partie, Paris, 1897, p. 793-830, à la</ref>
-  <ref sigle="Langlois, Textes relatifs à l'histoire du Parlement">Charles-Victor Langlois, <i>Textes relatifs à l’histoire du Parlement depuis les origines jusqu’en 1314</i>, Paris, 1888 (<i>Collection de textes pour servir à l’étude et à l’enseignement de l’histoire</i>),</ref>
+  <ref sigle="Langlois, Textes relatifs à l'histoire du Parlement">Charles-Victor Langlois, <i>Textes relatifs à l’histoire du Parlement depuis les origines jusqu’en 1314</i>, Paris, 1888 (Collection de textes pour servir à l’étude et à l’enseignement de l’histoire),</ref>
   <ref sigle="Lauer, Bulletin de géographie, pj">Philippe Lauer, « Une enquête au sujet de la frontière française dans le Val d’Aran sous Philippe le Bel », dans <i>Bulletin du Comité des travaux historiques et scientifiques. Section de géographie</i>, t. 35, 1920, p. 17-38, pièce justificative n° </ref>
   <ref sigle="Laurent">Henri Laurent, <i>Actes et documents anciens intéressant la Belgique conservés aux archives de l’État à Vienne (Haus–, Hof– und Staatsarchiv. Niederländische Urkunden), 1196-1356</i>, Bruxelles, 1933,</ref>
   <ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref>
   <ref sigle="Le Brasseur">Pierre Le Brasseur, <i>Histoire civile et ecclésiastique du comté d’Évreux</i> […], Paris, 1722,</ref>
   <ref sigle="Le Grand">Léon-Frédéric Le Grand, « Les Quinze-Vingts, depuis leur fondation jusqu’à leur translation au faubourg Saint-Antoine (<pc>xiii</pc><sup>e</sup>-<pc>xviii</pc><sup>e</sup> siècle) », dans <i>Mémoires de la Société de l’histoire de Paris et de l’Île-de-France</i>, t. 13, 1886, p. 107-260 et t. 14, 1887, p. 1-238, au t. </ref>
   <ref sigle="Lebeuf, Auxerre">abbé Jean Lebeuf, <i>Mémoires concernant l’histoire civile et ecclésiastique d’Auxerre, continués jusqu’à nos jours avec addition de nouvelles preuves et annotations</i>, éd. Ambroise Challe et Maximilien Quentin, 4 t., Auxerre/Paris, 1848-1855, t. </ref>
-  <ref sigle="Leibnitz n°">Gottfried Wilhem von Leibniz, <i>Codex juris gentium diplomaticus <i>[…]</i> ex manuscriptis præsertim Bibliothecæ augustæ guelfebytanæ codicibus et monumentis regiorum aliorumque archivorum ac propriis denique collectaneis</i>, Hanovre, 1693, n°</ref>
+  <ref sigle="Leibnitz n°">Gottfried Wilhem von Leibniz, <i>Codex juris gentium diplomaticus <i>[…]</i> ex manuscriptis præsertim Bibliothecæ augustæ guelfebytanæ codicibus et monumentis regiorum aliorumque archivorum ac propriis denique collectaneis</i>, Hanovre, 1693, n° </ref>
   <ref sigle="Leibnitz, I, 1">Gottfried Wilhem von Leibniz, <i>Codex juris gentium diplomaticus <i>[…]</i> ex manuscriptis præsertim Bibliothecæ augustæ guelfebytanæ codicibus et monumentis regiorum aliorumque archivorum ac propriis denique collectaneis</i>, Hanovre, 1693</ref>
   <ref sigle="Lemaire et Bouchot">Henri Bouchot et Emmanuel Lemaire, <i>Le livre rouge de l’hôtel de ville de Saint-Quentin</i>, Saint-Quentin, 1881,</ref>
   <ref sigle="Le Noir 50">le P. Jacques-Louis Le Noir, <i>Preuves généalogiques et historiques de la maison de Harcourt</i>, éd. marquis Harcourt, Paris, 1907, n° 50</ref>
@@ -244,8 +162,8 @@
   <ref sigle="Limburg-Stirum">comte Thierry-Joseph-Marie de Limburg-Stirum, <i>Codex diplomaticus Flandriæ inde ab anno 1296 ad usque 1327, ou recueil de documents relatifs aux guerres et dissensions suscitées par Philippe-le-Bel, roi de France, contre Gui de Dampierre, comte de Flandre</i>, t. II, Bruges, 1889,</ref>
   <ref sigle="Longnon I">Auguste Longnon, <i>Documents relatifs au comté de Champagne, 1172-1361</i>, 3 t., Paris, 1901-1914 (Collection de documents inédits sur l’histoire de France), t. I,</ref>
   <ref sigle="Magen">Adolphe Magen et Georges Tholin, <i>Archives municipales d’Agen. Chartes, première série (1189-1328)</i>, Villeneuve-sur-Lot, 1876,</ref>
-  <ref sigle="Comptes royaux">François Maillard, <i>Comptes royaux (1314-1328)</i>, dir. Robert Fawtier, 2 t., Paris, 1961 (<i>Recueil des historiens de la France. Documents financiers</i>, 4),</ref>
-  <ref sigle="CR n°"> François Maillard, <i>Comptes royaux (1314-1328)</i>, dir. Robert Fawtier, 2 t., Paris, 1961 (<i>Recueil des historiens de la France. Documents financiers</i>, 4), n° </ref>
+  <ref sigle="Comptes royaux">François Maillard, <i>Comptes royaux (1314-1328)</i>, dir. Robert Fawtier, 2 t., Paris, 1961 (Recueil des historiens de la France. Documents financiers, 4),</ref>
+  <ref sigle="CR n°"> François Maillard, <i>Comptes royaux (1314-1328)</i>, dir. Robert Fawtier, 2 t., Paris, 1961 (Recueil des historiens de la France. Documents financiers, 4), n° </ref>
   <ref sigle="de Soultrait">comte de Soultrait, <i>Inventaires des titres de Nevers de l’abbé de Marolles</i> […], Nevers, 1873,</ref>
   <ref sigle="Martin-Chabot">Eugène Martin-Chabot, <i>Les archives de la cour des comptes, aides et finances de Montpellier avec un essai de restitution des premiers registres de sénéchaussée</i>, Paris, 1907 (Université de Paris. Bibliothèque de la faculté des Lettres, 22),</ref>
   <ref sigle="Martinena Ruiz">Juan José Martinena Ruiz, <i>Catálogo documental de la Real Collegiata de Roncesvalles (1301-1500)</i>, Pampelune, 1979 (Coleccion de textos medievales de la Institucion Principe de Viana, 6),</ref>
@@ -262,7 +180,7 @@
   <ref sigle="Mizzi X"> révérend Jos. Mizzi, <i>Catalogue of the Records of the Order of St. John of Jerusalem in the Royal Malta Library</i>, t. X, Malte, 1969,</ref>
   <ref sigle="Moreau, Recueil de titres... Périgueux">[Jacob-Augustin-Antoine Moreau de Vormes], <i>Recueil de titres et autres pièces justificatives employées dans le mémoire sur la constitution politique de la ville et cité de Périgueux</i> […], Paris, 1775,</ref>
   <ref sigle="Morel, III">chanoine Émile-Épiphanius Morel, <i>Cartulaire de l’abbaye de Saint-Corneille de Compiègne</i>, t. III, éd. Louis Carolus-Barré, Paris, 1977</ref>
-  <ref sigle="Morel n°"> chanoine Émile-Épiphanius Morel, <i>Cartulaire de l’abbaye de Saint-Corneille de Compiègne</i>, t. III, éd. Louis Carolus-Barré, Paris, 1977, n°</ref>
+  <ref sigle="Morel n°"> chanoine Émile-Épiphanius Morel, <i>Cartulaire de l’abbaye de Saint-Corneille de Compiègne</i>, t. III, éd. Louis Carolus-Barré, Paris, 1977, n° </ref>
   <ref sigle="O. Morel, pj">Octave Morel, <i>La Grande Chancellerie royale et l’expédition des lettres royaux de l’avènement de Philippe de Valois à la fin du <pc>xiv</pc><sup>e</sup> siècle (1328-1400)</i>, Paris, 1900 (Mémoires et documents publiés par la Société de l’École des chartes, 3), pièce justificative</ref>
   <ref sigle="Moutié et de Dion, Cartulaire de Saint-Thomas d’Epernon">Auguste Moutié et Adolphe de Dion, <i>Cartulaires de Saint-Thomas d’Épernon et de Notre-Dame de Maintenon</i> […], s. d. n. l.,</ref>
   <ref sigle="Müller">abbé Eugène Müller, <i>Le prieuré de Saint-Leu d’Esserent : cartulaire (1080-1538)</i>, Pontoise, 1901,</ref>
@@ -274,15 +192,15 @@
   <ref sigle="Petit, Ducs">Ernest Petit, <i>Histoire des ducs de Bourgogne de la race capétienne, avec des documents inédits et des pièces justificatives</i>, 9 t., Paris/Dijon, 1885-1905, n° </ref>
   <ref sigle="Pinson, dans Annales du Gâtinais">Paul Pinson, « Histoire de l’abbaye de Villiers au diocèse de Sens », dans <i>Annales de la Société historique et archéologique du Gâtinais</i>, t. 11, 1893, p. 1-125, à la</ref>
   <ref sigle="Plancher">le P. Urbain Plancher, <i>Histoire générale et particulière de Bourgogne</i> […], 2 t., Dijon, 1739-1741, t. </ref>
-  <ref sigle="Port, p.">Célestin Port, « Livre de Guillaume le Maire », dans <i>Mélanges historiques. Choix de documents</i>, t. II, Paris, 1877 (<i>Collection de documents inédits sur l’histoire de France</i>), p. </ref>
+  <ref sigle="Port, p.">Célestin Port, « Livre de Guillaume le Maire », dans <i>Mélanges historiques. Choix de documents</i>, t. II, Paris, 1877 (Collection de documents inédits sur l’histoire de France), p. </ref>
   <ref sigle="Poux">Joseph Poux, « Lettres de Philippe le Bel pour le pays de Sabart, dans le haut comté de Foix (131-1314) », dans <i>Bulletin philologique et historique du Comité des travaux historiques et scientifiques</i>, 1900, p. 252-258,</ref>
-  <ref sigle="Prost et Bougenot">Bernard Prost et Étienne-Symphorien Bougenot, <i>Cartulaire de Hugues de Chalon (1220-1319)</i>, Lons-le-Saunier, 1904 (<i>Publications historiques et archéologiques de la Société d’émulation du Jura</i>)</ref>
-  <ref sigle="Ramière">Jean Ramière de Fortanier, <i>Chartes de franchises du Lauragais</i>, Paris, 1939 (<i>Société d’histoire du droit. Recueil de documents relatifs à l’histoire du droit municipal en France des origines à la Révolution</i>),</ref>
+  <ref sigle="Prost et Bougenot">Bernard Prost et Étienne-Symphorien Bougenot, <i>Cartulaire de Hugues de Chalon (1220-1319)</i>, Lons-le-Saunier, 1904 (Publications historiques et archéologiques de la Société d’émulation du Jura)</ref>
+  <ref sigle="Ramière">Jean Ramière de Fortanier, <i>Chartes de franchises du Lauragais</i>, Paris, 1939 (Société d’histoire du droit. Recueil de documents relatifs à l’histoire du droit municipal en France des origines à la Révolution),</ref>
   <ref sigle="The Registers of Roger Martival, III"><i>The Registers of Roger Martival, Bishop of Salisbury (1315-1339)</i>, t. III : <i>Royal Writs</i>, éd. Susan Reynolds, Torquay, 1965 (The Canterbury and York Society, 59)</ref>
   <ref sigle="Registrum Ade de Orleton"><i>Registrum Ade de Orleton, episcopi Herefordensis, A. D. 1317-1327</i>, éd. A. T. Bannister, 1908 (The Canterbury and York Society, 5)</ref>
   <ref sigle="Registrum Ricardi de Swinfield"><i>Registrum Ricardi de Swinfield, episcopi Herefordensis, A. D. 1283-1317</i>, éd. William W. Capes, Londres, 1909 (The Canterbury and York Society, 6)</ref>
   <ref sigle="Regla Campistol II app.">Juan Reglá Campistol, <i>Francia, la corona de Aragón y la frontera pirenaica. La lucha por el Valle de Arán (siglos <pc>xiii-xiv</pc>)</i>, t. II, Madrid, 1951 (Consejo superior de investigaciones cientificas. Escuela de estudios medievales. Estudios, 18), appendice</ref>
-  <ref sigle="Renouard">Yves Renouard, <i>Rôles gascons</i>, t. IV, dir. Robert Fawtier, Paris, 1962 (<i>Collection de documents inédits sur l’histoire de France</i>),</ref>
+  <ref sigle="Renouard">Yves Renouard, <i>Rôles gascons</i>, t. IV, dir. Robert Fawtier, Paris, 1962 (Collection de documents inédits sur l’histoire de France),</ref>
   <ref sigle="Rigal et Verlaguet">Jean-Louis Rigal et Pierre-Aloïs Verlaguet, <i>Notes pour servir à l’histoire du Rouergue</i>, Rodez, 1913 (Publications de la Société des lettres, sciences et arts de l’Aveyron),</ref>
   <ref sigle="Robert">Gaston Robert, <i>Documents relatifs au comté de Porcien (1134-1464)</i>, Monaco/Paris, 1935,</ref>
   <ref sigle="Rosenzweig">Louis Rosenzweig, <i>Cartulaire général du Morbihan : recueil de documents authentiques pour servir à l’histoire des pays qui forment ce département</i>, t. I, Vannes, 1895</ref>
@@ -294,21 +212,21 @@
   <ref sigle="Schmidt">Hans-Günther Schmidt, <i>Administrative Korrespondenz der französischen Könige um 1300. Edition des « Formelbuches » BNF ms. lat. 4763 : Verwaltung – Gerichtsbarkeit – Kanzlei</i>, Göttingen, 1997,</ref>
   <ref sigle="Servois">Gustave Servois, « Documents inédits sur l’avènement de Philippe le Long », dans <i>Annuaire-bulletin de la Société de l’histoire de France</i>, 1864, 2<sup>e</sup> partie, p. 44-79,</ref>
   <ref sigle="Soyer">Jacques Soyer, « Les actes des souverains antérieurs au <pc>xv</pc><sup>e</sup> siècle conservés dans les archives départementales du Cher, transcrits in-extenso, avec des analyses et un index des noms propres », dans <i>Mémoires de la Société des antiquaires du Centre</i>, t. 26, 1902, p. 27-144 et t. 28, 1904, p. 93-200 ; tiré à part, 2 t., Bourges, 1903-1905, t. </ref>
-  <ref sigle="Terroine">Anne Terroine et Lucie Fossier, <i>Chartes et documents de l’abbaye de Saint-Magloire</i>, t. II, Paris, 1966 (<i>Documents, études et répertoires publiés par l’Institut de recherche et d’histoire des textes</i>, 12),</ref>
+  <ref sigle="Terroine">Anne Terroine et Lucie Fossier, <i>Chartes et documents de l’abbaye de Saint-Magloire</i>, t. II, Paris, 1966 (Documents, études et répertoires publiés par l’Institut de recherche et d’histoire des textes, 12),</ref>
   <ref sigle="Thierry I">Augustin Thierry, <i>Recueil des monuments inédits de l’histoire du Tiers-État</i>, 1<sup>re</sup> série : <i>Chartes, coutumes, actes municipaux, statuts des corporations d’arts et métiers des villes et communes de France. Région du Nord</i>, t. I : <i>Contenant les pièces relatives à l’histoire de la ville d’Amiens</i> […], 1850 (Collection des documents inédits sur l’histoire de France. 1<sup>re</sup> série : histoire politique),</ref>
   <ref sigle="Thierry IV">Augustin Thierry, <i>Recueil des monuments inédits de l’histoire du Tiers-État</i>, 1<sup>re</sup> série : <i>Chartes, coutumes, actes municipaux, statuts des corporations d’arts et métiers des villes et communes de France. Région du Nord</i>, t. IV : <i>Contenant les pièces relatives à l’histoire municipale d’Abbeville et à celles des villes, bourgs et villages de la Basse Picardie</i>, Paris, 1870 (Collection des documents inédits sur l’histoire de France. 1<sup>re</sup> série : histoire politique),</ref>
   <ref sigle="A. Thomas">Antoine Thomas, « Charles IV le Bel à Villefranche en Limousin, aujourd’hui Masléon (Haute-Vienne), le 29 février 1324 », dans <i>Bibliothèque de l’École des chartes</i>, t. 89, 1928, p. 169-174, à la</ref>
   <ref sigle="Histoire ecclésiastique du diocèse de Coutances, II">René Toustain de Billy, <i>Histoire ecclésiastique du diocèse de Coutances</i>, éd. François Dolbet [et Pierre-Alexandre Héron], 3 t., Rouen, 1874-1886 (Société de l’histoire de la Normandie), t. II</ref>
-  <ref sigle="Tuetey">Alexandre <pc>Tuetey</pc>, <i>Inventaire analytique des livres de couleur et bannières du Châtelet de Paris</i>, Paris, 1899-1907, t. I,</ref>
+  <ref sigle="Tuetey">Alexandre Tuetey, <i>Inventaire analytique des livres de couleur et bannières du Châtelet de Paris</i>, Paris, 1899-1907, t. I,</ref>
   <ref sigle="Vaissète">dom Jean-Joseph Vaissète et dom Claude de Vic, <i>Histoire générale du Languedoc</i> […], complétée par Auguste Molinier, Charles Robert, Paul Meyer et al., 15 t., Toulouse, 1872-1905, t. </ref>
   <ref sigle="Van der Linden">Herman Vander Linden, « Les relations politiques de la Flandre avec la France au <pc>xiv</pc><sup>e</sup> siècle », dans <i>Académie royale de Belgique. Bulletin de la Commission royale d’histoire</i>, 5<sup>e</sup> série, t. 3, 1895, p. 449-523,</ref>
   <ref sigle="Van Duyse">Prudent Van Duyse et Edmond de Busscher, <i>Inventaire analytique des chartres <i>(sic)</i> et documents appartenant aux archives de la ville de Gand</i>, Gand, 1867, </ref>
   <ref sigle="Verkooren">Alphonse Verkooren, <i>Inventaire des chartes et cartulaires du Luxembourg (comté puis duché)</i>, 5 t., Bruxelles, 1902-1921, t. II,</ref>
-  <ref sigle="Viard, t.">Jules Viard, <i>Documents parisiens du règne de Philippe VI de Valois (1328-1350) extraits des registres de la chancellerie</i>, 2 t., Paris, 1899-1900 (<i>Société de l’histoire de France</i>, 21 et 22), t. </ref>
-  <ref sigle="Viard, I">Jules Viard, <i>Documents parisiens du règne de Philippe VI de Valois (1328-1350) extraits des registres de la chancellerie</i>, 2 t., Paris, 1899-1900 (<i>Société de l’histoire de France</i>, 21 et 22), t. I</ref>
+  <ref sigle="Viard, t.">Jules Viard, <i>Documents parisiens du règne de Philippe VI de Valois (1328-1350) extraits des registres de la chancellerie</i>, 2 t., Paris, 1899-1900 (Société de l’histoire de France, 21 et 22), t. </ref>
+  <ref sigle="Viard, I">Jules Viard, <i>Documents parisiens du règne de Philippe VI de Valois (1328-1350) extraits des registres de la chancellerie</i>, 2 t., Paris, 1899-1900 (Société de l’histoire de France, 21 et 22), t. I</ref>
   <ref sigle="Viard, La Chambre des comptes..., pj.">Jules Viard, « La Chambre des comptes sous le règne de Philippe de Valois », dans <i>Bibliothèque de l’École des chartes</i>, t. 93, 1932, p. 331-359, pièce justificative n° </ref>
   <ref sigle="Wauters">Alphonse Wauters, Stanislas Bormans et Joseph Halkin, <i>Table chronologique des chartes et diplômes imprimés concernant l’histoire de la Belgique</i>, 11 t. en 16 vol., Bruxelles, 1866-1907, t. </ref>
-  <ref sigle="Wyffels">Carlos Wyffels, <i>Inventaris van de oorkonden der graven van Vlaanderen. Chronologisch gerangschikt supplement</i>, s. l., [1957] (<i>Rijksarchief te Gent</i>),</ref>
+  <ref sigle="Wyffels">Carlos Wyffels, <i>Inventaris van de oorkonden der graven van Vlaanderen. Chronologisch gerangschikt supplement</i>, s. l., [1957] (Rijksarchief te Gent),</ref>
   <ref sigle="Wymans">Gabriel Wymans, <i>Inventaire analytique du chartrier de la Trésorerie des comtes de Hainaut</i>, Bruxelles, 1985,</ref>
   <ref sigle="Bruel, Chartes de Cluny VI"> Auguste Bernard et Alexandre Bruel, <i>Recueil des chartes de l’abbaye de Cluny</i>, t. VI : <i>1211-1300</i>, Paris, 1903,</ref>
   <ref sigle="Bled, Bulletin CTHS 1904">abbé Oscar Bled, « Un mayeur de Saint-Omer (1317-1319) », dans <i>Bulletin historique et philologique du Comité des travaux historiques et scientifiques</i>, 1904, p. 478-523, à la</ref>
