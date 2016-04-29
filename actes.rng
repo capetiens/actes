@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<grammar datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes" ns="http://enc-sorbonne.fr/ns/actes" xmlns="http://relaxng.org/ns/structure/1.0" xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">
+<grammar datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes" ns="http://capetiens.github.io/actes/actes.rng" xmlns="http://relaxng.org/ns/structure/1.0" xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">
   <start>
-    <ref name="catalogue"/>
+    <choice>
+      <ref name="catalogue"/>
+      <ref name="biblio"/>
+    </choice>
   </start>
+  <define name="biblio">
+    <a:documentation>Une bibliographie de références, notamment utilisée pour remplacements</a:documentation>
+    <element name="biblio">
+      <oneOrMore>
+        <ref name="ref"/>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="ref">
+    <a:documentation>Une référence bibliographique siglée</a:documentation>
+    <element name="ref">
+      <attribute name="sigle"/>
+      <ref name="texte"/>
+    </element>
+  </define>
   <define name="catalogue">
     <element name="catalogue">
       <a:documentation>Une collection d’actes.</a:documentation>
@@ -176,6 +194,7 @@
       <choice>
         <text/>
         <ref name="i"/>
+        <ref name="pc"/>
         <ref name="sup"/>
       </choice>
     </zeroOrMore>
@@ -186,6 +205,8 @@
       <oneOrMore>
         <choice>
           <text/>
+          <ref name="i"/>
+          <ref name="pc"/>
           <ref name="sup"/>
         </choice>
       </oneOrMore>
