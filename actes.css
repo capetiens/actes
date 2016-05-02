@@ -36,8 +36,9 @@ tmp { display: none; }
 temoin { display: block; background-color: #FFFFFF; border-top: 1px solid #FFFFFF; color: blue }
 temoin:before { content: attr(type); }
 ref { display: inline; color: #000; }
+fonds { display: inline; color: #000; }
 source { display: inline; color: #008000; }
-source:before { display: inline-block; content:", "; background-color: #EBECE4; width: 5ex; }
+source:before { display: inline-block; text-align: right; content:" – "; background-color: #EBECE4; width: 5ex; }
 
 /* Personnel */
 personnel { display: block; margin-top: 1em; }

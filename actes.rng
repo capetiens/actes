@@ -15,9 +15,15 @@
     </element>
   </define>
   <define name="ref">
-    <a:documentation>Une référence bibliographique siglée</a:documentation>
     <element name="ref">
+      <a:documentation>Une référence bibliographique siglée</a:documentation>
       <attribute name="sigle"/>
+      <ref name="texte"/>
+    </element>
+  </define>
+  <define name="fonds">
+    <element name="fonds">
+      <a:documentation>Intitulé de fonds</a:documentation>
       <ref name="texte"/>
     </element>
   </define>
@@ -106,7 +112,7 @@
   </define>
   <define name="temoin">
     <element name="temoin">
-      <a:documentation>Série des témoins, l’ordre est sigificatif</a:documentation>
+      <a:documentation>Témoin typé</a:documentation>
       <attribute name="type">
         <choice>
           <value>chancellerie</value>
@@ -123,6 +129,7 @@
         <choice>
           <text/>
           <ref name="ref"/>
+          <ref name="fonds"/>
         </choice>
       </zeroOrMore>
       <optional>
