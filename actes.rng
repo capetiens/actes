@@ -100,7 +100,9 @@
       <oneOrMore>
         <choice>
           <ref name="temoin"/>
+          <!--
           <ref name="tmp"/>
+          -->
         </choice>
       </oneOrMore>
     </element>
@@ -125,6 +127,9 @@
           <value>???</value>
         </choice>
       </attribute>
+      <!--
+      <attribute name="n"/>
+      -->
       <zeroOrMore>
         <choice>
           <text/>
