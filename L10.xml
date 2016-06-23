@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="actes.css"?><?xml-model href="actes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!-- test -->
 <catalogue xmlns="http://capetiens.github.io/actes/actes.rng">
   <acte xml:id="L10-19">
     <titre>
