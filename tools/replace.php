@@ -1,8 +1,15 @@
 <?php
-// charger le fichier XML de catalogue
-// boucler sur tous le XPath qui nous intéresse
-// réinsérer le nœud transformé
+// charge un fichier d’actes, procède aux remplacements
+/*
 
+n="2" type="chancellerie"
+n="10" type="copie"
+n="20" type="edition"
+n="30" type="indique"
+n="1" type="original"
+n="3" type="parlement"
+n="10" type="vidimus"
+*/
 
 $fonds = array(
   "/([> ])JJ /" => "$1<fonds>AN, JJ</fonds> ",
