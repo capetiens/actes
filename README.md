@@ -1,2 +1,3 @@
 # actes
-Actes des derniers capétiens
+Actes des derniers capétiens en XML
+
