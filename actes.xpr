@@ -61,73 +61,13 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="de Curzon">Théodore de Curzon, inventaire analytique par ordre chronologique du Trésor des chartes, 1890-1891, fiches mss. (conservé aux Archives nationales, département de l’Ancien Régime)&lt;/ref></String>
+                                    <String>&lt;ref sigle="A. Thomas">Antoine Thomas, « Charles IV le Bel à Villefranche en Limousin, aujourd’hui Masléon (Haute-Vienne), le 29 février 1324 », dans &lt;i>Bibliothèque de l’École des chartes&lt;/i>, t. 89, 1928, p. 169-174, à la&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
                                     <String></String>
                                 </field>
                                 <field name="renderString">
-                                    <String>de Curzon</String>
-                                </field>
-                                <field name="enabled">
-                                    <Boolean>true</Boolean>
-                                </field>
-                                <field name="accelerator">
-                                    <null/>
-                                </field>
-                            </codeTemplateItem>
-                            <codeTemplateItem>
-                                <field name="contentType">
-                                    <String>text/any</String>
-                                </field>
-                                <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Irht fiches">Corpus philippicum, itinéraire de Philippe le Bel, fiches mss. (conservé à l’Institut de recherches et d’histoire des textes)&lt;/ref></String>
-                                </field>
-                                <field name="descriptionString">
-                                    <String></String>
-                                </field>
-                                <field name="renderString">
-                                    <String>Irht fiches</String>
-                                </field>
-                                <field name="enabled">
-                                    <Boolean>true</Boolean>
-                                </field>
-                                <field name="accelerator">
-                                    <null/>
-                                </field>
-                            </codeTemplateItem>
-                            <codeTemplateItem>
-                                <field name="contentType">
-                                    <String>text/any</String>
-                                </field>
-                                <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="dépouillement Irht">Corpus philippicum, analyses par dépôt d’archives, mss. (conservé à l’Institut de recherches et d’histoire des textes)&lt;/ref></String>
-                                </field>
-                                <field name="descriptionString">
-                                    <String></String>
-                                </field>
-                                <field name="renderString">
-                                    <String>dépouillement Irht</String>
-                                </field>
-                                <field name="enabled">
-                                    <Boolean>true</Boolean>
-                                </field>
-                                <field name="accelerator">
-                                    <null/>
-                                </field>
-                            </codeTemplateItem>
-                            <codeTemplateItem>
-                                <field name="contentType">
-                                    <String>text/any</String>
-                                </field>
-                                <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Couderc n°">Camille Couderc, &lt;i>Étude sur le gouvernement de Charles IV dit le Bel et catalogue des mandements du règne&lt;/i>, thèse pour le dipl. d’archiviste paléographe, 1886, mss. (conservé à la la bibliothèque de la Société des lettres, sciences et arts de l’Aveyron, à Rodez), n° &lt;/ref></String>
-                                </field>
-                                <field name="descriptionString">
-                                    <String></String>
-                                </field>
-                                <field name="renderString">
-                                    <String>Couderc n°</String>
+                                    <String>A. Thomas</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -201,106 +141,6 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Petit, Essai, n">Joseph Petit, Michel Gavrilovitch, Maury et D.-A. Teodoru, &lt;i>Essai de restitution des plus anciens mémoriaux de la Chambre des comptes&lt;/i>, Paris, 1899 (&lt;i>Université de Paris. Bibliothèque de la faculté des Lettres&lt;/i>, 7), n&lt;/ref></String>
-                                </field>
-                                <field name="descriptionString">
-                                    <String></String>
-                                </field>
-                                <field name="renderString">
-                                    <String>Petit, Essai, n</String>
-                                </field>
-                                <field name="enabled">
-                                    <Boolean>true</Boolean>
-                                </field>
-                                <field name="accelerator">
-                                    <null/>
-                                </field>
-                            </codeTemplateItem>
-                            <codeTemplateItem>
-                                <field name="contentType">
-                                    <String>text/any</String>
-                                </field>
-                                <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Petit, Essai, pj">Joseph Petit, Michel Gavrilovitch, Maury et D.-A. Teodoru, &lt;i>Essai de restitution des plus anciens mémoriaux de la Chambre des comptes&lt;/i>, Paris, 1899 (&lt;i>Université de Paris. Bibliothèque de la faculté des Lettres&lt;/i>, 7), pièce justificative&lt;/ref></String>
-                                </field>
-                                <field name="descriptionString">
-                                    <String></String>
-                                </field>
-                                <field name="renderString">
-                                    <String>Petit, Essai, pj</String>
-                                </field>
-                                <field name="enabled">
-                                    <Boolean>true</Boolean>
-                                </field>
-                                <field name="accelerator">
-                                    <null/>
-                                </field>
-                            </codeTemplateItem>
-                            <codeTemplateItem>
-                                <field name="contentType">
-                                    <String>text/any</String>
-                                </field>
-                                <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Stein">Henri Stein, &lt;i>Inventaire analytique des ordonnances enregistrées au parlement de Paris jusqu’à la mort de Louis XII&lt;/i>, Paris, 1908,&lt;/ref></String>
-                                </field>
-                                <field name="descriptionString">
-                                    <String></String>
-                                </field>
-                                <field name="renderString">
-                                    <String>Stein</String>
-                                </field>
-                                <field name="enabled">
-                                    <Boolean>true</Boolean>
-                                </field>
-                                <field name="accelerator">
-                                    <null/>
-                                </field>
-                            </codeTemplateItem>
-                            <codeTemplateItem>
-                                <field name="contentType">
-                                    <String>text/any</String>
-                                </field>
-                                <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Tardif">Jules Tardif, &lt;i>Monuments historiques. Cartons des rois&lt;/i>, Paris, 1866 (Archives de l’Empire : inventaires et documents), n° &lt;/ref></String>
-                                </field>
-                                <field name="descriptionString">
-                                    <String></String>
-                                </field>
-                                <field name="renderString">
-                                    <String>Tardif</String>
-                                </field>
-                                <field name="enabled">
-                                    <Boolean>true</Boolean>
-                                </field>
-                                <field name="accelerator">
-                                    <null/>
-                                </field>
-                            </codeTemplateItem>
-                            <codeTemplateItem>
-                                <field name="contentType">
-                                    <String>text/any</String>
-                                </field>
-                                <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="d’Achery, Spicilegium VIII">dom Luc d’Achery, &lt;i>Veterum aliquot scriptorum qui in Galliae bibliothecis, maxime benedictinorum latuerant, spicilegium&lt;/i>, t. VIII, Paris, 1668, &lt;/ref></String>
-                                </field>
-                                <field name="descriptionString">
-                                    <String></String>
-                                </field>
-                                <field name="renderString">
-                                    <String>d’Achery, Spicilegium VIII</String>
-                                </field>
-                                <field name="enabled">
-                                    <Boolean>true</Boolean>
-                                </field>
-                                <field name="accelerator">
-                                    <null/>
-                                </field>
-                            </codeTemplateItem>
-                            <codeTemplateItem>
-                                <field name="contentType">
-                                    <String>text/any</String>
-                                </field>
-                                <field name="unparsedInsertString">
                                     <String>&lt;ref sigle="Albe">Edmond Albe, « Cahors. Inventaire raisonné et analytique des archives municipales », dans &lt;i>Bulletin de la Société des études littéraires, scientifiques et artistiques du Lot&lt;/i>, t. 39, 1914, p. 1-218, t. 41, 1920, p. 1-48, t. 43, 1922, p. 1-28, t. 45, 1924, p. 20-60 et t. 47, 1926, p. 1-150, au&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
@@ -328,6 +168,66 @@
                                 </field>
                                 <field name="renderString">
                                     <String>Andrieux, Cartulaire de Bon-Port</String>
+                                </field>
+                                <field name="enabled">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="accelerator">
+                                    <null/>
+                                </field>
+                            </codeTemplateItem>
+                            <codeTemplateItem>
+                                <field name="contentType">
+                                    <String>text/any</String>
+                                </field>
+                                <field name="unparsedInsertString">
+                                    <String>&lt;ref sigle="Archives historiques de la Corrèze">« Archives historiques de la Corrèze (ancien Bas-Limousin) : recueil de documents inédits depuis les origines jusqu’à la fin du &lt;pc>xviii&lt;/pc>&lt;sup>e&lt;/sup> siècle », éd. Gustave Clément-Simon, dans &lt;i>Bulletin de la Société scientifique, historique et archéologique de la Corrèze&lt;/i>, t. 12, 1890, p. 205-262,&lt;/ref></String>
+                                </field>
+                                <field name="descriptionString">
+                                    <String></String>
+                                </field>
+                                <field name="renderString">
+                                    <String>Archives historiques de la Corrèze</String>
+                                </field>
+                                <field name="enabled">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="accelerator">
+                                    <null/>
+                                </field>
+                            </codeTemplateItem>
+                            <codeTemplateItem>
+                                <field name="contentType">
+                                    <String>text/any</String>
+                                </field>
+                                <field name="unparsedInsertString">
+                                    <String>&lt;ref sigle="Archives historiques de la Gironde III">« Lettres de garde-gardienne ou de protection du roi de France pour le prieuré de Saint-Martin du Mont-Judaïque », éd. Jules Delpit, dans &lt;i>Archives historiques du département de la Gironde&lt;/i>, t. 3, 1861-1862,&lt;/ref></String>
+                                </field>
+                                <field name="descriptionString">
+                                    <String></String>
+                                </field>
+                                <field name="renderString">
+                                    <String>Archives historiques de la Gironde III</String>
+                                </field>
+                                <field name="enabled">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="accelerator">
+                                    <null/>
+                                </field>
+                            </codeTemplateItem>
+                            <codeTemplateItem>
+                                <field name="contentType">
+                                    <String>text/any</String>
+                                </field>
+                                <field name="unparsedInsertString">
+                                    <String>&lt;ref sigle="Archives historiques de la Gironde V">« L’Esclapot ou cartulaire de Monségur », [éd. Francisque Michel], dans &lt;i>Archives historiques du département de la Gironde&lt;/i>, t. 5, 1863, p. 1-98, à la&lt;/ref></String>
+                                </field>
+                                <field name="descriptionString">
+                                    <String></String>
+                                </field>
+                                <field name="renderString">
+                                    <String>Archives historiques de la Gironde V</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -401,26 +301,6 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Archives historiques de la Gironde III">« Lettres de garde-gardienne ou de protection du roi de France pour le prieuré de Saint-Martin du Mont-Judaïque », éd. Jules Delpit, dans &lt;i>Archives historiques du département de la Gironde&lt;/i>, t. 3, 1861-1862,&lt;/ref></String>
-                                </field>
-                                <field name="descriptionString">
-                                    <String></String>
-                                </field>
-                                <field name="renderString">
-                                    <String>Archives historiques de la Gironde III</String>
-                                </field>
-                                <field name="enabled">
-                                    <Boolean>true</Boolean>
-                                </field>
-                                <field name="accelerator">
-                                    <null/>
-                                </field>
-                            </codeTemplateItem>
-                            <codeTemplateItem>
-                                <field name="contentType">
-                                    <String>text/any</String>
-                                </field>
-                                <field name="unparsedInsertString">
                                     <String>&lt;ref sigle="Archives historiques de la Gironde, IV, p. 74">« Lettres de Charles IV, roi de France, en faveur du sire d’Albret », éd. Tamizey de Larroque, dans &lt;i>Archives historiques du département de la Gironde&lt;/i>, t. 4, 1863, p. 74-76, n° 63&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
@@ -428,46 +308,6 @@
                                 </field>
                                 <field name="renderString">
                                     <String>Archives historiques de la Gironde, IV, p. 74</String>
-                                </field>
-                                <field name="enabled">
-                                    <Boolean>true</Boolean>
-                                </field>
-                                <field name="accelerator">
-                                    <null/>
-                                </field>
-                            </codeTemplateItem>
-                            <codeTemplateItem>
-                                <field name="contentType">
-                                    <String>text/any</String>
-                                </field>
-                                <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Archives historiques de la Gironde V">« L’Esclapot ou cartulaire de Monségur », [éd. Francisque Michel], dans &lt;i>Archives historiques du département de la Gironde&lt;/i>, t. 5, 1863, p. 1-98, à la&lt;/ref></String>
-                                </field>
-                                <field name="descriptionString">
-                                    <String></String>
-                                </field>
-                                <field name="renderString">
-                                    <String>Archives historiques de la Gironde V</String>
-                                </field>
-                                <field name="enabled">
-                                    <Boolean>true</Boolean>
-                                </field>
-                                <field name="accelerator">
-                                    <null/>
-                                </field>
-                            </codeTemplateItem>
-                            <codeTemplateItem>
-                                <field name="contentType">
-                                    <String>text/any</String>
-                                </field>
-                                <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Archives historiques de la Corrèze">« Archives historiques de la Corrèze (ancien Bas-Limousin) : recueil de documents inédits depuis les origines jusqu’à la fin du &lt;pc>xviii&lt;/pc>&lt;sup>e&lt;/sup> siècle », éd. Gustave Clément-Simon, dans &lt;i>Bulletin de la Société scientifique, historique et archéologique de la Corrèze&lt;/i>, t. 12, 1890, p. 205-262,&lt;/ref></String>
-                                </field>
-                                <field name="descriptionString">
-                                    <String></String>
-                                </field>
-                                <field name="renderString">
-                                    <String>Archives historiques de la Corrèze</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -501,13 +341,13 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Artonne p.j.">André Artonne, &lt;i>Le mouvement de 1314 et les chartes provinciales de 1315&lt;/i>, Paris, 1912 (Université de Paris. Bibliothèque de la faculté des Lettres, 29), pièce justificative n° &lt;/ref></String>
+                                    <String>&lt;ref sigle="Artonne p.">André Artonne, &lt;i>Le mouvement de 1314 et les chartes provinciales de 1315&lt;/i>, Paris, 1912 (Université de Paris. Bibliothèque de la faculté des Lettres, 29), p. &lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
                                     <String></String>
                                 </field>
                                 <field name="renderString">
-                                    <String>Artonne p.j.</String>
+                                    <String>Artonne p.</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -521,13 +361,13 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Artonne p.">André Artonne, &lt;i>Le mouvement de 1314 et les chartes provinciales de 1315&lt;/i>, Paris, 1912 (Université de Paris. Bibliothèque de la faculté des Lettres, 29), p. &lt;/ref></String>
+                                    <String>&lt;ref sigle="Artonne p.j.">André Artonne, &lt;i>Le mouvement de 1314 et les chartes provinciales de 1315&lt;/i>, Paris, 1912 (Université de Paris. Bibliothèque de la faculté des Lettres, 29), pièce justificative n° &lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
                                     <String></String>
                                 </field>
                                 <field name="renderString">
-                                    <String>Artonne p.</String>
+                                    <String>Artonne p.j.</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -561,6 +401,26 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
+                                    <String>&lt;ref sigle="Audouin AHP 44">Édouard Audouin, &lt;i>Recueil de documents concernant la ville de Poitiers&lt;/i>, t. I : &lt;i>De 1063 à 1327&lt;/i>, Poitiers, 1923 (&lt;i>Archives historiques du Poitou&lt;/i>, 44),&lt;/ref></String>
+                                </field>
+                                <field name="descriptionString">
+                                    <String></String>
+                                </field>
+                                <field name="renderString">
+                                    <String>Audouin AHP 44</String>
+                                </field>
+                                <field name="enabled">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="accelerator">
+                                    <null/>
+                                </field>
+                            </codeTemplateItem>
+                            <codeTemplateItem>
+                                <field name="contentType">
+                                    <String>text/any</String>
+                                </field>
+                                <field name="unparsedInsertString">
                                     <String>&lt;ref sigle="Audouin, Cartulaire">Édouard Audouin, « Le cartulaire municipal de Poitiers, dit “manuscrit d’Auzance” », dans &lt;i>Bulletin philologique et historique (jusqu’à 1715) du Comité des travaux historiques et scientifiques&lt;/i>, 1917, p. 147-160,&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
@@ -581,13 +441,13 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Audouin AHP 44">Édouard Audouin, &lt;i>Recueil de documents concernant la ville de Poitiers&lt;/i>, t. I : &lt;i>De 1063 à 1327&lt;/i>, Poitiers, 1923 (&lt;i>Archives historiques du Poitou&lt;/i>, 44),&lt;/ref></String>
+                                    <String>&lt;ref sigle="BEC 1917">Charles-Victor Langlois, « Gilles d’Audenarde », dans &lt;i>Bibliothèque de l’École des chartes&lt;/i>, t. 78, 1917, p. 490-491, à la&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
                                     <String></String>
                                 </field>
                                 <field name="renderString">
-                                    <String>Audouin AHP 44</String>
+                                    <String>BEC 1917</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -661,13 +521,33 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Beugnot">comte Auguste-Arthur Beugnot, &lt;i>Les &lt;i>Olim&lt;/i> ou registres des arrêts rendus par la Cour du roi sous les règnes de saint Louis, de Philippe le Hardi, de Philippe le Bel, de Louis le Hutin et de Philippe le Long&lt;/i>, 3 t. en 4 vol., Paris, 1839-1844 (Collection des documents inédits sur l’histoire de France. 1&lt;sup>re&lt;/sup> série : histoire politique), t. &lt;/ref></String>
+                                    <String>&lt;ref sigle="Bled, Bulletin CTHS 1895">abbé Oscar Bled, « Onze lettres royales du &lt;pc>xiv&lt;/pc>&lt;sup>e&lt;/sup> siècle », dans &lt;i>Bulletin historique et philologique du Comité des travaux historiques et scientifiques&lt;/i>, 1895, p. 521-530, à la&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
                                     <String></String>
                                 </field>
                                 <field name="renderString">
-                                    <String>Beugnot</String>
+                                    <String>Bled, Bulletin CTHS 1895</String>
+                                </field>
+                                <field name="enabled">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="accelerator">
+                                    <null/>
+                                </field>
+                            </codeTemplateItem>
+                            <codeTemplateItem>
+                                <field name="contentType">
+                                    <String>text/any</String>
+                                </field>
+                                <field name="unparsedInsertString">
+                                    <String>&lt;ref sigle="Bled, Bulletin CTHS 1904">abbé Oscar Bled, « Un mayeur de Saint-Omer (1317-1319) », dans &lt;i>Bulletin historique et philologique du Comité des travaux historiques et scientifiques&lt;/i>, 1904, p. 478-523, à la&lt;/ref></String>
+                                </field>
+                                <field name="descriptionString">
+                                    <String></String>
+                                </field>
+                                <field name="renderString">
+                                    <String>Bled, Bulletin CTHS 1904</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -781,13 +661,13 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Brown, Subsidy and Reform">Elizabeth A. R. Brown, « Subsidy and reform in 1321 : the accounts of Najac and the policies of Philip V », dans &lt;i>Traditio&lt;/i>, t. 27, 1971, p. 399-430 ; réimpr. dans ead., &lt;i>Politics and Institutions in Capetian France&lt;/i>, Aldershot, 1991, art. VIII, à la&lt;/ref></String>
+                                    <String>&lt;ref sigle="Brown, Assemblies...">Elizabeth A. R. Brown, « Assemblies of French towns in 1316 : some new texts », dans &lt;i>Speculum&lt;/i>, t. 46, 1971, p. 282-301 ; réimpr. dans ead., &lt;i>Politics and Institutions in Capetian France&lt;/i>, Aldershot, 1991, art. VI., à la&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
                                     <String></String>
                                 </field>
                                 <field name="renderString">
-                                    <String>Brown, Subsidy and Reform</String>
+                                    <String>Brown, Assemblies...</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -801,13 +681,13 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Brown, Assemblies...">Elizabeth A. R. Brown, « Assemblies of French towns in 1316 : some new texts », dans &lt;i>Speculum&lt;/i>, t. 46, 1971, p. 282-301 ; réimpr. dans ead., &lt;i>Politics and Institutions in Capetian France&lt;/i>, Aldershot, 1991, art. VI., à la&lt;/ref></String>
+                                    <String>&lt;ref sigle="Brown, Customary aids... pj">Elizabeth A. R. Brown, &lt;i>Customary Aids and Royal Finances in Capetian France : the Marriage Aide of Philippe the Fair&lt;/i>, Cambridge (Mass.), 1992, pièce justificative n°&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
                                     <String></String>
                                 </field>
                                 <field name="renderString">
-                                    <String>Brown, Assemblies...</String>
+                                    <String>Brown, Customary aids... pj</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -841,26 +721,6 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Brown, Royal Salvation">Elizabeth A. R. Brown, « Royal salvation and needs of State in early Fourteenth-century France », dans ead., &lt;i>The Monarchy of Capetian France and Royal Ceremonial&lt;/i>, Aldershot, 1991, art. IV, p. 1-56, à la&lt;/ref></String>
-                                </field>
-                                <field name="descriptionString">
-                                    <String></String>
-                                </field>
-                                <field name="renderString">
-                                    <String>Brown, Royal Salvation</String>
-                                </field>
-                                <field name="enabled">
-                                    <Boolean>true</Boolean>
-                                </field>
-                                <field name="accelerator">
-                                    <null/>
-                                </field>
-                            </codeTemplateItem>
-                            <codeTemplateItem>
-                                <field name="contentType">
-                                    <String>text/any</String>
-                                </field>
-                                <field name="unparsedInsertString">
                                     <String>&lt;ref sigle="Brown, Royal Marriage">Elizabeth A. R. Brown, &lt;i>Royal Marriage, Royal Property, and the Patrimony of the Crown : Inalienability and the Prerogative in Fourteenth Century France&lt;/i>, Pasadena (Ca.), 1981 (&lt;i>Humanities Working Paper&lt;/i>, 70),&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
@@ -881,13 +741,33 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Brown, The king’s conundrum">Elizabeth A. R. Brown, « The king’s conundrum : endowing queens and loyal servants, ensuring salvation, and protecting the patrimony in Fourteenth-century France », dans &lt;i>Medieval Futures : Attitudes to the Future in the Middle Ages&lt;/i>, éd. John Anthony Burrow et Ian P. Wei, Woodbridge, 2000, p. 115-165, à la&lt;/ref></String>
+                                    <String>&lt;ref sigle="Brown, Royal Salvation">Elizabeth A. R. Brown, « Royal salvation and needs of State in early Fourteenth-century France », dans ead., &lt;i>The Monarchy of Capetian France and Royal Ceremonial&lt;/i>, Aldershot, 1991, art. IV, p. 1-56, à la&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
                                     <String></String>
                                 </field>
                                 <field name="renderString">
-                                    <String>Brown, The king’s conundrum</String>
+                                    <String>Brown, Royal Salvation</String>
+                                </field>
+                                <field name="enabled">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="accelerator">
+                                    <null/>
+                                </field>
+                            </codeTemplateItem>
+                            <codeTemplateItem>
+                                <field name="contentType">
+                                    <String>text/any</String>
+                                </field>
+                                <field name="unparsedInsertString">
+                                    <String>&lt;ref sigle="Brown, Subsidy and Reform">Elizabeth A. R. Brown, « Subsidy and reform in 1321 : the accounts of Najac and the policies of Philip V », dans &lt;i>Traditio&lt;/i>, t. 27, 1971, p. 399-430 ; réimpr. dans ead., &lt;i>Politics and Institutions in Capetian France&lt;/i>, Aldershot, 1991, art. VIII, à la&lt;/ref></String>
+                                </field>
+                                <field name="descriptionString">
+                                    <String></String>
+                                </field>
+                                <field name="renderString">
+                                    <String>Brown, Subsidy and Reform</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -921,13 +801,33 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Brown, Customary aids... pj">Elizabeth A. R. Brown, &lt;i>Customary Aids and Royal Finances in Capetian France : the Marriage Aide of Philippe the Fair&lt;/i>, Cambridge (Mass.), 1992, pièce justificative n°&lt;/ref></String>
+                                    <String>&lt;ref sigle="Brown, The king’s conundrum">Elizabeth A. R. Brown, « The king’s conundrum : endowing queens and loyal servants, ensuring salvation, and protecting the patrimony in Fourteenth-century France », dans &lt;i>Medieval Futures : Attitudes to the Future in the Middle Ages&lt;/i>, éd. John Anthony Burrow et Ian P. Wei, Woodbridge, 2000, p. 115-165, à la&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
                                     <String></String>
                                 </field>
                                 <field name="renderString">
-                                    <String>Brown, Customary aids... pj</String>
+                                    <String>Brown, The king’s conundrum</String>
+                                </field>
+                                <field name="enabled">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="accelerator">
+                                    <null/>
+                                </field>
+                            </codeTemplateItem>
+                            <codeTemplateItem>
+                                <field name="contentType">
+                                    <String>text/any</String>
+                                </field>
+                                <field name="unparsedInsertString">
+                                    <String>&lt;ref sigle="Bruel, Chartes de Cluny VI"> Auguste Bernard et Alexandre Bruel, &lt;i>Recueil des chartes de l’abbaye de Cluny&lt;/i>, t. VI : &lt;i>1211-1300&lt;/i>, Paris, 1903,&lt;/ref></String>
+                                </field>
+                                <field name="descriptionString">
+                                    <String></String>
+                                </field>
+                                <field name="renderString">
+                                    <String>Bruel, Chartes de Cluny VI</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -981,13 +881,13 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Canellas">Angel Canellas Lopez, « La cancilleria del reino de Navarra desde Teobaldo I a Blanca », dans &lt;i>J. Zurita. Cuadernos de historia&lt;/i>, t. 47-48, 1983, p. 71-138, planches&lt;/ref></String>
+                                    <String>&lt;ref sigle="CR n°"> François Maillard, &lt;i>Comptes royaux (1314-1328)&lt;/i>, dir. Robert Fawtier, 2 t., Paris, 1961 (&lt;i>Recueil des historiens de la France. Documents financiers&lt;/i>, 4), n° &lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
                                     <String></String>
                                 </field>
                                 <field name="renderString">
-                                    <String>Canellas</String>
+                                    <String>CR n°</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -1001,13 +901,13 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Cartulaire de l’université de Montpellier">&lt;i>Cartulaire de l’université de Montpellier publié sous les auspices du conseil général des facultés de Montpellier&lt;/i>, t. I : 1181-1400, Montpellier, 1890,&lt;/ref></String>
+                                    <String>&lt;ref sigle="Canellas">Angel Canellas Lopez, « La cancilleria del reino de Navarra desde Teobaldo I a Blanca », dans &lt;i>J. Zurita. Cuadernos de historia&lt;/i>, t. 47-48, 1983, p. 71-138, planches&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
                                     <String></String>
                                 </field>
                                 <field name="renderString">
-                                    <String>Cartulaire de l’université de Montpellier</String>
+                                    <String>Canellas</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -1041,33 +941,13 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Inventaire de la collection Joursanvault"> &lt;i>Catalogue analytique des archives de M. le baron de Joursanvault&lt;/i> […], 2 t., Paris, 1838,&lt;/ref></String>
+                                    <String>&lt;ref sigle="Cartulaire de l’université de Montpellier">&lt;i>Cartulaire de l’université de Montpellier publié sous les auspices du conseil général des facultés de Montpellier&lt;/i>, t. I : 1181-1400, Montpellier, 1890,&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
                                     <String></String>
                                 </field>
                                 <field name="renderString">
-                                    <String>Inventaire de la collection Joursanvault</String>
-                                </field>
-                                <field name="enabled">
-                                    <Boolean>true</Boolean>
-                                </field>
-                                <field name="accelerator">
-                                    <null/>
-                                </field>
-                            </codeTemplateItem>
-                            <codeTemplateItem>
-                                <field name="contentType">
-                                    <String>text/any</String>
-                                </field>
-                                <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Catalogue Joursanvault">&lt;i>Catalogue analytique des archives de M. le baron de Joursanvault&lt;/i> […], 2 t., Paris, 1838, n° &lt;/ref></String>
-                                </field>
-                                <field name="descriptionString">
-                                    <String></String>
-                                </field>
-                                <field name="renderString">
-                                    <String>Catalogue Joursanvault</String>
+                                    <String>Cartulaire de l’université de Montpellier</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -1088,6 +968,26 @@
                                 </field>
                                 <field name="renderString">
                                     <String>Castro</String>
+                                </field>
+                                <field name="enabled">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="accelerator">
+                                    <null/>
+                                </field>
+                            </codeTemplateItem>
+                            <codeTemplateItem>
+                                <field name="contentType">
+                                    <String>text/any</String>
+                                </field>
+                                <field name="unparsedInsertString">
+                                    <String>&lt;ref sigle="Catalogue Joursanvault">&lt;i>Catalogue analytique des archives de M. le baron de Joursanvault&lt;/i> […], 2 t., Paris, 1838, n° &lt;/ref></String>
+                                </field>
+                                <field name="descriptionString">
+                                    <String></String>
+                                </field>
+                                <field name="renderString">
+                                    <String>Catalogue Joursanvault</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -1221,13 +1121,13 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="J. Claustre, dans Histoire de la mémoire judiciaire">Julie Claustre, « Naissance d’une mémoire judiciaire : les débuts de la “clergie” du châtelet de Paris », dans &lt;i>Une histoire de la mémoire judiciaire&lt;/i>, éd. Olivier Poncet et Isabelle Storez-Brancourt, Paris, 2009 (Études et rencontres de l’École des chartes, 29), p. 151-161, à la&lt;/ref></String>
+                                    <String>&lt;ref sigle="Comptes royaux">François Maillard, &lt;i>Comptes royaux (1314-1328)&lt;/i>, dir. Robert Fawtier, 2 t., Paris, 1961 (&lt;i>Recueil des historiens de la France. Documents financiers&lt;/i>, 4),&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
                                     <String></String>
                                 </field>
                                 <field name="renderString">
-                                    <String>J. Claustre, dans Histoire de la mémoire judiciaire</String>
+                                    <String>Comptes royaux</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -1261,26 +1161,6 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Coüard-Luys">Émile Coüard-Luys, &lt;i>Cartulaire de Saint-Spire au diocèse de Paris&lt;/i>, Rambouillet, 1882&lt;/ref></String>
-                                </field>
-                                <field name="descriptionString">
-                                    <String></String>
-                                </field>
-                                <field name="renderString">
-                                    <String>Coüard-Luys</String>
-                                </field>
-                                <field name="enabled">
-                                    <Boolean>true</Boolean>
-                                </field>
-                                <field name="accelerator">
-                                    <null/>
-                                </field>
-                            </codeTemplateItem>
-                            <codeTemplateItem>
-                                <field name="contentType">
-                                    <String>text/any</String>
-                                </field>
-                                <field name="unparsedInsertString">
                                     <String>&lt;ref sigle="Couderc et Rigal">Camille Couderc et Jean-Louis Rigal, &lt;i>Cartulaire et documents de l’abbaye de Nonenque&lt;/i>, Rodez, s. d. (&lt;i>Archives historiques du Rouergue&lt;/i>, 18),&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
@@ -1301,13 +1181,13 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="de Potter">Frans De Potter, &lt;i>Second cartulaire de Gand&lt;/i>, Gand, [1886],&lt;/ref></String>
+                                    <String>&lt;ref sigle="Couderc n°">Camille Couderc, &lt;i>Étude sur le gouvernement de Charles IV dit le Bel et catalogue des mandements du règne&lt;/i>, thèse pour le dipl. d’archiviste paléographe, 1886, mss. (conservé à la la bibliothèque de la Société des lettres, sciences et arts de l’Aveyron, à Rodez), n° &lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
                                     <String></String>
                                 </field>
                                 <field name="renderString">
-                                    <String>de Potter</String>
+                                    <String>Couderc n°</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -1321,13 +1201,13 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Delisle, Les cartulaires de Bricquebec">Léopold Delisle, « Les cartulaires de la baronnie de Bricquebec », dans &lt;i>Annuaire du département de la Manche&lt;/i>, 1899 ; tiré à part, Saint-Lô, 1899,&lt;/ref></String>
+                                    <String>&lt;ref sigle="Coüard-Luys">Émile Coüard-Luys, &lt;i>Cartulaire de Saint-Spire au diocèse de Paris&lt;/i>, Rambouillet, 1882&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
                                     <String></String>
                                 </field>
                                 <field name="renderString">
-                                    <String>Delisle, Les cartulaires de Bricquebec</String>
+                                    <String>Coüard-Luys</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -1361,6 +1241,26 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
+                                    <String>&lt;ref sigle="Delisle, Les cartulaires de Bricquebec">Léopold Delisle, « Les cartulaires de la baronnie de Bricquebec », dans &lt;i>Annuaire du département de la Manche&lt;/i>, 1899 ; tiré à part, Saint-Lô, 1899,&lt;/ref></String>
+                                </field>
+                                <field name="descriptionString">
+                                    <String></String>
+                                </field>
+                                <field name="renderString">
+                                    <String>Delisle, Les cartulaires de Bricquebec</String>
+                                </field>
+                                <field name="enabled">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="accelerator">
+                                    <null/>
+                                </field>
+                            </codeTemplateItem>
+                            <codeTemplateItem>
+                                <field name="contentType">
+                                    <String>text/any</String>
+                                </field>
+                                <field name="unparsedInsertString">
                                     <String>&lt;ref sigle="Denifle"> Heinrich Denifle et Émile Châtelain, &lt;i>Chartularium universitatis Parisiensis…&lt;/i>, t. II : &lt;i>Ab anno MCCLXXXVI usque ad annum MCCCL&lt;/i>, Paris, 1891,&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
@@ -1368,6 +1268,26 @@
                                 </field>
                                 <field name="renderString">
                                     <String>Denifle</String>
+                                </field>
+                                <field name="enabled">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="accelerator">
+                                    <null/>
+                                </field>
+                            </codeTemplateItem>
+                            <codeTemplateItem>
+                                <field name="contentType">
+                                    <String>text/any</String>
+                                </field>
+                                <field name="unparsedInsertString">
+                                    <String>&lt;ref sigle="Depoin">Joseph Depoin et Adolphe Dutilleux, &lt;i>Cartulaire de l’abbaye de Maubuisson (Notre-Dame-la-Royale)&lt;/i>, 2 t., Pontoise, 1890-1913 (&lt;i>Documents édités par la Société historique du Vexin&lt;/i>), &lt;/ref></String>
+                                </field>
+                                <field name="descriptionString">
+                                    <String></String>
+                                </field>
+                                <field name="renderString">
+                                    <String>Depoin</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -1408,26 +1328,6 @@
                                 </field>
                                 <field name="renderString">
                                     <String>Depoin, Le prieuré de Saint-Germain</String>
-                                </field>
-                                <field name="enabled">
-                                    <Boolean>true</Boolean>
-                                </field>
-                                <field name="accelerator">
-                                    <null/>
-                                </field>
-                            </codeTemplateItem>
-                            <codeTemplateItem>
-                                <field name="contentType">
-                                    <String>text/any</String>
-                                </field>
-                                <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Depoin">Joseph Depoin et Adolphe Dutilleux, &lt;i>Cartulaire de l’abbaye de Maubuisson (Notre-Dame-la-Royale)&lt;/i>, 2 t., Pontoise, 1890-1913 (&lt;i>Documents édités par la Société historique du Vexin&lt;/i>), &lt;/ref></String>
-                                </field>
-                                <field name="descriptionString">
-                                    <String></String>
-                                </field>
-                                <field name="renderString">
-                                    <String>Depoin</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -1521,13 +1421,13 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Douët d’Arcq, Comptes">Louis-Claude Douët d’Arcq, &lt;i>Comptes de l’argenterie des rois de France au &lt;pc>xiv&lt;/pc>&lt;sup>e&lt;/sup> siècle&lt;/i>, Paris, 1851 (&lt;i>Société de l’histoire de France&lt;/i>)&lt;/ref></String>
+                                    <String>&lt;ref sigle="Douët d’Arcq, BEC 1856">Louis-Claude Douët d’Arcq, « Lettres de rémission pour Jean Brunet, prévôt de Bourges (1334) », dans &lt;i>Bibliothèque de l’École des chartes&lt;/i>, t. 17, 1856, p. 54-75&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
                                     <String></String>
                                 </field>
                                 <field name="renderString">
-                                    <String>Douët d’Arcq, Comptes</String>
+                                    <String>Douët d’Arcq, BEC 1856</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -1541,13 +1441,13 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Douët d’Arcq, BEC 1856">Louis-Claude Douët d’Arcq, « Lettres de rémission pour Jean Brunet, prévôt de Bourges (1334) », dans &lt;i>Bibliothèque de l’École des chartes&lt;/i>, t. 17, 1856, p. 54-75&lt;/ref></String>
+                                    <String>&lt;ref sigle="Douët d’Arcq, Comptes">Louis-Claude Douët d’Arcq, &lt;i>Comptes de l’argenterie des rois de France au &lt;pc>xiv&lt;/pc>&lt;sup>e&lt;/sup> siècle&lt;/i>, Paris, 1851 (&lt;i>Société de l’histoire de France&lt;/i>)&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
                                     <String></String>
                                 </field>
                                 <field name="renderString">
-                                    <String>Douët d’Arcq, BEC 1856</String>
+                                    <String>Douët d’Arcq, Comptes</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -1701,6 +1601,26 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
+                                    <String>&lt;ref sigle="Duplès-Agier, BEC 1853">Henri Duplès-Agier, « Ordonnances inédites de Philippe le Bel et de Philippe le Long sur la police de la pêche fluviale », dans &lt;i>Bibliothèque de l’École des chartes&lt;/i>, t. 14, 1853, p. 43-55, à la&lt;/ref></String>
+                                </field>
+                                <field name="descriptionString">
+                                    <String></String>
+                                </field>
+                                <field name="renderString">
+                                    <String>Duplès-Agier, BEC 1853</String>
+                                </field>
+                                <field name="enabled">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="accelerator">
+                                    <null/>
+                                </field>
+                            </codeTemplateItem>
+                            <codeTemplateItem>
+                                <field name="contentType">
+                                    <String>text/any</String>
+                                </field>
+                                <field name="unparsedInsertString">
                                     <String>&lt;ref sigle="Duplès-Agier, BEC 1857">Henri Duplès-Agier, « Choix de pièces inédites. XIV : ordonnance de Philippe le Long contre les lépreux », dans &lt;i>Bibliothèque de l’École des chartes&lt;/i>, t. 18, 1857, p. 265-272, à la&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
@@ -1721,13 +1641,13 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Duplès-Agier, BEC 1853">Henri Duplès-Agier, « Ordonnances inédites de Philippe le Bel et de Philippe le Long sur la police de la pêche fluviale », dans &lt;i>Bibliothèque de l’École des chartes&lt;/i>, t. 14, 1853, p. 43-55, à la&lt;/ref></String>
+                                    <String>&lt;ref sigle="Espinas - Verlinden">Georges Espinas, Charles Verlinden et Jan Buntinx, &lt;i>Privilèges et chartes de franchise de la Flandre&lt;/i>, 2 t., Bruxelles, 1959-1961 (&lt;i>Recueil des anciennes coutumes de la Belgique&lt;/i>),&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
                                     <String></String>
                                 </field>
                                 <field name="renderString">
-                                    <String>Duplès-Agier, BEC 1853</String>
+                                    <String>Espinas - Verlinden</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -1768,26 +1688,6 @@
                                 </field>
                                 <field name="renderString">
                                     <String>Espinas, Recueil</String>
-                                </field>
-                                <field name="enabled">
-                                    <Boolean>true</Boolean>
-                                </field>
-                                <field name="accelerator">
-                                    <null/>
-                                </field>
-                            </codeTemplateItem>
-                            <codeTemplateItem>
-                                <field name="contentType">
-                                    <String>text/any</String>
-                                </field>
-                                <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Espinas - Verlinden">Georges Espinas, Charles Verlinden et Jan Buntinx, &lt;i>Privilèges et chartes de franchise de la Flandre&lt;/i>, 2 t., Bruxelles, 1959-1961 (&lt;i>Recueil des anciennes coutumes de la Belgique&lt;/i>),&lt;/ref></String>
-                                </field>
-                                <field name="descriptionString">
-                                    <String></String>
-                                </field>
-                                <field name="renderString">
-                                    <String>Espinas - Verlinden</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -1861,26 +1761,6 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="J. Fontanel">Julie Fontanel, &lt;i>Le cartulaire du chapitre cathédral de Coutances. Étude et édition critique&lt;/i>, Saint-Lô, 2003,&lt;/ref></String>
-                                </field>
-                                <field name="descriptionString">
-                                    <String></String>
-                                </field>
-                                <field name="renderString">
-                                    <String>J. Fontanel</String>
-                                </field>
-                                <field name="enabled">
-                                    <Boolean>true</Boolean>
-                                </field>
-                                <field name="accelerator">
-                                    <null/>
-                                </field>
-                            </codeTemplateItem>
-                            <codeTemplateItem>
-                                <field name="contentType">
-                                    <String>text/any</String>
-                                </field>
-                                <field name="unparsedInsertString">
                                     <String>&lt;ref sigle="Fontanon I">Antoine Fontanon, &lt;i>Les edicts et ordonnances des rois de France depuis Louis VI dit le Gros jusques a present&lt;/i> […], revu par Gabriel Michel, 4 t. en 3 vol., Paris, 1611, t. I, p. &lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
@@ -1888,26 +1768,6 @@
                                 </field>
                                 <field name="renderString">
                                     <String>Fontanon I</String>
-                                </field>
-                                <field name="enabled">
-                                    <Boolean>true</Boolean>
-                                </field>
-                                <field name="accelerator">
-                                    <null/>
-                                </field>
-                            </codeTemplateItem>
-                            <codeTemplateItem>
-                                <field name="contentType">
-                                    <String>text/any</String>
-                                </field>
-                                <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Le Mire, IV">François Foppens, &lt;i>Diplomatum belgicorum nova collectio, sive supplementum ad&lt;/i> Opera diplomatica &lt;i>Auberti Miræi&lt;/i>, t. IV, Bruxelles, 1748&lt;/ref></String>
-                                </field>
-                                <field name="descriptionString">
-                                    <String></String>
-                                </field>
-                                <field name="renderString">
-                                    <String>Le Mire, IV</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -2341,6 +2201,26 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
+                                    <String>&lt;ref sigle="Herbomez, &amp;#34;Philippe...&amp;#34;">Armand d’Herbomez, « Philippe le Bel et les Tournaisiens », dans &lt;i>Compte-rendus des séances de la Commission royale d’histoire, ou recueil de ses bulletins&lt;/i>, 5&lt;sup>e&lt;/sup> série, t. 3, 1893, p. 19-197,&lt;/ref></String>
+                                </field>
+                                <field name="descriptionString">
+                                    <String></String>
+                                </field>
+                                <field name="renderString">
+                                    <String>Herbomez, "Philippe..."</String>
+                                </field>
+                                <field name="enabled">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="accelerator">
+                                    <null/>
+                                </field>
+                            </codeTemplateItem>
+                            <codeTemplateItem>
+                                <field name="contentType">
+                                    <String>text/any</String>
+                                </field>
+                                <field name="unparsedInsertString">
                                     <String>&lt;ref sigle="Herbomez, Annales 23">Armand d’Herbomez, « Comment la commune de Tournai s’agrandit aux dépens du comté de Hainaut à la fin du &lt;pc>xiii&lt;/pc>&lt;sup>e&lt;/sup> siècle », dans &lt;i>Annales du cercle archéologique de Mons&lt;/i>, t. 23, p. 395-444 ; tiré à part, Mons, 1892&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
@@ -2361,13 +2241,13 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Herbomez, &amp;#34;Philippe...&amp;#34;">Armand d’Herbomez, « Philippe le Bel et les Tournaisiens », dans &lt;i>Compte-rendus des séances de la Commission royale d’histoire, ou recueil de ses bulletins&lt;/i>, 5&lt;sup>e&lt;/sup> série, t. 3, 1893, p. 19-197,&lt;/ref></String>
+                                    <String>&lt;ref sigle="Herbomez, BEC 1898">Armand d’Herbomez, « Notes et documents pour servir à l’histoire des rois fils de Philippe-le-Bel », dans &lt;i>Bibliothèque de l’École des chartes&lt;/i>, t. 59, 1898, p. 497-532 et 689-711, à la&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
                                     <String></String>
                                 </field>
                                 <field name="renderString">
-                                    <String>Herbomez, "Philippe..."</String>
+                                    <String>Herbomez, BEC 1898</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -2401,13 +2281,13 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Herbomez, BEC 1898">Armand d’Herbomez, « Notes et documents pour servir à l’histoire des rois fils de Philippe-le-Bel », dans &lt;i>Bibliothèque de l’École des chartes&lt;/i>, t. 59, 1898, p. 497-532 et 689-711, à la&lt;/ref></String>
+                                    <String>&lt;ref sigle="Histoire ecclésiastique du diocèse de Coutances, II">René Toustain de Billy, &lt;i>Histoire ecclésiastique du diocèse de Coutances&lt;/i>, éd. François Dolbet [et Pierre-Alexandre Héron], 3 t., Rouen, 1874-1886 (Société de l’histoire de la Normandie), t. II&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
                                     <String></String>
                                 </field>
                                 <field name="renderString">
-                                    <String>Herbomez, BEC 1898</String>
+                                    <String>Histoire ecclésiastique du diocèse de Coutances, II</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -2461,6 +2341,46 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
+                                    <String>&lt;ref sigle="Inventaire de la collection Joursanvault"> &lt;i>Catalogue analytique des archives de M. le baron de Joursanvault&lt;/i> […], 2 t., Paris, 1838,&lt;/ref></String>
+                                </field>
+                                <field name="descriptionString">
+                                    <String></String>
+                                </field>
+                                <field name="renderString">
+                                    <String>Inventaire de la collection Joursanvault</String>
+                                </field>
+                                <field name="enabled">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="accelerator">
+                                    <null/>
+                                </field>
+                            </codeTemplateItem>
+                            <codeTemplateItem>
+                                <field name="contentType">
+                                    <String>text/any</String>
+                                </field>
+                                <field name="unparsedInsertString">
+                                    <String>&lt;ref sigle="Irht fiches">Corpus philippicum, itinéraire de Philippe le Bel, fiches mss. (conservé à l’Institut de recherches et d’histoire des textes)&lt;/ref></String>
+                                </field>
+                                <field name="descriptionString">
+                                    <String></String>
+                                </field>
+                                <field name="renderString">
+                                    <String>Irht fiches</String>
+                                </field>
+                                <field name="enabled">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="accelerator">
+                                    <null/>
+                                </field>
+                            </codeTemplateItem>
+                            <codeTemplateItem>
+                                <field name="contentType">
+                                    <String>text/any</String>
+                                </field>
+                                <field name="unparsedInsertString">
                                     <String>&lt;ref sigle="Irurita">Maria Angeles Irurita Lusarreta, &lt;i>El municipio de Pamplona en la Edad Media&lt;/i>, Pampelune, 1959,&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
@@ -2468,6 +2388,46 @@
                                 </field>
                                 <field name="renderString">
                                     <String>Irurita</String>
+                                </field>
+                                <field name="enabled">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="accelerator">
+                                    <null/>
+                                </field>
+                            </codeTemplateItem>
+                            <codeTemplateItem>
+                                <field name="contentType">
+                                    <String>text/any</String>
+                                </field>
+                                <field name="unparsedInsertString">
+                                    <String>&lt;ref sigle="J. Claustre, dans Histoire de la mémoire judiciaire">Julie Claustre, « Naissance d’une mémoire judiciaire : les débuts de la “clergie” du châtelet de Paris », dans &lt;i>Une histoire de la mémoire judiciaire&lt;/i>, éd. Olivier Poncet et Isabelle Storez-Brancourt, Paris, 2009 (Études et rencontres de l’École des chartes, 29), p. 151-161, à la&lt;/ref></String>
+                                </field>
+                                <field name="descriptionString">
+                                    <String></String>
+                                </field>
+                                <field name="renderString">
+                                    <String>J. Claustre, dans Histoire de la mémoire judiciaire</String>
+                                </field>
+                                <field name="enabled">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="accelerator">
+                                    <null/>
+                                </field>
+                            </codeTemplateItem>
+                            <codeTemplateItem>
+                                <field name="contentType">
+                                    <String>text/any</String>
+                                </field>
+                                <field name="unparsedInsertString">
+                                    <String>&lt;ref sigle="J. Fontanel">Julie Fontanel, &lt;i>Le cartulaire du chapitre cathédral de Coutances. Étude et édition critique&lt;/i>, Saint-Lô, 2003,&lt;/ref></String>
+                                </field>
+                                <field name="descriptionString">
+                                    <String></String>
+                                </field>
+                                <field name="renderString">
+                                    <String>J. Fontanel</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -2501,13 +2461,13 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Lacabane dans BEC 1842">Léon Lacabane, « Dissertations sur l’histoire de France au &lt;pc>xiv&lt;/pc>&lt;sup>e&lt;/sup> siècle. I : mort de Philippe le Bel, avènement de Louis Hutin », dans &lt;i>Bibliothèque de l’École des chartes&lt;/i>, t. 3, 1841-1842, p. 1-16, à la&lt;/ref></String>
+                                    <String>&lt;ref sigle="La Fortelle, Histoire et description de Notre-Dame de Melun">Bernard de La Fortelle, &lt;i>Histoire et description de Notre-Dame de Melun&lt;/i>, Melun, 1843,&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
                                     <String></String>
                                 </field>
                                 <field name="renderString">
-                                    <String>Lacabane dans BEC 1842</String>
+                                    <String>La Fortelle, Histoire et description de Notre-Dame de Melun</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -2521,13 +2481,13 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Lacarra, El juramento">José Maria Lacarra y de Miguel, &lt;i>El juramento de los reyes de Navarra (1234-1329)&lt;/i>, Madrid, 1972,&lt;/ref></String>
+                                    <String>&lt;ref sigle="Lacabane dans BEC 1842">Léon Lacabane, « Dissertations sur l’histoire de France au &lt;pc>xiv&lt;/pc>&lt;sup>e&lt;/sup> siècle. I : mort de Philippe le Bel, avènement de Louis Hutin », dans &lt;i>Bibliothèque de l’École des chartes&lt;/i>, t. 3, 1841-1842, p. 1-16, à la&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
                                     <String></String>
                                 </field>
                                 <field name="renderString">
-                                    <String>Lacarra, El juramento</String>
+                                    <String>Lacabane dans BEC 1842</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -2561,6 +2521,26 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
+                                    <String>&lt;ref sigle="Lacarra, El juramento">José Maria Lacarra y de Miguel, &lt;i>El juramento de los reyes de Navarra (1234-1329)&lt;/i>, Madrid, 1972,&lt;/ref></String>
+                                </field>
+                                <field name="descriptionString">
+                                    <String></String>
+                                </field>
+                                <field name="renderString">
+                                    <String>Lacarra, El juramento</String>
+                                </field>
+                                <field name="enabled">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="accelerator">
+                                    <null/>
+                                </field>
+                            </codeTemplateItem>
+                            <codeTemplateItem>
+                                <field name="contentType">
+                                    <String>text/any</String>
+                                </field>
+                                <field name="unparsedInsertString">
                                     <String>&lt;ref sigle="Laenen">chanoine Joseph Laenen, &lt;i>Les archives de l’État à Vienne au point de vue de l’histoire de Belgique&lt;/i>, Bruxelles, 1924,&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
@@ -2568,46 +2548,6 @@
                                 </field>
                                 <field name="renderString">
                                     <String>Laenen</String>
-                                </field>
-                                <field name="enabled">
-                                    <Boolean>true</Boolean>
-                                </field>
-                                <field name="accelerator">
-                                    <null/>
-                                </field>
-                            </codeTemplateItem>
-                            <codeTemplateItem>
-                                <field name="contentType">
-                                    <String>text/any</String>
-                                </field>
-                                <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="La Fortelle, Histoire et description de Notre-Dame de Melun">Bernard de La Fortelle, &lt;i>Histoire et description de Notre-Dame de Melun&lt;/i>, Melun, 1843,&lt;/ref></String>
-                                </field>
-                                <field name="descriptionString">
-                                    <String></String>
-                                </field>
-                                <field name="renderString">
-                                    <String>La Fortelle, Histoire et description de Notre-Dame de Melun</String>
-                                </field>
-                                <field name="enabled">
-                                    <Boolean>true</Boolean>
-                                </field>
-                                <field name="accelerator">
-                                    <null/>
-                                </field>
-                            </codeTemplateItem>
-                            <codeTemplateItem>
-                                <field name="contentType">
-                                    <String>text/any</String>
-                                </field>
-                                <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Langlois, Registres">Charles-Victor Langlois, « Registres perdus des archives de la chambre des comptes de Paris », dans &lt;i>Notices et extraits des manuscrits de la Bibliothèque nationale et autres bibliothèques publiés par l’Académie des inscriptions et belles-lettres&lt;/i>, t. 40, 1916, p. 33-398 ; tiré à part, Paris, 1917,&lt;/ref></String>
-                                </field>
-                                <field name="descriptionString">
-                                    <String></String>
-                                </field>
-                                <field name="renderString">
-                                    <String>Langlois, Registres</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -2641,13 +2581,13 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="BEC 1917">Charles-Victor Langlois, « Gilles d’Audenarde », dans &lt;i>Bibliothèque de l’École des chartes&lt;/i>, t. 78, 1917, p. 490-491, à la&lt;/ref></String>
+                                    <String>&lt;ref sigle="Langlois, Formulaires de lettres..., t. XXXV, 2e partie">Charles-Victor Langlois, « Formulaires de lettres du &lt;pc>xii&lt;/pc>&lt;sup>e&lt;/sup>, du &lt;pc>xiii&lt;/pc>&lt;sup>e&lt;/sup> et du &lt;pc>xiv&lt;/pc>&lt;sup>e&lt;/sup> siècles », art. 6 : « Les plus anciens formulaires de la chancellerie de France », dans &lt;i>Notices et extraits des manuscrits de la Bibliothèque nationale et autres bibliothèques publiés par l’Académie des inscriptions et belles-lettres&lt;/i>, t. XXXV, 2&lt;sup>e&lt;/sup> partie, Paris, 1897, p. 793-830, à la&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
                                     <String></String>
                                 </field>
                                 <field name="renderString">
-                                    <String>BEC 1917</String>
+                                    <String>Langlois, Formulaires de lettres..., t. XXXV, 2e partie</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -2681,13 +2621,13 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Langlois, Formulaires de lettres..., t. XXXV, 2e partie">Charles-Victor Langlois, « Formulaires de lettres du &lt;pc>xii&lt;/pc>&lt;sup>e&lt;/sup>, du &lt;pc>xiii&lt;/pc>&lt;sup>e&lt;/sup> et du &lt;pc>xiv&lt;/pc>&lt;sup>e&lt;/sup> siècles », art. 6 : « Les plus anciens formulaires de la chancellerie de France », dans &lt;i>Notices et extraits des manuscrits de la Bibliothèque nationale et autres bibliothèques publiés par l’Académie des inscriptions et belles-lettres&lt;/i>, t. XXXV, 2&lt;sup>e&lt;/sup> partie, Paris, 1897, p. 793-830, à la&lt;/ref></String>
+                                    <String>&lt;ref sigle="Langlois, Registres">Charles-Victor Langlois, « Registres perdus des archives de la chambre des comptes de Paris », dans &lt;i>Notices et extraits des manuscrits de la Bibliothèque nationale et autres bibliothèques publiés par l’Académie des inscriptions et belles-lettres&lt;/i>, t. 40, 1916, p. 33-398 ; tiré à part, Paris, 1917,&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
                                     <String></String>
                                 </field>
                                 <field name="renderString">
-                                    <String>Langlois, Formulaires de lettres..., t. XXXV, 2e partie</String>
+                                    <String>Langlois, Registres</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -2761,26 +2701,6 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., &lt;i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique&lt;/i> […], 22 t., Paris, 1723-1849, t. &lt;/ref></String>
-                                </field>
-                                <field name="descriptionString">
-                                    <String></String>
-                                </field>
-                                <field name="renderString">
-                                    <String>Ord.</String>
-                                </field>
-                                <field name="enabled">
-                                    <Boolean>true</Boolean>
-                                </field>
-                                <field name="accelerator">
-                                    <null/>
-                                </field>
-                            </codeTemplateItem>
-                            <codeTemplateItem>
-                                <field name="contentType">
-                                    <String>text/any</String>
-                                </field>
-                                <field name="unparsedInsertString">
                                     <String>&lt;ref sigle="Le Brasseur">Pierre Le Brasseur, &lt;i>Histoire civile et ecclésiastique du comté d’Évreux&lt;/i> […], Paris, 1722,&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
@@ -2808,6 +2728,66 @@
                                 </field>
                                 <field name="renderString">
                                     <String>Le Grand</String>
+                                </field>
+                                <field name="enabled">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="accelerator">
+                                    <null/>
+                                </field>
+                            </codeTemplateItem>
+                            <codeTemplateItem>
+                                <field name="contentType">
+                                    <String>text/any</String>
+                                </field>
+                                <field name="unparsedInsertString">
+                                    <String>&lt;ref sigle="Le Mire, IV">François Foppens, &lt;i>Diplomatum belgicorum nova collectio, sive supplementum ad&lt;/i> Opera diplomatica &lt;i>Auberti Miræi&lt;/i>, t. IV, Bruxelles, 1748&lt;/ref></String>
+                                </field>
+                                <field name="descriptionString">
+                                    <String></String>
+                                </field>
+                                <field name="renderString">
+                                    <String>Le Mire, IV</String>
+                                </field>
+                                <field name="enabled">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="accelerator">
+                                    <null/>
+                                </field>
+                            </codeTemplateItem>
+                            <codeTemplateItem>
+                                <field name="contentType">
+                                    <String>text/any</String>
+                                </field>
+                                <field name="unparsedInsertString">
+                                    <String>&lt;ref sigle="Le Noir 50">le P. Jacques-Louis Le Noir, &lt;i>Preuves généalogiques et historiques de la maison de Harcourt&lt;/i>, éd. marquis Harcourt, Paris, 1907, n° 50&lt;/ref></String>
+                                </field>
+                                <field name="descriptionString">
+                                    <String></String>
+                                </field>
+                                <field name="renderString">
+                                    <String>Le Noir 50</String>
+                                </field>
+                                <field name="enabled">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="accelerator">
+                                    <null/>
+                                </field>
+                            </codeTemplateItem>
+                            <codeTemplateItem>
+                                <field name="contentType">
+                                    <String>text/any</String>
+                                </field>
+                                <field name="unparsedInsertString">
+                                    <String>&lt;ref sigle="Le Noir n° 53">le P. Jacques-Louis Le Noir, &lt;i>Preuves généalogiques et historiques de la maison de Harcourt&lt;/i>, éd. marquis Harcourt, Paris, 1907, n° 53&lt;/ref></String>
+                                </field>
+                                <field name="descriptionString">
+                                    <String></String>
+                                </field>
+                                <field name="renderString">
+                                    <String>Le Noir n° 53</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -2901,66 +2881,6 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Le Noir 50">le P. Jacques-Louis Le Noir, &lt;i>Preuves généalogiques et historiques de la maison de Harcourt&lt;/i>, éd. marquis Harcourt, Paris, 1907, n° 50&lt;/ref></String>
-                                </field>
-                                <field name="descriptionString">
-                                    <String></String>
-                                </field>
-                                <field name="renderString">
-                                    <String>Le Noir 50</String>
-                                </field>
-                                <field name="enabled">
-                                    <Boolean>true</Boolean>
-                                </field>
-                                <field name="accelerator">
-                                    <null/>
-                                </field>
-                            </codeTemplateItem>
-                            <codeTemplateItem>
-                                <field name="contentType">
-                                    <String>text/any</String>
-                                </field>
-                                <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Le Noir n° 53">le P. Jacques-Louis Le Noir, &lt;i>Preuves généalogiques et historiques de la maison de Harcourt&lt;/i>, éd. marquis Harcourt, Paris, 1907, n° 53&lt;/ref></String>
-                                </field>
-                                <field name="descriptionString">
-                                    <String></String>
-                                </field>
-                                <field name="renderString">
-                                    <String>Le Noir n° 53</String>
-                                </field>
-                                <field name="enabled">
-                                    <Boolean>true</Boolean>
-                                </field>
-                                <field name="accelerator">
-                                    <null/>
-                                </field>
-                            </codeTemplateItem>
-                            <codeTemplateItem>
-                                <field name="contentType">
-                                    <String>text/any</String>
-                                </field>
-                                <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Lépinois et Merlet, Cartulaire de ND de Chartres">Ernest de Buchère de Lépinois et Lucien Merlet, &lt;i>Cartulaire de Notre-Dame de Chartres&lt;/i>, 3 t., Chartres, 1862-1865, t. II&lt;/ref></String>
-                                </field>
-                                <field name="descriptionString">
-                                    <String></String>
-                                </field>
-                                <field name="renderString">
-                                    <String>Lépinois et Merlet, Cartulaire de ND de Chartres</String>
-                                </field>
-                                <field name="enabled">
-                                    <Boolean>true</Boolean>
-                                </field>
-                                <field name="accelerator">
-                                    <null/>
-                                </field>
-                            </codeTemplateItem>
-                            <codeTemplateItem>
-                                <field name="contentType">
-                                    <String>text/any</String>
-                                </field>
-                                <field name="unparsedInsertString">
                                     <String>&lt;ref sigle="Levesque">Guillaume Levesque, &lt;i>Chartres &lt;i>(sic)&lt;/i>, lettres, titres et arrests, de l’Antiquité, chappelle, droicts, fonctions, pouvoirs, exemptions et privileges des notaires et gardenottes du roy au Chastelet de Paris&lt;/i>, Paris, 1663,&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
@@ -2968,26 +2888,6 @@
                                 </field>
                                 <field name="renderString">
                                     <String>Levesque</String>
-                                </field>
-                                <field name="enabled">
-                                    <Boolean>true</Boolean>
-                                </field>
-                                <field name="accelerator">
-                                    <null/>
-                                </field>
-                            </codeTemplateItem>
-                            <codeTemplateItem>
-                                <field name="contentType">
-                                    <String>text/any</String>
-                                </field>
-                                <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="de Lhomel, Recueil de documents…">Georges de Lhomel, &lt;i>Recueil de documents pour servir à l’histoire de Montreuil-sur-Mer (1000-1464). Supplément au cartulaire municipal&lt;/i>, Compiègne, 1907,&lt;/ref></String>
-                                </field>
-                                <field name="descriptionString">
-                                    <String></String>
-                                </field>
-                                <field name="renderString">
-                                    <String>de Lhomel, Recueil de documents…</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -3041,6 +2941,26 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
+                                    <String>&lt;ref sigle="Lépinois et Merlet, Cartulaire de ND de Chartres">Ernest de Buchère de Lépinois et Lucien Merlet, &lt;i>Cartulaire de Notre-Dame de Chartres&lt;/i>, 3 t., Chartres, 1862-1865, t. II&lt;/ref></String>
+                                </field>
+                                <field name="descriptionString">
+                                    <String></String>
+                                </field>
+                                <field name="renderString">
+                                    <String>Lépinois et Merlet, Cartulaire de ND de Chartres</String>
+                                </field>
+                                <field name="enabled">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="accelerator">
+                                    <null/>
+                                </field>
+                            </codeTemplateItem>
+                            <codeTemplateItem>
+                                <field name="contentType">
+                                    <String>text/any</String>
+                                </field>
+                                <field name="unparsedInsertString">
                                     <String>&lt;ref sigle="Magen">Adolphe Magen et Georges Tholin, &lt;i>Archives municipales d’Agen. Chartes, première série (1189-1328)&lt;/i>, Villeneuve-sur-Lot, 1876,&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
@@ -3048,66 +2968,6 @@
                                 </field>
                                 <field name="renderString">
                                     <String>Magen</String>
-                                </field>
-                                <field name="enabled">
-                                    <Boolean>true</Boolean>
-                                </field>
-                                <field name="accelerator">
-                                    <null/>
-                                </field>
-                            </codeTemplateItem>
-                            <codeTemplateItem>
-                                <field name="contentType">
-                                    <String>text/any</String>
-                                </field>
-                                <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Comptes royaux">François Maillard, &lt;i>Comptes royaux (1314-1328)&lt;/i>, dir. Robert Fawtier, 2 t., Paris, 1961 (&lt;i>Recueil des historiens de la France. Documents financiers&lt;/i>, 4),&lt;/ref></String>
-                                </field>
-                                <field name="descriptionString">
-                                    <String></String>
-                                </field>
-                                <field name="renderString">
-                                    <String>Comptes royaux</String>
-                                </field>
-                                <field name="enabled">
-                                    <Boolean>true</Boolean>
-                                </field>
-                                <field name="accelerator">
-                                    <null/>
-                                </field>
-                            </codeTemplateItem>
-                            <codeTemplateItem>
-                                <field name="contentType">
-                                    <String>text/any</String>
-                                </field>
-                                <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="CR n°"> François Maillard, &lt;i>Comptes royaux (1314-1328)&lt;/i>, dir. Robert Fawtier, 2 t., Paris, 1961 (&lt;i>Recueil des historiens de la France. Documents financiers&lt;/i>, 4), n° &lt;/ref></String>
-                                </field>
-                                <field name="descriptionString">
-                                    <String></String>
-                                </field>
-                                <field name="renderString">
-                                    <String>CR n°</String>
-                                </field>
-                                <field name="enabled">
-                                    <Boolean>true</Boolean>
-                                </field>
-                                <field name="accelerator">
-                                    <null/>
-                                </field>
-                            </codeTemplateItem>
-                            <codeTemplateItem>
-                                <field name="contentType">
-                                    <String>text/any</String>
-                                </field>
-                                <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="de Soultrait">comte de Soultrait, &lt;i>Inventaires des titres de Nevers de l’abbé de Marolles&lt;/i> […], Nevers, 1873,&lt;/ref></String>
-                                </field>
-                                <field name="descriptionString">
-                                    <String></String>
-                                </field>
-                                <field name="renderString">
-                                    <String>de Soultrait</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -3201,26 +3061,6 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="de Maulde">René de Maulde, &lt;i>Étude sur la condition forestière de l’Orléanais au Moyen Âge et à la Renaissance&lt;/i>, Orléans, s. d.,&lt;/ref></String>
-                                </field>
-                                <field name="descriptionString">
-                                    <String></String>
-                                </field>
-                                <field name="renderString">
-                                    <String>de Maulde</String>
-                                </field>
-                                <field name="enabled">
-                                    <Boolean>true</Boolean>
-                                </field>
-                                <field name="accelerator">
-                                    <null/>
-                                </field>
-                            </codeTemplateItem>
-                            <codeTemplateItem>
-                                <field name="contentType">
-                                    <String>text/any</String>
-                                </field>
-                                <field name="unparsedInsertString">
                                     <String>&lt;ref sigle="Meissonnier">Antoine Meissonnier, &lt;i>Le Gévaudan sous l’empire du roi. Le sens politique du procès et du paréage entre l’évêque de Mende et le roi de France (1269-1307)&lt;/i>, thèse pour le dipl. d’archiviste paléographe, 2011, dactyl.,&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
@@ -3241,66 +3081,6 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Ménard, Nîmes">Léon Ménard, &lt;i>Histoire civile, ecclésiastique et littéraire de la ville de Nismes&lt;/i> […], 7 t., Paris, 1744-1758 ; rééd., Nîmes, 1873-1875, t. &lt;/ref></String>
-                                </field>
-                                <field name="descriptionString">
-                                    <String></String>
-                                </field>
-                                <field name="renderString">
-                                    <String>Ménard, Nîmes</String>
-                                </field>
-                                <field name="enabled">
-                                    <Boolean>true</Boolean>
-                                </field>
-                                <field name="accelerator">
-                                    <null/>
-                                </field>
-                            </codeTemplateItem>
-                            <codeTemplateItem>
-                                <field name="contentType">
-                                    <String>text/any</String>
-                                </field>
-                                <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Ménard, Histoire de Saint-James-de-Beuvron">Victor Ménard, &lt;i>Histoire religieuse, civile et militaire de Saint-James de Beuvron&lt;/i> […], Avranches, 1897,&lt;/ref></String>
-                                </field>
-                                <field name="descriptionString">
-                                    <String></String>
-                                </field>
-                                <field name="renderString">
-                                    <String>Ménard, Histoire de Saint-James-de-Beuvron</String>
-                                </field>
-                                <field name="enabled">
-                                    <Boolean>true</Boolean>
-                                </field>
-                                <field name="accelerator">
-                                    <null/>
-                                </field>
-                            </codeTemplateItem>
-                            <codeTemplateItem>
-                                <field name="contentType">
-                                    <String>text/any</String>
-                                </field>
-                                <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Sellos medievales de Navarra">Faustino Menéndez Pidal de Navascués, Mikel Ramos Aguirre et Esperanza Ochoa de Olza Eguiraun, &lt;i>Sellos medievales de Navarra. Estudio y corpus descriptivo&lt;/i>, Pampelune, 1995&lt;/ref></String>
-                                </field>
-                                <field name="descriptionString">
-                                    <String></String>
-                                </field>
-                                <field name="renderString">
-                                    <String>Sellos medievales de Navarra</String>
-                                </field>
-                                <field name="enabled">
-                                    <Boolean>true</Boolean>
-                                </field>
-                                <field name="accelerator">
-                                    <null/>
-                                </field>
-                            </codeTemplateItem>
-                            <codeTemplateItem>
-                                <field name="contentType">
-                                    <String>text/any</String>
-                                </field>
-                                <field name="unparsedInsertString">
                                     <String>&lt;ref sigle="Merlet et Moutié, Cartulaire des Vaux-de-Cernay">Lucien Merlet et Auguste Moutié, &lt;i>Cartulaire de l’abbaye de Notre-Dame des Vaux de Cernay, de l’ordre de Cîteaux, au diocèse de Paris&lt;/i> […], 2 t. en 3 vol., Paris, 1857-1858 (Société archéologique de Rambouillet. Documents pour servir à l’histoire du département de Seine-et-Oise), t. &lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
@@ -3308,26 +3088,6 @@
                                 </field>
                                 <field name="renderString">
                                     <String>Merlet et Moutié, Cartulaire des Vaux-de-Cernay</String>
-                                </field>
-                                <field name="enabled">
-                                    <Boolean>true</Boolean>
-                                </field>
-                                <field name="accelerator">
-                                    <null/>
-                                </field>
-                            </codeTemplateItem>
-                            <codeTemplateItem>
-                                <field name="contentType">
-                                    <String>text/any</String>
-                                </field>
-                                <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Métais, AHS XXII">abbé Charles Métais, &lt;i>Cartulaire saintongeais de la Trinité de Vendôme&lt;/i>, Paris/Saintes, 1893 (Archives historiques de la Saintonge et de l’Aunis, 22)&lt;/ref></String>
-                                </field>
-                                <field name="descriptionString">
-                                    <String></String>
-                                </field>
-                                <field name="renderString">
-                                    <String>Métais, AHS XXII</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -3401,26 +3161,6 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Morel, III">chanoine Émile-Épiphanius Morel, &lt;i>Cartulaire de l’abbaye de Saint-Corneille de Compiègne&lt;/i>, t. III, éd. Louis Carolus-Barré, Paris, 1977&lt;/ref></String>
-                                </field>
-                                <field name="descriptionString">
-                                    <String></String>
-                                </field>
-                                <field name="renderString">
-                                    <String>Morel, III</String>
-                                </field>
-                                <field name="enabled">
-                                    <Boolean>true</Boolean>
-                                </field>
-                                <field name="accelerator">
-                                    <null/>
-                                </field>
-                            </codeTemplateItem>
-                            <codeTemplateItem>
-                                <field name="contentType">
-                                    <String>text/any</String>
-                                </field>
-                                <field name="unparsedInsertString">
                                     <String>&lt;ref sigle="Morel n°"> chanoine Émile-Épiphanius Morel, &lt;i>Cartulaire de l’abbaye de Saint-Corneille de Compiègne&lt;/i>, t. III, éd. Louis Carolus-Barré, Paris, 1977, n°&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
@@ -3441,13 +3181,13 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="O. Morel, pj">Octave Morel, &lt;i>La Grande Chancellerie royale et l’expédition des lettres royaux de l’avènement de Philippe de Valois à la fin du &lt;pc>xiv&lt;/pc>&lt;sup>e&lt;/sup> siècle (1328-1400)&lt;/i>, Paris, 1900 (Mémoires et documents publiés par la Société de l’École des chartes, 3), pièce justificative&lt;/ref></String>
+                                    <String>&lt;ref sigle="Morel, III">chanoine Émile-Épiphanius Morel, &lt;i>Cartulaire de l’abbaye de Saint-Corneille de Compiègne&lt;/i>, t. III, éd. Louis Carolus-Barré, Paris, 1977&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
                                     <String></String>
                                 </field>
                                 <field name="renderString">
-                                    <String>O. Morel, pj</String>
+                                    <String>Morel, III</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -3481,6 +3221,86 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
+                                    <String>&lt;ref sigle="Mussely">Charles Liévin Mussely, &lt;i>Inventaire des archives de la ville de Courtrai&lt;/i>, t. I, Courtrai, 1854,&lt;/ref></String>
+                                </field>
+                                <field name="descriptionString">
+                                    <String></String>
+                                </field>
+                                <field name="renderString">
+                                    <String>Mussely</String>
+                                </field>
+                                <field name="enabled">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="accelerator">
+                                    <null/>
+                                </field>
+                            </codeTemplateItem>
+                            <codeTemplateItem>
+                                <field name="contentType">
+                                    <String>text/any</String>
+                                </field>
+                                <field name="unparsedInsertString">
+                                    <String>&lt;ref sigle="Ménard, Histoire de Saint-James-de-Beuvron">Victor Ménard, &lt;i>Histoire religieuse, civile et militaire de Saint-James de Beuvron&lt;/i> […], Avranches, 1897,&lt;/ref></String>
+                                </field>
+                                <field name="descriptionString">
+                                    <String></String>
+                                </field>
+                                <field name="renderString">
+                                    <String>Ménard, Histoire de Saint-James-de-Beuvron</String>
+                                </field>
+                                <field name="enabled">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="accelerator">
+                                    <null/>
+                                </field>
+                            </codeTemplateItem>
+                            <codeTemplateItem>
+                                <field name="contentType">
+                                    <String>text/any</String>
+                                </field>
+                                <field name="unparsedInsertString">
+                                    <String>&lt;ref sigle="Ménard, Nîmes">Léon Ménard, &lt;i>Histoire civile, ecclésiastique et littéraire de la ville de Nismes&lt;/i> […], 7 t., Paris, 1744-1758 ; rééd., Nîmes, 1873-1875, t. &lt;/ref></String>
+                                </field>
+                                <field name="descriptionString">
+                                    <String></String>
+                                </field>
+                                <field name="renderString">
+                                    <String>Ménard, Nîmes</String>
+                                </field>
+                                <field name="enabled">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="accelerator">
+                                    <null/>
+                                </field>
+                            </codeTemplateItem>
+                            <codeTemplateItem>
+                                <field name="contentType">
+                                    <String>text/any</String>
+                                </field>
+                                <field name="unparsedInsertString">
+                                    <String>&lt;ref sigle="Métais, AHS XXII">abbé Charles Métais, &lt;i>Cartulaire saintongeais de la Trinité de Vendôme&lt;/i>, Paris/Saintes, 1893 (Archives historiques de la Saintonge et de l’Aunis, 22)&lt;/ref></String>
+                                </field>
+                                <field name="descriptionString">
+                                    <String></String>
+                                </field>
+                                <field name="renderString">
+                                    <String>Métais, AHS XXII</String>
+                                </field>
+                                <field name="enabled">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="accelerator">
+                                    <null/>
+                                </field>
+                            </codeTemplateItem>
+                            <codeTemplateItem>
+                                <field name="contentType">
+                                    <String>text/any</String>
+                                </field>
+                                <field name="unparsedInsertString">
                                     <String>&lt;ref sigle="Müller">abbé Eugène Müller, &lt;i>Le prieuré de Saint-Leu d’Esserent : cartulaire (1080-1538)&lt;/i>, Pontoise, 1901,&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
@@ -3501,13 +3321,33 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Mussely">Charles Liévin Mussely, &lt;i>Inventaire des archives de la ville de Courtrai&lt;/i>, t. I, Courtrai, 1854,&lt;/ref></String>
+                                    <String>&lt;ref sigle="O. Morel, pj">Octave Morel, &lt;i>La Grande Chancellerie royale et l’expédition des lettres royaux de l’avènement de Philippe de Valois à la fin du &lt;pc>xiv&lt;/pc>&lt;sup>e&lt;/sup> siècle (1328-1400)&lt;/i>, Paris, 1900 (Mémoires et documents publiés par la Société de l’École des chartes, 3), pièce justificative&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
                                     <String></String>
                                 </field>
                                 <field name="renderString">
-                                    <String>Mussely</String>
+                                    <String>O. Morel, pj</String>
+                                </field>
+                                <field name="enabled">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="accelerator">
+                                    <null/>
+                                </field>
+                            </codeTemplateItem>
+                            <codeTemplateItem>
+                                <field name="contentType">
+                                    <String>text/any</String>
+                                </field>
+                                <field name="unparsedInsertString">
+                                    <String>&lt;ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., &lt;i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique&lt;/i> […], 22 t., Paris, 1723-1849, t. &lt;/ref></String>
+                                </field>
+                                <field name="descriptionString">
+                                    <String></String>
+                                </field>
+                                <field name="renderString">
+                                    <String>Ord.</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -3541,13 +3381,13 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Peigné-Delacourt">Achille Peigné-Delacourt, &lt;i>Cartulaire de Morienval et chartes de l’abbaye de Lieu-Restauré&lt;/i>, s. l., [1876],&lt;/ref></String>
+                                    <String>&lt;ref sigle="Pauly, Die Urkunden">&lt;i>Urkunden- und Quellenbuch zur Geschichte der Altluxemburgischen Territorien&lt;/i>, t. XI : &lt;i>Die Urkunden Graf Johanns des Blinden (1310-1346)&lt;/i>, 1&lt;sup>re&lt;/sup> partie : &lt;i>Die Urkunden aus Luxemburger Archivbeständen&lt;/i>, éd. Aloyse Estgen, Michel Pauly et Jean Schroeder, Luxembourg, 1997 (Publications du CLUDEM, 11),&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
                                     <String></String>
                                 </field>
                                 <field name="renderString">
-                                    <String>Peigné-Delacourt</String>
+                                    <String>Pauly, Die Urkunden</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -3561,13 +3401,13 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="de Pena">Nicole de Peña, &lt;i>Documents sur la maison de Durfort (&lt;pc>xi&lt;/pc>&lt;sup>e&lt;/sup>-&lt;pc>xv&lt;/pc>&lt;sup>e&lt;/sup> siècle)&lt;/i>, t. I, Bordeaux, 1977,&lt;/ref></String>
+                                    <String>&lt;ref sigle="Peigné-Delacourt">Achille Peigné-Delacourt, &lt;i>Cartulaire de Morienval et chartes de l’abbaye de Lieu-Restauré&lt;/i>, s. l., [1876],&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
                                     <String></String>
                                 </field>
                                 <field name="renderString">
-                                    <String>de Pena</String>
+                                    <String>Peigné-Delacourt</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -3608,6 +3448,46 @@
                                 </field>
                                 <field name="renderString">
                                     <String>Petit, Ducs</String>
+                                </field>
+                                <field name="enabled">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="accelerator">
+                                    <null/>
+                                </field>
+                            </codeTemplateItem>
+                            <codeTemplateItem>
+                                <field name="contentType">
+                                    <String>text/any</String>
+                                </field>
+                                <field name="unparsedInsertString">
+                                    <String>&lt;ref sigle="Petit, Essai, n">Joseph Petit, Michel Gavrilovitch, Maury et D.-A. Teodoru, &lt;i>Essai de restitution des plus anciens mémoriaux de la Chambre des comptes&lt;/i>, Paris, 1899 (&lt;i>Université de Paris. Bibliothèque de la faculté des Lettres&lt;/i>, 7), n&lt;/ref></String>
+                                </field>
+                                <field name="descriptionString">
+                                    <String></String>
+                                </field>
+                                <field name="renderString">
+                                    <String>Petit, Essai, n</String>
+                                </field>
+                                <field name="enabled">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="accelerator">
+                                    <null/>
+                                </field>
+                            </codeTemplateItem>
+                            <codeTemplateItem>
+                                <field name="contentType">
+                                    <String>text/any</String>
+                                </field>
+                                <field name="unparsedInsertString">
+                                    <String>&lt;ref sigle="Petit, Essai, pj">Joseph Petit, Michel Gavrilovitch, Maury et D.-A. Teodoru, &lt;i>Essai de restitution des plus anciens mémoriaux de la Chambre des comptes&lt;/i>, Paris, 1899 (&lt;i>Université de Paris. Bibliothèque de la faculté des Lettres&lt;/i>, 7), pièce justificative&lt;/ref></String>
+                                </field>
+                                <field name="descriptionString">
+                                    <String></String>
+                                </field>
+                                <field name="renderString">
+                                    <String>Petit, Essai, pj</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -3728,26 +3608,6 @@
                                 </field>
                                 <field name="renderString">
                                     <String>Ramière</String>
-                                </field>
-                                <field name="enabled">
-                                    <Boolean>true</Boolean>
-                                </field>
-                                <field name="accelerator">
-                                    <null/>
-                                </field>
-                            </codeTemplateItem>
-                            <codeTemplateItem>
-                                <field name="contentType">
-                                    <String>text/any</String>
-                                </field>
-                                <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="The Registers of Roger Martival, III">&lt;i>The Registers of Roger Martival, Bishop of Salisbury (1315-1339)&lt;/i>, t. III : &lt;i>Royal Writs&lt;/i>, éd. Susan Reynolds, Torquay, 1965 (The Canterbury and York Society, 59)&lt;/ref></String>
-                                </field>
-                                <field name="descriptionString">
-                                    <String></String>
-                                </field>
-                                <field name="renderString">
-                                    <String>The Registers of Roger Martival, III</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -4021,6 +3881,26 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
+                                    <String>&lt;ref sigle="Sellos medievales de Navarra">Faustino Menéndez Pidal de Navascués, Mikel Ramos Aguirre et Esperanza Ochoa de Olza Eguiraun, &lt;i>Sellos medievales de Navarra. Estudio y corpus descriptivo&lt;/i>, Pampelune, 1995&lt;/ref></String>
+                                </field>
+                                <field name="descriptionString">
+                                    <String></String>
+                                </field>
+                                <field name="renderString">
+                                    <String>Sellos medievales de Navarra</String>
+                                </field>
+                                <field name="enabled">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="accelerator">
+                                    <null/>
+                                </field>
+                            </codeTemplateItem>
+                            <codeTemplateItem>
+                                <field name="contentType">
+                                    <String>text/any</String>
+                                </field>
+                                <field name="unparsedInsertString">
                                     <String>&lt;ref sigle="Servois">Gustave Servois, « Documents inédits sur l’avènement de Philippe le Long », dans &lt;i>Annuaire-bulletin de la Société de l’histoire de France&lt;/i>, 1864, 2&lt;sup>e&lt;/sup> partie, p. 44-79,&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
@@ -4061,6 +3941,46 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
+                                    <String>&lt;ref sigle="Stein">Henri Stein, &lt;i>Inventaire analytique des ordonnances enregistrées au parlement de Paris jusqu’à la mort de Louis XII&lt;/i>, Paris, 1908,&lt;/ref></String>
+                                </field>
+                                <field name="descriptionString">
+                                    <String></String>
+                                </field>
+                                <field name="renderString">
+                                    <String>Stein</String>
+                                </field>
+                                <field name="enabled">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="accelerator">
+                                    <null/>
+                                </field>
+                            </codeTemplateItem>
+                            <codeTemplateItem>
+                                <field name="contentType">
+                                    <String>text/any</String>
+                                </field>
+                                <field name="unparsedInsertString">
+                                    <String>&lt;ref sigle="Tardif">Jules Tardif, &lt;i>Monuments historiques. Cartons des rois&lt;/i>, Paris, 1866 (Archives de l’Empire : inventaires et documents), n° &lt;/ref></String>
+                                </field>
+                                <field name="descriptionString">
+                                    <String></String>
+                                </field>
+                                <field name="renderString">
+                                    <String>Tardif</String>
+                                </field>
+                                <field name="enabled">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="accelerator">
+                                    <null/>
+                                </field>
+                            </codeTemplateItem>
+                            <codeTemplateItem>
+                                <field name="contentType">
+                                    <String>text/any</String>
+                                </field>
+                                <field name="unparsedInsertString">
                                     <String>&lt;ref sigle="Terroine">Anne Terroine et Lucie Fossier, &lt;i>Chartes et documents de l’abbaye de Saint-Magloire&lt;/i>, t. II, Paris, 1966 (&lt;i>Documents, études et répertoires publiés par l’Institut de recherche et d’histoire des textes&lt;/i>, 12),&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
@@ -4068,6 +3988,26 @@
                                 </field>
                                 <field name="renderString">
                                     <String>Terroine</String>
+                                </field>
+                                <field name="enabled">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="accelerator">
+                                    <null/>
+                                </field>
+                            </codeTemplateItem>
+                            <codeTemplateItem>
+                                <field name="contentType">
+                                    <String>text/any</String>
+                                </field>
+                                <field name="unparsedInsertString">
+                                    <String>&lt;ref sigle="The Registers of Roger Martival, III">&lt;i>The Registers of Roger Martival, Bishop of Salisbury (1315-1339)&lt;/i>, t. III : &lt;i>Royal Writs&lt;/i>, éd. Susan Reynolds, Torquay, 1965 (The Canterbury and York Society, 59)&lt;/ref></String>
+                                </field>
+                                <field name="descriptionString">
+                                    <String></String>
+                                </field>
+                                <field name="renderString">
+                                    <String>The Registers of Roger Martival, III</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -4121,46 +4061,6 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="A. Thomas">Antoine Thomas, « Charles IV le Bel à Villefranche en Limousin, aujourd’hui Masléon (Haute-Vienne), le 29 février 1324 », dans &lt;i>Bibliothèque de l’École des chartes&lt;/i>, t. 89, 1928, p. 169-174, à la&lt;/ref></String>
-                                </field>
-                                <field name="descriptionString">
-                                    <String></String>
-                                </field>
-                                <field name="renderString">
-                                    <String>A. Thomas</String>
-                                </field>
-                                <field name="enabled">
-                                    <Boolean>true</Boolean>
-                                </field>
-                                <field name="accelerator">
-                                    <null/>
-                                </field>
-                            </codeTemplateItem>
-                            <codeTemplateItem>
-                                <field name="contentType">
-                                    <String>text/any</String>
-                                </field>
-                                <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Histoire ecclésiastique du diocèse de Coutances, II">René Toustain de Billy, &lt;i>Histoire ecclésiastique du diocèse de Coutances&lt;/i>, éd. François Dolbet [et Pierre-Alexandre Héron], 3 t., Rouen, 1874-1886 (Société de l’histoire de la Normandie), t. II&lt;/ref></String>
-                                </field>
-                                <field name="descriptionString">
-                                    <String></String>
-                                </field>
-                                <field name="renderString">
-                                    <String>Histoire ecclésiastique du diocèse de Coutances, II</String>
-                                </field>
-                                <field name="enabled">
-                                    <Boolean>true</Boolean>
-                                </field>
-                                <field name="accelerator">
-                                    <null/>
-                                </field>
-                            </codeTemplateItem>
-                            <codeTemplateItem>
-                                <field name="contentType">
-                                    <String>text/any</String>
-                                </field>
-                                <field name="unparsedInsertString">
                                     <String>&lt;ref sigle="Tuetey">Alexandre &lt;pc>Tuetey&lt;/pc>, &lt;i>Inventaire analytique des livres de couleur et bannières du Châtelet de Paris&lt;/i>, Paris, 1899-1907, t. I,&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
@@ -4201,26 +4101,6 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Van der Linden">Herman Vander Linden, « Les relations politiques de la Flandre avec la France au &lt;pc>xiv&lt;/pc>&lt;sup>e&lt;/sup> siècle », dans &lt;i>Académie royale de Belgique. Bulletin de la Commission royale d’histoire&lt;/i>, 5&lt;sup>e&lt;/sup> série, t. 3, 1895, p. 449-523,&lt;/ref></String>
-                                </field>
-                                <field name="descriptionString">
-                                    <String></String>
-                                </field>
-                                <field name="renderString">
-                                    <String>Van der Linden</String>
-                                </field>
-                                <field name="enabled">
-                                    <Boolean>true</Boolean>
-                                </field>
-                                <field name="accelerator">
-                                    <null/>
-                                </field>
-                            </codeTemplateItem>
-                            <codeTemplateItem>
-                                <field name="contentType">
-                                    <String>text/any</String>
-                                </field>
-                                <field name="unparsedInsertString">
                                     <String>&lt;ref sigle="Van Duyse">Prudent Van Duyse et Edmond de Busscher, &lt;i>Inventaire analytique des chartres &lt;i>(sic)&lt;/i> et documents appartenant aux archives de la ville de Gand&lt;/i>, Gand, 1867, &lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
@@ -4241,13 +4121,13 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Verkooren">Alphonse Verkooren, &lt;i>Inventaire des chartes et cartulaires du Luxembourg (comté puis duché)&lt;/i>, 5 t., Bruxelles, 1902-1921, t. II,&lt;/ref></String>
+                                    <String>&lt;ref sigle="Van der Linden">Herman Vander Linden, « Les relations politiques de la Flandre avec la France au &lt;pc>xiv&lt;/pc>&lt;sup>e&lt;/sup> siècle », dans &lt;i>Académie royale de Belgique. Bulletin de la Commission royale d’histoire&lt;/i>, 5&lt;sup>e&lt;/sup> série, t. 3, 1895, p. 449-523,&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
                                     <String></String>
                                 </field>
                                 <field name="renderString">
-                                    <String>Verkooren</String>
+                                    <String>Van der Linden</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -4261,13 +4141,13 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Viard, t.">Jules Viard, &lt;i>Documents parisiens du règne de Philippe VI de Valois (1328-1350) extraits des registres de la chancellerie&lt;/i>, 2 t., Paris, 1899-1900 (&lt;i>Société de l’histoire de France&lt;/i>, 21 et 22), t. &lt;/ref></String>
+                                    <String>&lt;ref sigle="Verkooren">Alphonse Verkooren, &lt;i>Inventaire des chartes et cartulaires du Luxembourg (comté puis duché)&lt;/i>, 5 t., Bruxelles, 1902-1921, t. II,&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
                                     <String></String>
                                 </field>
                                 <field name="renderString">
-                                    <String>Viard, t.</String>
+                                    <String>Verkooren</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -4308,6 +4188,26 @@
                                 </field>
                                 <field name="renderString">
                                     <String>Viard, La Chambre des comptes..., pj.</String>
+                                </field>
+                                <field name="enabled">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="accelerator">
+                                    <null/>
+                                </field>
+                            </codeTemplateItem>
+                            <codeTemplateItem>
+                                <field name="contentType">
+                                    <String>text/any</String>
+                                </field>
+                                <field name="unparsedInsertString">
+                                    <String>&lt;ref sigle="Viard, t.">Jules Viard, &lt;i>Documents parisiens du règne de Philippe VI de Valois (1328-1350) extraits des registres de la chancellerie&lt;/i>, 2 t., Paris, 1899-1900 (&lt;i>Société de l’histoire de France&lt;/i>, 21 et 22), t. &lt;/ref></String>
+                                </field>
+                                <field name="descriptionString">
+                                    <String></String>
+                                </field>
+                                <field name="renderString">
+                                    <String>Viard, t.</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -4381,13 +4281,13 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Bruel, Chartes de Cluny VI"> Auguste Bernard et Alexandre Bruel, &lt;i>Recueil des chartes de l’abbaye de Cluny&lt;/i>, t. VI : &lt;i>1211-1300&lt;/i>, Paris, 1903,&lt;/ref></String>
+                                    <String>&lt;ref sigle="de Curzon">Théodore de Curzon, inventaire analytique par ordre chronologique du Trésor des chartes, 1890-1891, fiches mss. (conservé aux Archives nationales, département de l’Ancien Régime)&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
                                     <String></String>
                                 </field>
                                 <field name="renderString">
-                                    <String>Bruel, Chartes de Cluny VI</String>
+                                    <String>de Curzon</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -4401,13 +4301,13 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Bled, Bulletin CTHS 1904">abbé Oscar Bled, « Un mayeur de Saint-Omer (1317-1319) », dans &lt;i>Bulletin historique et philologique du Comité des travaux historiques et scientifiques&lt;/i>, 1904, p. 478-523, à la&lt;/ref></String>
+                                    <String>&lt;ref sigle="de Lhomel, Recueil de documents…">Georges de Lhomel, &lt;i>Recueil de documents pour servir à l’histoire de Montreuil-sur-Mer (1000-1464). Supplément au cartulaire municipal&lt;/i>, Compiègne, 1907,&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
                                     <String></String>
                                 </field>
                                 <field name="renderString">
-                                    <String>Bled, Bulletin CTHS 1904</String>
+                                    <String>de Lhomel, Recueil de documents…</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -4421,13 +4321,13 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Bled, Bulletin CTHS 1895">abbé Oscar Bled, « Onze lettres royales du &lt;pc>xiv&lt;/pc>&lt;sup>e&lt;/sup> siècle », dans &lt;i>Bulletin historique et philologique du Comité des travaux historiques et scientifiques&lt;/i>, 1895, p. 521-530, à la&lt;/ref></String>
+                                    <String>&lt;ref sigle="de Maulde">René de Maulde, &lt;i>Étude sur la condition forestière de l’Orléanais au Moyen Âge et à la Renaissance&lt;/i>, Orléans, s. d.,&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
                                     <String></String>
                                 </field>
                                 <field name="renderString">
-                                    <String>Bled, Bulletin CTHS 1895</String>
+                                    <String>de Maulde</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -4441,13 +4341,113 @@
                                     <String>text/any</String>
                                 </field>
                                 <field name="unparsedInsertString">
-                                    <String>&lt;ref sigle="Pauly, Die Urkunden">&lt;i>Urkunden- und Quellenbuch zur Geschichte der Altluxemburgischen Territorien&lt;/i>, t. XI : &lt;i>Die Urkunden Graf Johanns des Blinden (1310-1346)&lt;/i>, 1&lt;sup>re&lt;/sup> partie : &lt;i>Die Urkunden aus Luxemburger Archivbeständen&lt;/i>, éd. Aloyse Estgen, Michel Pauly et Jean Schroeder, Luxembourg, 1997 (Publications du CLUDEM, 11),&lt;/ref></String>
+                                    <String>&lt;ref sigle="de Pena">Nicole de Peña, &lt;i>Documents sur la maison de Durfort (&lt;pc>xi&lt;/pc>&lt;sup>e&lt;/sup>-&lt;pc>xv&lt;/pc>&lt;sup>e&lt;/sup> siècle)&lt;/i>, t. I, Bordeaux, 1977,&lt;/ref></String>
                                 </field>
                                 <field name="descriptionString">
                                     <String></String>
                                 </field>
                                 <field name="renderString">
-                                    <String>Pauly, Die Urkunden</String>
+                                    <String>de Pena</String>
+                                </field>
+                                <field name="enabled">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="accelerator">
+                                    <null/>
+                                </field>
+                            </codeTemplateItem>
+                            <codeTemplateItem>
+                                <field name="contentType">
+                                    <String>text/any</String>
+                                </field>
+                                <field name="unparsedInsertString">
+                                    <String>&lt;ref sigle="de Potter">Frans De Potter, &lt;i>Second cartulaire de Gand&lt;/i>, Gand, [1886],&lt;/ref></String>
+                                </field>
+                                <field name="descriptionString">
+                                    <String></String>
+                                </field>
+                                <field name="renderString">
+                                    <String>de Potter</String>
+                                </field>
+                                <field name="enabled">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="accelerator">
+                                    <null/>
+                                </field>
+                            </codeTemplateItem>
+                            <codeTemplateItem>
+                                <field name="contentType">
+                                    <String>text/any</String>
+                                </field>
+                                <field name="unparsedInsertString">
+                                    <String>&lt;ref sigle="de Soultrait">comte de Soultrait, &lt;i>Inventaires des titres de Nevers de l’abbé de Marolles&lt;/i> […], Nevers, 1873,&lt;/ref></String>
+                                </field>
+                                <field name="descriptionString">
+                                    <String></String>
+                                </field>
+                                <field name="renderString">
+                                    <String>de Soultrait</String>
+                                </field>
+                                <field name="enabled">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="accelerator">
+                                    <null/>
+                                </field>
+                            </codeTemplateItem>
+                            <codeTemplateItem>
+                                <field name="contentType">
+                                    <String>text/any</String>
+                                </field>
+                                <field name="unparsedInsertString">
+                                    <String>&lt;ref sigle="dépouillement Irht">Corpus philippicum, analyses par dépôt d’archives, mss. (conservé à l’Institut de recherches et d’histoire des textes)&lt;/ref></String>
+                                </field>
+                                <field name="descriptionString">
+                                    <String></String>
+                                </field>
+                                <field name="renderString">
+                                    <String>dépouillement Irht</String>
+                                </field>
+                                <field name="enabled">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="accelerator">
+                                    <null/>
+                                </field>
+                            </codeTemplateItem>
+                            <codeTemplateItem>
+                                <field name="contentType">
+                                    <String>text/any</String>
+                                </field>
+                                <field name="unparsedInsertString">
+                                    <String>&lt;ref sigle="d’Achery, Spicilegium VIII">dom Luc d’Achery, &lt;i>Veterum aliquot scriptorum qui in Galliae bibliothecis, maxime benedictinorum latuerant, spicilegium&lt;/i>, t. VIII, Paris, 1668, &lt;/ref></String>
+                                </field>
+                                <field name="descriptionString">
+                                    <String></String>
+                                </field>
+                                <field name="renderString">
+                                    <String>d’Achery, Spicilegium VIII</String>
+                                </field>
+                                <field name="enabled">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="accelerator">
+                                    <null/>
+                                </field>
+                            </codeTemplateItem>
+                            <codeTemplateItem>
+                                <field name="contentType">
+                                    <String>text/any</String>
+                                </field>
+                                <field name="unparsedInsertString">
+                                    <String>&lt;ref sigle="Toto">Toto aux pays des soviets&lt;/ref></String>
+                                </field>
+                                <field name="descriptionString">
+                                    <String></String>
+                                </field>
+                                <field name="renderString">
+                                    <String>toto</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -6665,52 +6665,6 @@ Expansion is enabled by default.&lt;/li>&lt;/ul> &lt;br/> Template: &lt;br/>&lt;
                                 </field>
                                 <field name="renderString">
                                     <String>oxy_textArea</String>
-                                </field>
-                                <field name="enabled">
-                                    <Boolean>true</Boolean>
-                                </field>
-                                <field name="accelerator">
-                                    <null/>
-                                </field>
-                            </codeTemplateItem>
-                            <codeTemplateItem>
-                                <field name="contentType">
-                                    <String>text/less</String>
-                                </field>
-                                <field name="unparsedInsertString">
-                                    <String>oxy_textfield(
-          edit, '@my_attr',
-          columns, 40)
-</String>
-                                </field>
-                                <field name="descriptionString">
-                                    <String>A text field form control.</String>
-                                </field>
-                                <field name="renderString">
-                                    <String>oxy_textfield</String>
-                                </field>
-                                <field name="enabled">
-                                    <Boolean>true</Boolean>
-                                </field>
-                                <field name="accelerator">
-                                    <null/>
-                                </field>
-                            </codeTemplateItem>
-                            <codeTemplateItem>
-                                <field name="contentType">
-                                    <String>text/less</String>
-                                </field>
-                                <field name="unparsedInsertString">
-                                    <String>oxy_textfield(
-          edit, '@my_attr',
-          columns, 40)
-</String>
-                                </field>
-                                <field name="descriptionString">
-                                    <String>A text field form control.</String>
-                                </field>
-                                <field name="renderString">
-                                    <String>oxy_textfield</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -10115,6 +10069,19 @@ ${caret}</String>
                         </codeTemplateItem-array>
                     </entry>
                     <entry>
+                        <String>editor.format.break.line.elements</String>
+                        <breakLineElement-array>
+                            <breakLineElement>
+                                <field name="elementExpression">
+                                    <String>person</String>
+                                </field>
+                                <field name="breakPolicy">
+                                    <Integer>1</Integer>
+                                </field>
+                            </breakLineElement>
+                        </breakLineElement-array>
+                    </entry>
+                    <entry>
                         <String>editor.format.indent.inline.elements</String>
                         <Boolean>false</Boolean>
                     </entry>
@@ -10136,6 +10103,10 @@ ${caret}</String>
                             <String>xd:pre</String>
                             <String>temoin</String>
                         </String-array>
+                    </entry>
+                    <entry>
+                        <String>editor.format.schema.aware</String>
+                        <Boolean>false</Boolean>
                     </entry>
                     <entry>
                         <String>editor.line.wrap</String>
@@ -10172,6 +10143,21 @@ ${caret}</String>
                     <entry>
                         <String>scenario.associations</String>
                         <scenarioAssociation-array>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../ecole/toc/toc.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>toc</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
                                     <String>biblio.xml</String>
@@ -10273,6 +10259,92 @@ ${caret}</String>
                                 </field>
                                 <field name="xslTransformer">
                                     <String>Saxon6.5.5</String>
+                                </field>
+                                <field name="extensionURLs">
+                                    <String-array/>
+                                </field>
+                            </scenario>
+                            <scenario>
+                                <field name="advancedOptionsMap">
+                                    <null/>
+                                </field>
+                                <field name="name">
+                                    <String>toc</String>
+                                </field>
+                                <field name="baseURL">
+                                    <String></String>
+                                </field>
+                                <field name="footerURL">
+                                    <String></String>
+                                </field>
+                                <field name="fOPMethod">
+                                    <String>pdf</String>
+                                </field>
+                                <field name="fOProcessorName">
+                                    <String>Apache FOP</String>
+                                </field>
+                                <field name="headerURL">
+                                    <String></String>
+                                </field>
+                                <field name="inputXSLURL">
+                                    <String>file:/Library/WebServer/Documents/ecole/toc/toc2csv.xsl</String>
+                                </field>
+                                <field name="inputXMLURL">
+                                    <String>${currentFileURL}</String>
+                                </field>
+                                <field name="defaultScenario">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="isFOPPerforming">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="type">
+                                    <String>XSL</String>
+                                </field>
+                                <field name="saveAs">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="openInBrowser">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="outputFile">
+                                    <File>/Library/WebServer/Documents/ecole/toc/toc.csv</File>
+                                </field>
+                                <field name="outputResource">
+                                    <String>/Library/WebServer/Documents/ecole/toc/toc.csv</String>
+                                </field>
+                                <field name="openOtherLocationInBrowser">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="locationToOpenInBrowserURL">
+                                    <null/>
+                                </field>
+                                <field name="openInEditor">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="showInHTMLPane">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="showInXMLPane">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="showInSVGPane">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="showInResultSetPane">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="useXSLTInput">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="xsltParams">
+                                    <list/>
+                                </field>
+                                <field name="cascadingStylesheets">
+                                    <String-array/>
+                                </field>
+                                <field name="xslTransformer">
+                                    <String>Saxon-PE</String>
                                 </field>
                                 <field name="extensionURLs">
                                     <String-array/>
