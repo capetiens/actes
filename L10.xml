@@ -63,9 +63,10 @@
   </acte>
   <acte xml:id="L10-40">
     <titre>
-      <date>1314]-12-12</date>
+      <date>1314-12-12</date>
       <lieu>Vincennes</lieu>
     </titre>
+    <datation>Millésime restitué</datation>
     <tradition>
       <temoin type="original"><fonds>Archivo de la Corona de Aragón</fonds>, Jaime II perg. Extra-inventario 375</temoin>
     </tradition>
