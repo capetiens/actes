@@ -6,13 +6,27 @@ Vidimus RTC, à la fois témoin d’un acte, et indiqué dans une édition. Rép
 
 ```xml
     <temoin type="vidimus"><fonds>AN, P6</fonds> RTC 449</temoin>
-    <temoin type="indique"><ref>Aline Vallée et Jules Viard, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. III : <i>Règne de Philippe de Valois</i>, 3 vol., Paris, 1978-1984 (Archives nationales : inventaires et documents)</ref>, n° 449</temoin>
+    <temoin type="indique"><ref>Aline Vallée et Jules Viard, 
+      <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. III : 
+      <i>Règne de Philippe de Valois</i>, 3 vol., Paris, 1978-1984 
+      (Archives nationales : inventaires et documents)</ref>, 
+    n° 449</temoin>
     
     <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 449</temoin>
-    <temoin type="indique"><ref>Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 449</temoin>
+    <temoin type="indique"><ref>Jean Guerout, 
+    <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : 
+    <i>Règnes des fils de Philippe le Bel</i>, 2e partie : 
+    <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, 
+    dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, 
+    n° 449</temoin>
 
     <temoin type="vidimus"><fonds>AN, L10</fonds> RTC 449</temoin>
-    <temoin type="indique"><ref>Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 449</temoin>
+    <temoin type="indique"><ref>Jean Guerout, 
+    <i>Registres du Trésor des chartes. Inventaire analytique</i>, 
+    t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : 
+    <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, 
+    dir. Robert Fawtier, Paris, 1966 (Archives nationales : 
+    inventaires et documents)</ref>, n° 449</temoin>
 ```
 
 # Insertion EAD
