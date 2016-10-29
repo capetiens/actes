@@ -1,6 +1,11 @@
-Pour Isabelle
+# TODO
 
-# Expansion biblio
+Liste de choses à faire. Les plus urgentes en haut. Ce qui est fait passe sous le titre DONE.
+
+
+
+
+## Expansion biblio
 
 Vidimus RTC, à la fois témoin d’un acte, et indiqué dans une édition. Répliquer et développer cette référence dans la section des indiqué de la tradition. 
 
@@ -29,7 +34,26 @@ Vidimus RTC, à la fois témoin d’un acte, et indiqué dans une édition. Rép
     inventaires et documents)</ref>, n° 449</temoin>
 ```
 
-# Insertion EAD
+## Dates restituées ? 
+
+Le schéma est très strict sur le format de date et ne supporte pas les crochets. Proposition à valider par Olivier
+
+```xml
+<titre>
+  <date>1314]-12-21</date>
+  <lieu>Vincennes</lieu>
+</titre>
+
+<titre>
+  <!-- crochet supprimé -->
+  <date>1314-12-21</date>
+  <lieu>Vincennes</lieu>
+</titre>
+<datation>Millésime restitué</datation>
+
+```
+
+## Insertion EAD
 
 pour les mentions
 
@@ -52,3 +76,9 @@ et à aboutir à
 et on ajoutera
 
     <temoin type="indique"><ref>Jean Guerout, Henri Jassemin et Aline Vallée, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règne de Charles IV le Bel</i>, Paris, 1999 (Archives nationales : inventaires et documents)</ref>, n° 449</temoin>
+
+
+
+# DONE
+
+Liste des choses faîtes, du plus récent au plus ancien.
