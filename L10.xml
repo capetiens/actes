@@ -72,9 +72,10 @@
   </acte>
   <acte xml:id="L10-41">
     <titre>
-      <date>1314]-12-21</date>
+      <date>1314-12-21</date>
       <lieu>Vincennes</lieu>
     </titre>
+    <datation>Millésime restitué</datation>
     <tradition>
       <temoin type="original"><fonds>BNF, fr.</fonds> 25697 n° 65</temoin>
     </tradition>
@@ -436,9 +437,10 @@
   </acte>
   <acte xml:id="L10-699">
     <titre>
-      <date>1315]-07-10</date>
+      <date>1315-07-10</date>
       <lieu>Bécoiseau</lieu>
     </titre>
+    <datation>Millésime restitué</datation>
     <tradition>
       <temoin type="original"><fonds>Archivo de la Corona de Aragón</fonds>, Jaime II perg. Extra-inventario 345</temoin>
     </tradition>
@@ -446,9 +448,10 @@
   </acte>
   <acte xml:id="L10-702">
     <titre>
-      <date>1315]-09-29</date>
+      <date>1315-09-29</date>
       <lieu>Paris</lieu>
     </titre>
+    <datation>Millésime restitué</datation>
     <tradition>
       <temoin type="original"><fonds>Archivo de la Corona de Aragón</fonds>, Jaime II perg. Extra-inventario 289</temoin>
     </tradition>
@@ -456,9 +459,10 @@
   </acte>
   <acte xml:id="L10-703">
     <titre>
-      <date>1315]-10-06</date>
+      <date>1315-10-06</date>
       <lieu>Pont-Sainte-Maxence</lieu>
     </titre>
+    <datation>Millésime restitué</datation>
     <tradition>
       <temoin type="original"><fonds>The National Archives</fonds>, SC1/34/30</temoin>
     </tradition>
@@ -633,9 +637,10 @@
   </acte>
   <acte xml:id="L10-814">
     <titre>
-      <date>1316]-03-19</date>
+      <date>1316-03-19</date>
       <lieu>Bourges</lieu>
     </titre>
+    <datation>Millésime restitué</datation>
     <tradition>
       <temoin type="original"><fonds>Archivo de la Corona de Aragón</fonds>, Jaime II perg. Extra-inventario 235</temoin>
     </tradition>
@@ -1019,9 +1024,10 @@
   </acte>
   <acte xml:id="L10-698">
     <titre>
-      <date>1315]-05-03</date>
+      <date>1315-05-03</date>
       <lieu>Paris</lieu>
     </titre>
+    <datation>Millésime restitué</datation>
     <tradition>
       <temoin type="original"><fonds>Archivo de la Corona de Aragón</fonds>, Jaime II perg. Extra-inventario 450</temoin>
       <temoin type="copie"><fonds>Archivo de la Corona de Aragón</fonds>, Jaime II Reg. 337 fol. 248v</temoin>
@@ -1040,9 +1046,10 @@
   </acte>
   <acte xml:id="L10-39">
     <titre>
-      <date>1314]-12-08</date>
+      <date>1314-12-08</date>
       <lieu>Vincennes</lieu>
     </titre>
+    <datation>Millésime restitué</datation>
     <tradition>
       <temoin type="copie"><fonds>Archivo de la Corona de Aragón</fonds>, Jaime II Reg. 337 fol. 345v</temoin>
       <temoin type="indique"><ref sigle="Irht fiches">Corpus philippicum, itinéraire de Philippe le Bel, fiches mss. (conservé à l’Institut de recherches et d’histoire des textes)</ref>
@@ -2424,10 +2431,10 @@
   </acte>
   <acte xml:id="L10-2">
     <titre>
-      <date>13[16]-05-07</date>
+      <date>1316-05-07</date>
       <lieu>Pontoise</lieu>
     </titre>
-    <datation>(restitution d’après l’itinéraire, Moreau 694 propose 1315)</datation>
+    <datation>(Millésime restitué d’après l’itinéraire, Moreau 694 propose 1315)</datation>
     <tradition>
       <temoin type="original"><fonds>The National Archives</fonds>, SC1/34/29</temoin>
       <temoin type="copie"><fonds>BNF, Moreau 694</fonds> fol. 47
@@ -2551,7 +2558,7 @@
   </acte>
   <acte xml:id="L10-701">
     <titre>
-      <date>1315]-08-31</date>
+      <date>1315-08-31</date>
       <lieu>Arras</lieu>
     </titre>
     <datation>(restitution d’après Treaty rolls et Artonne)</datation>
@@ -2801,7 +2808,7 @@
       <date>1316-06-17</date>
       <lieu>Paris</lieu>
     </titre>
-    <datation>!!</datation>
+    <!--<datation>!!</datation> Pourquoi "!!" ??-->
     <tradition>
       <temoin type="copie">Pater fol. 304</temoin>
       <temoin type="indique"><ref sigle="Petit, Essai, n">Joseph Petit, Michel Gavrilovitch, Maury et D.-A. Teodoru, <i>Essai de restitution des plus anciens mémoriaux de la Chambre des comptes</i>, Paris, 1899 (Université de Paris. Bibliothèque de la faculté des Lettres, 7), n</ref>° 141
@@ -2821,9 +2828,10 @@
   </acte>
   <acte xml:id="L10-700">
     <titre>
-      <date>1315]-07-13</date>
+      <date>1315-07-13</date>
       <lieu>Bécoiseau</lieu>
     </titre>
+    <datation>Millésime restitué</datation>
     <tradition>
       <temoin type="copie"><ref sigle="Registrum Ricardi de Swinfield"><i>Registrum Ricardi de Swinfield, episcopi Herefordensis, A. D. 1283-1317</i>, éd. William W. Capes, Londres, 1909 (The Canterbury and York Society, 6)</ref>, p. 503</temoin>
     </tradition>
@@ -2875,7 +2883,7 @@
     <tradition>
       <temoin type="copie"><fonds>AN, S 4642</fonds> dossier 2, cote fausse</temoin>
     </tradition>
-    <remarques>cote fausse</remarques>
+<!--    <remarques>cote fausse</remarques> Quelle est la source de cette cote fausse ?-->
   </acte>
   <acte xml:id="L10-74">
     <titre>
@@ -2883,7 +2891,7 @@
       <lieu>Paris</lieu>
     </titre>
     <tradition>
-      <temoin type="copie"><fonds>AN, S 4957</fonds> liasse 26bis, olim <fonds>AN, S 4962</fonds> 18, fol. 10</temoin>
+<!--      <temoin type="copie"><fonds>AN, S 4957</fonds> liasse 26bis, olim <fonds>AN, S 4962</fonds> 18, fol. 10</temoin> Normalement il devrait y avoir deux temoins type copie ?-->
     </tradition>
     <mentions>Bituris (S)</mentions>
     <personnel>
@@ -2896,7 +2904,7 @@
       <lieu>Paris</lieu>
     </titre>
     <tradition>
-      <temoin type="copie"><fonds>AN, S 4957</fonds> liasse 26bis, olim <fonds>AN, S 4962</fonds> 18, fol. 9v</temoin>
+<!--      <temoin type="copie"><fonds>AN, S 4957</fonds> liasse 26bis, olim <fonds>AN, S 4962</fonds> 18, fol. 9v</temoin> Idem que "L10-74"-->
     </tradition>
     <mentions>P. in R. (sic) (S)</mentions>
     <scellage>Sceau ante susceptum</scellage>
@@ -3481,7 +3489,7 @@
     <tradition>
       <temoin type="vidimus">AC Ypres
 <source>vidimus</source></temoin>
-      <temoin type="indique"><ref sigle="Diegerick">Isidore-Lucien-Antoine Diegerick, <i>Inventaire analytique et chronologique des chartes et documents appartenant aux archives de la ville d’Ypres</i>, 7 t., Bruges, 1853-1868,</ref> n° 323
+      <temoin type="indique"><ref sigle="Diegerick">Isidore-Lucien-Antoine Diegerick, <i>Inventaire analytique et chronologique des chartes et documents appartenant aux archives de la ville d’Ypres</i>, t.1, Bruges, 1853, p.252-254,</ref> n° 323
 <source>d’après AC Ypres</source></temoin>
     </tradition>
   </acte>
@@ -3570,10 +3578,10 @@
     </titre>
     <tradition>
       <temoin type="original"><fonds>AD Nord</fonds>, 4 G 796 n° 7263a</temoin>
-      <temoin type="copie"><ref sigle="Dubrulle">abbé Henry Dubrulle, « Lettres des rois de France conservées dans le fonds de la cathédrale de Cambrai aux archives départementales du Nord », dans <i>Bulletin de la Société d’études de la province de Cambrai</i>, t. 4, 1902, p. 233-255 et t. 5, 1903, p. 39-57 et p. 174-192 ; tiré à part, Lille, 1903</ref>, p. 12
-<source>d’après AD Nord 4 G 796 n° 7263a</source></temoin>
       <temoin type="vidimus"><fonds>AD Nord</fonds>, 4 G 794 n° 7239
 <source>vidimus</source></temoin>
+      <temoin type="copie"><ref sigle="Dubrulle">abbé Henry Dubrulle, « Lettres des rois de France conservées dans le fonds de la cathédrale de Cambrai aux archives départementales du Nord », dans <i>Bulletin de la Société d’études de la province de Cambrai</i>, t. 4, 1902, p. 233-255 et t. 5, 1903, p. 39-57 et p. 174-192 ; tiré à part, Lille, 1903</ref>, p. 12
+<source>d’après AD Nord 4 G 796 n° 7263a</source></temoin>
     </tradition>
     <expeditions>dupplicata</expeditions>
     <mentions>Dupplicata (à gauche). P. Vos. Barr. Collatio fit cum transcripto (à droite)</mentions>
@@ -3973,12 +3981,18 @@
       <lieu>Saint-Gobain</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus">C4 RTC 3864
+       <temoin type="vidimus"><fonds>AN</fonds>, JJ 62, Fol. 121, n° 266
 <source>vidimus de Charles IV, enregistrement en chancellerie</source></temoin>
-      <temoin type="vidimus">C4 RTC 4434
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 62, fol. 187v-189, n° 336
 <source>vidimus de Charles IV, enregistrement en chancellerie</source></temoin>
-      <temoin type="vidimus">C4 RTC 4439
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 62, fol. 190-191v, n° 341
 <source>vidimus de Charles IV, enregistrement en chancellerie</source></temoin>
+      <temoin type="indique"><ref sigle="RTC">Jean Guerout, Henri Jassemin et Aline Vallée,<i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II :
+<i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règne de Charles IV le Bel</i>, Paris, 1999 (Archives nationales : inventaires et documents)</ref>, n° 3864</temoin>
+      <temoin type="indique"><ref sigle="RTC">Jean Guerout, Henri Jassemin et Aline Vallée,<i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II :
+<i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règne de Charles IV le Bel</i>, Paris, 1999 (Archives nationales : inventaires et documents)</ref>, n° 4434</temoin>
+      <temoin type="indique"><ref sigle="RTC">Jean Guerout, Henri Jassemin et Aline Vallée,<i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II :
+<i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règne de Charles IV le Bel</i>, Paris, 1999 (Archives nationales : inventaires et documents)</ref>, n° 4439</temoin>
     </tradition>
     <scellage>charte</scellage>
   </acte>
@@ -3988,9 +4002,11 @@
       <lieu>Bécoiseau</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus">C4 RTC 3905
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 61, fol. 135, n° 307
 <source>vidimus de Charles IV, enregistrement en chancellerie</source></temoin>
       <temoin type="indique"><fonds>AN, J 976</fonds> 5 8e acte</temoin>
+      <temoin type="indique"><ref sigle="RTC">Jean Guerout, Henri Jassemin et Aline Vallée,<i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II :
+<i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règne de Charles IV le Bel</i>, Paris, 1999 (Archives nationales : inventaires et documents)</ref>, n° 3905</temoin>
     </tradition>
     <mentions>p. dominum regem ad relac. P. de Machau. Arenis (J)</mentions>
     <scellage>charte (C4)</scellage>
@@ -4007,8 +4023,10 @@
       <lieu>Vincennes</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus">C4 RTC 3985
+      <temoin type="vidimus"><fonds>AN</fonds>,JJ 61, fol. 164-164v, n° 387
 <source>vidimus de Charles IV, enregistrement en chancellerie</source></temoin>
+<temoin type="indique"><ref sigle="RTC">Jean Guerout, Henri Jassemin et Aline Vallée,<i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II :
+<i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règne de Charles IV le Bel</i>, Paris, 1999 (Archives nationales : inventaires et documents)</ref>, n° 3985</temoin>
       <temoin type="vidimus"><fonds>AN, P6</fonds> RTC 700
 <todo/><source>vidimus de Philippe VI du vidimus de Charles IV, enregistrement en chancellerie</source></temoin>
 <temoin type="indique"><ref sigle="RTC">Aline Vallée et Jules Viard, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. III : <i>Règne de Philippe de Valois</i>, 3 vol., Paris, 1978-1984 (Archives nationales : inventaires et documents)</ref>, n° 700
@@ -4023,10 +4041,11 @@
     </titre>
     <tradition>
       <temoin type="original"><fonds>AD Puy-de-Dôme</fonds>, 1 G 12 n° 11</temoin>
-      <temoin type="vidimus">C4 RTC 4139
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 62, fol. 21v-22, n° 42
 <source>vidimus de Charles IV, enregistrement en chancellerie</source></temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I 779
-<source>d’après C4 RTC 4139</source></temoin>
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I 779</temoin>
+        <temoin type="indique"><ref sigle="RTC">Jean Guerout, Henri Jassemin et Aline Vallée,<i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II :
+<i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règne de Charles IV le Bel</i>, Paris, 1999 (Archives nationales : inventaires et documents)</ref>, n° 4139</temoin>
     </tradition>
     <mentions>Bituris (à gauche). Facta est collatio (à droite)</mentions>
     <scellage>charte</scellage>
@@ -4042,12 +4061,14 @@
     <datation>(1315/12 pour C4 par erreur)</datation>
     <tradition>
       <temoin type="original"><fonds>AD Puy-de-Dôme</fonds>, 1 G 4 n° 5</temoin>
-      <temoin type="vidimus">C4 RTC 4141
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 62, fol. 22v-23, n° 44
 <source>vidimus de Charles IV, enregistrement en chancellerie</source></temoin>
       <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I 613b
 <source>d’après C4 RTC 4141</source></temoin>
       <temoin type="indique"><ref sigle="Artonne, p.">André Artonne, <i>Le mouvement de 1314 et les chartes provinciales de 1315</i>, Paris, 1912 (Université de Paris. Bibliothèque de la faculté des Lettres, 29), p. </ref> 162
 <source>d’après AD Puy-de-Dôme 1 G 4 n° 5 ; C4 RTC 4141 ; et Ord. I 613b</source></temoin>
+      <temoin type="indique"><ref sigle="RTC">Jean Guerout, Henri Jassemin et Aline Vallée,<i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II :
+<i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règne de Charles IV le Bel</i>, Paris, 1999 (Archives nationales : inventaires et documents)</ref>, n° 4141</temoin>
     </tradition>
     <mentions>rien (AD Puy-de-Dôme)</mentions>
     <scellage>charte (AD Puy-de-Dôme)</scellage>
@@ -4058,10 +4079,12 @@
       <lieu>Pont-Sainte-Maxence</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus">C4 RTC 4142
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 62, fol. 23, n° 45
 <source>vidimus, enregistrement en chancellerie</source></temoin>
       <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I 779
 <source>d’après C4 RTC 4142</source></temoin>
+      <temoin type="indique"><ref sigle="RTC">Jean Guerout, Henri Jassemin et Aline Vallée,<i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II :
+<i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règne de Charles IV le Bel</i>, Paris, 1999 (Archives nationales : inventaires et documents)</ref>, n° 4142</temoin>
     </tradition>
     <scellage>charte</scellage>
   </acte>
@@ -4074,7 +4097,7 @@
       <temoin type="copie">Morice, t. I, col. 1260</temoin>
       <temoin type="vidimus">J 241B 32
 <source>vidimus de Charles IV</source></temoin>
-      <temoin type="copie">C4 RTC 4243
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 62, fol. 83-83v, n° 146
 <source>vidimus de Charles IV, enregistrement en chancellerie</source></temoin>
       <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I 620
 <source>d’après C4 RTC 4243 et X1A 8602 fol. 130v</source></temoin>
@@ -4086,10 +4109,11 @@
 <source>vidimus du vidimus J 241B 32</source></temoin>
       <temoin type="indique"><ref sigle="Artonne, p.">André Artonne, <i>Le mouvement de 1314 et les chartes provinciales de 1315</i>, Paris, 1912 (Université de Paris. Bibliothèque de la faculté des Lettres, 29), p. </ref> 155
 <source>d’après Morice, t. I, col. 1260 ; C4 RTC 4243 ; J 241B 32 ; J 241B 32bis ; et Ord. I 620</source></temoin>
-      <temoin type="indique"><ref sigle="de Curzon">Théodore de Curzon, inventaire analytique par ordre chronologique du Trésor des chartes, 1890-1891, fiches mss. (conservé aux Archives nationales, département de l’Ancien Régime)</ref>
+      <temoin type="indique"><ref sigle="de Curzon">Théodore de Curzon, Inventaire analytique par ordre chronologique du Trésor des chartes, 1890-1891, fiches mss. (conservé aux Archives nationales, département de l’Ancien Régime)</ref>
 <source>d’après J 241B 32</source></temoin>
       <temoin type="indique"><ref sigle="Stein">Henri Stein, <i>Inventaire analytique des ordonnances enregistrées au parlement de Paris jusqu’à la mort de Louis XII</i>, Paris, 1908,</ref> n° 135
 <source>d’après X1A 8602 fol. 130v</source></temoin>
+      v
     </tradition>
     <scellage>Sceau ante susceptum (Ord. I 620)</scellage>
   </acte>
@@ -4099,10 +4123,14 @@
       <lieu>Orléans</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus">C4 RTC 5190
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 64, fol. 314-316, n° 553
 <source>vidimus de Charles IV, enregistrement en chancellerie</source></temoin>
+      <temoin type="indique"><ref sigle="RTC">Jean Guerout, Henri Jassemin et Aline Vallée,<i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II :
+<i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règne de Charles IV le Bel</i>, Paris, 1999 (Archives nationales : inventaires et documents)</ref>, n° 5190</temoin>
     </tradition>
+    <mentions>Per Cameram compotorum. Julianus. Facta est collatio.</mentions>
     <scellage>mandement</scellage>
+    <personnel><role type="notaire">Julianus</role></personnel>
   </acte>
   <acte xml:id="L10-740">
     <titre>
@@ -4200,7 +4228,7 @@
     </titre>
     <datation>(1315/12/20 pour Ord. par erreur, 1315/12/18 pour Thierry d’après la table des Ord.)</datation>
     <tradition>
-      <temoin type="vidimus"><fonds>AN, JJ</fonds> 80 661
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 80, 661
 <source>vidimus de Jean II, enregistrement en chancellerie</source></temoin>
       <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> IV 8
 <source>d’après JJ 80 661</source></temoin>
@@ -4316,12 +4344,16 @@
       <lieu>Vincennes</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus"><fonds>AN, L10</fonds> RTC 104
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 52, fol. 28-29v, n°54
 <todo/><source>vidimus de Louis X, enregistrement en chancellerie</source></temoin>
 <temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 104
 <source>vidimus de Louis X, enregistrement en chancellerie</source></temoin>
     </tradition>
+    <mentions>Per magistros G. Arresnardi et Sanctium de Calvomonte. Rel[icus]. Collatio facta est. Registrata et duplicata. Duplicata pro capitulo et est collatio facta. P. Barr[ier].</mentions>
     <scellage>mandement. Sceau ante susceptum</scellage>
+    <personnel>
+      <role type="notaire">P. Barrier</role>
+    </personnel>
   </acte>
   <acte xml:id="L10-76">
     <titre>
@@ -4329,12 +4361,16 @@
       <lieu>Paris</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus"><fonds>AN, L10</fonds> RTC 83
+      <temoin type="vidimus"><fonds>AN,</fonds> JJ 52, fol. 14v-16, n°33
 <todo/><source>vidimus de Louis X, enregistrement en chancellerie</source></temoin>
 <temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 83
 <source>vidimus de Louis X, enregistrement en chancellerie</source></temoin>
     </tradition>
-    <scellage>mandement</scellage>
+    <mentions>Per Vos. Barr[ier].</mentions>
+    <scellage>mandement. Sceau ante susceptum</scellage>
+    <personnel>
+      <role type="notaire">P. Barrier</role>
+    </personnel>
   </acte>
   <acte xml:id="L10-697">
     <titre>
@@ -4436,7 +4472,7 @@
 <source>vidimus de Philippe V</source></temoin>
       <temoin type="copie"><fonds>BNF, Moreau 222</fonds> fol. 110
 <source>d’après vidimus de Philippe V</source></temoin>
-      <temoin type="vidimus">C4 RTC 3922
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 61, fol. 141-141v, n° 324
 <source>vidimus de Charles IV du vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
       <temoin type="copie"><fonds>BNF, Moreau 224</fonds> fol. 119
 <source>vidimus de Charles IV, copie</source></temoin>
@@ -4464,6 +4500,8 @@
 <source>d’après Moreau 221 fol. 193</source></temoin>
       <temoin type="indique"><ref sigle="Espinas - Verlinden">Georges Espinas, Charles Verlinden et Jan Buntinx, <i>Privilèges et chartes de franchise de la Flandre</i>, 2 t., Bruxelles, 1959-1961 (Recueil des anciennes coutumes de la Belgique),</ref> n° 267
 <source>d’après Moreau 222 fol. 110</source></temoin>
+      <temoin type="indique"><ref sigle="RTC">Jean Guerout, Henri Jassemin et Aline Vallée,<i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II :
+<i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règne de Charles IV le Bel</i>, Paris, 1999 (Archives nationales : inventaires et documents)</ref>, n° 3922</temoin>
       <temoin type="indique">Espinas n° 269
 <source>d’après C4 RTC 3922 et Moreau 224 fol. 119</source></temoin>
       <temoin type="indique">Espinas n° 271
@@ -4490,8 +4528,8 @@
 <source>vidimus de Philippe V</source></temoin>
       <temoin type="copie"><fonds>BNF, Moreau 222</fonds> fol. 111
 <source>d’après vidimus de Philippe V</source></temoin>
-      <temoin type="vidimus">C4 RTC 3923
-<source>vidimus de Charles IV du vidimus DE PHILIPPE V, enregistrement en chancellerie</source></temoin>
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 61, fol. 141v, n° 325
+<source>vidimus de Charles IV du vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
       <temoin type="copie"><fonds>AD Nord</fonds>, E2474.4
 <source>vidimus de Charles IV, copie</source></temoin>
       <temoin type="vidimus"><fonds>AN, P6</fonds> RTC 342
@@ -4508,6 +4546,8 @@
 <source>vidimus de Charles V du vidimus de Jean II</source></temoin>
       <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> IV 655
 <source>d’après JJ 97 230</source></temoin>
+      <temoin type="indique"><ref sigle="RTC">Jean Guerout, Henri Jassemin et Aline Vallée,<i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II :
+<i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règne de Charles IV le Bel</i>, Paris, 1999 (Archives nationales : inventaires et documents)</ref>, n° 3923</temoin>
       <temoin type="indique"><ref sigle="Espinas - Verlinden">Georges Espinas, Charles Verlinden et Jan Buntinx, <i>Privilèges et chartes de franchise de la Flandre</i>, 2 t., Bruxelles, 1959-1961 (Recueil des anciennes coutumes de la Belgique),</ref> n° 266
 <source>d’après Moreau 221 fol. 194</source></temoin>
       <temoin type="indique"><ref sigle="Espinas - Verlinden">Georges Espinas, Charles Verlinden et Jan Buntinx, <i>Privilèges et chartes de franchise de la Flandre</i>, 2 t., Bruxelles, 1959-1961 (Recueil des anciennes coutumes de la Belgique),</ref> n° 268
@@ -4587,10 +4627,11 @@
 <source>d’après A fol. 78</source></temoin>
       <temoin type="indique"><ref sigle="Petit, Essai, n">Joseph Petit, Michel Gavrilovitch, Maury et D.-A. Teodoru, <i>Essai de restitution des plus anciens mémoriaux de la Chambre des comptes</i>, Paris, 1899 (Université de Paris. Bibliothèque de la faculté des Lettres, 7), n</ref>° 32
 <source>d’après Pater fol. 121v</source></temoin>
-      <temoin type="indique"><fonds>AN, P5</fonds> RTC 1276
+      <temoin type="indique"><fonds>AN</fonds>, JJ 54A, fol. 47-47v, n°612
 <source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
       <temoin type="indique"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I 650
 <source>d’après P5 RTC 1276</source></temoin>
+      <temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1276 </temoin>
     </tradition>
   </acte>
   <acte xml:id="L10-653">
@@ -4599,7 +4640,7 @@
       <lieu>Bois de Vincennes</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 1369
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 54B, fol.1v-2v, n°4
 <todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
 <temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1369
 <source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
@@ -4616,6 +4657,7 @@
       <temoin type="indique">Heinemann 1770
 <source>d’après Wolfenbüttel 3.1.93. Aug. Fol., fol. 232</source></temoin>
     </tradition>
+    <mentions>Quod est confirmatum a domino [Regente]</mentions>
   </acte>
   <acte xml:id="L10-652">
     <titre>
@@ -4623,11 +4665,12 @@
       <lieu>Bois de Vincennes</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 1375b
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 54B, fol. 4v-5v, n°10
 <todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
 <temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1375b
 <source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
     </tradition>
+    <remarque>Vidimus et actes vidimés sont en français (note RTC)</remarque>
   </acte>
   <acte xml:id="L10-568">
     <titre>
@@ -4635,7 +4678,7 @@
       <lieu>Arras</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 1377
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 54B, fol. 6-7, n°12
 <todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
 <temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1377
 <source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
@@ -4647,16 +4690,16 @@
       <lieu>Paris</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 1384f
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 54B, fol. 9v-11, n°19
 <todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
-<temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1384f
+<temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1384d
 <source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
-      <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 1385
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 54B, fol. 11v-14[1], n°20
 <todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
 <temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1385
 <source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
-      <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 2158
 <todo/><source>vidimus de Philippe V du vidimus de Philippe V P5 RTC 1385, enregistrement en chancellerie</source></temoin>
+      <!--      <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 2158 A VERIFIER car la notice dans le RTC ne fait pas mention de l'acte de 1315-->
 <temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 2158
 <source>vidimus de Philippe V du vidimus de Philippe V P5 RTC 1385, enregistrement en chancellerie</source></temoin>
       <temoin type="vidimus"><fonds>AN, P6</fonds> RTC 212
@@ -4671,15 +4714,15 @@
       <lieu>Bourges</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 1384g
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 54B, fol. 9v-11, n°19
 <todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
-<temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1384g
+<temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1384e
 <source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
-      <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 1385
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 54B, fol. 11v-14[1], n°20
 <todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
 <temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1385
 <source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
-      <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 2158
+<!--      <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 2158 D'après le RTC P5 2158 cet acte n'apparaît pas-->
 <todo/><source>vidimus de Philippe V du vidimus de Philippe V P5 RTC 1385, enregistrement en chancellerie</source></temoin>
 <temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 2158
 <source>vidimus de Philippe V du vidimus de Philippe V P5 RTC 1385, enregistrement en chancellerie</source></temoin>
@@ -4695,13 +4738,13 @@
       <lieu>Vincennes</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 1396
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 54B, fol. 23v-24, n°30
 <todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
 <temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1396
 <source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
       <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 376
 <todo/><source>vidimus de Philippe V du vidimus de Philippe V P5 RTC 1396, enregistrement en chancellerie</source></temoin>
-<temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 376
+<!--<temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 376 En fait, cette lettre est nécessaire pour comprendre l'acte mais je ne suis pas certaine que cette lettre soit vidimée dans l'acte du 05-1316 (la lettre est du 03-1317 sic dans RTC mais peut-être 1316 ?)-->
 <source>vidimus de Philippe V du vidimus de Philippe V P5 RTC 1396, enregistrement en chancellerie</source></temoin>
       <temoin type="copie"><fonds>AN, J 423</fonds> 36
 <source>vidimus de Philippe V du vidimus de Philippe V P5 RTC 376</source></temoin>
@@ -4713,11 +4756,12 @@
       <lieu>Vincennes</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 1402
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 54B, fol. 26v-27, n°36.
 <todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
 <temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1402
 <source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
     </tradition>
+    <remarques>mandement d'après notice RTC</remarques>
   </acte>
   <acte xml:id="L10-782">
     <titre>
@@ -4725,17 +4769,20 @@
       <lieu>Châteauneuf-sur-Loire</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 1411
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 54B, fol. 31v, n°44
 <todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
 <temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1411
 <source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
-      <temoin type="vidimus">C4 RTC 3934
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 61, fol. 146, n° 336
+<temoin type="indique"><ref sigle="RTC">Jean Guerout, Henri Jassemin et Aline Vallée,<i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II :
+<i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règne de Charles IV le Bel</i>, Paris, 1999 (Archives nationales : inventaires et documents)</ref>, n° 3934</temoin>
 <source>vidimus de Charles IV du vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
       <temoin type="vidimus"><fonds>AN, P6</fonds> RTC 348
 <todo/><source>vidimus de Philippe VI du vidimus de Charles IV, enregistrement en chancellerie</source></temoin>
 <temoin type="indique"><ref sigle="RTC">Aline Vallée et Jules Viard, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. III : <i>Règne de Philippe de Valois</i>, 3 vol., Paris, 1978-1984 (Archives nationales : inventaires et documents)</ref>, n° 348
 <source>vidimus de Philippe VI du vidimus de Charles IV, enregistrement en chancellerie</source></temoin>
     </tradition>
+    <remarques>mandement de L10 d'après notice RTC 1411</remarques>
   </acte>
   <acte xml:id="L10-620">
     <titre>
@@ -4744,19 +4791,19 @@
     </titre>
     <tradition>
       <temoin type="copie"><ref sigle="AHS 12">Paul Guérin, <i>Documents relatifs à l’histoire de la Saintonge et de l’Aunis extraits des registres du Trésor des chartes</i>, Paris/Saintes, 1884 (Archives historiques de la Saintonge et de l’Aunis, 12)</ref>, n° 62</temoin>
-      <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 1427
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 54B, fol. 37v-38v, n°60
 <todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
 <temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1427
 <source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
       <temoin type="copie">HL, X, n° 187
 <source>d’après P5 RTC 1427</source></temoin>
-      <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 1762a
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 56, fol. 58v-60, n°141
 <todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
 <temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1762a
 <source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
       <temoin type="copie"><ref sigle="AHS 12">Paul Guérin, <i>Documents relatifs à l’histoire de la Saintonge et de l’Aunis extraits des registres du Trésor des chartes</i>, Paris/Saintes, 1884 (Archives historiques de la Saintonge et de l’Aunis, 12)</ref>, n° 80
 <source>d’après P5 RTC 1762a</source></temoin>
-      <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 1851a
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 56, fol. 100-102v, n°227
 <todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
 <temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1851a
 <source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
@@ -4768,6 +4815,7 @@
 <source>d’après P5 RTC 1851a ; mss Colbert 10 p. 241 ; et mss Bertin 17 fol. 12</source></temoin>
     </tradition>
     <expeditions>AHS et P5 1762 et 1851 pour la Saintonge, P5 1427 pour Toulouse</expeditions>
+    <remarques>mandement d'après notice RTC 1427 ; mandement de commission d'enquêteurs qui agissent dans de nombreux domaines</remarques>
   </acte>
   <acte xml:id="L10-659">
     <titre>
@@ -4776,7 +4824,7 @@
     </titre>
     <tradition>
       <temoin type="original">archives d’Armagnac, perdu</temoin>
-      <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 1430
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 54B, fol. 40, n°63
 <todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
 <temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1430
 <source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
@@ -4793,22 +4841,22 @@
       <lieu>Saint-Christophe-en-Halatte</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 1445
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 54B, fol. 49-50, n°78
 <todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
-<temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1445
+<temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1445a
 <source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
-      <temoin type="copie">HL, X, n° 186
-<source>d’après P5 RTC 1445</source></temoin>
-      <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 3068
+      <temoin type="copie">HL, X, n° 186 <source>d’après P5 RTC 1445</source></temoin>
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 59, fol. 189v-190v, n°347
 <todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
-<temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 3068
+<temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 3068b
 <source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
-      <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 3072
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 59, fol. 193-195v, n°351
 <todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
-<temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 3072
+<temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 3072-5a
 <source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
     </tradition>
     <scellage>Sceau ante susceptum</scellage>
+    <remarques>mandement d'après la notice RTC 1445a</remarques>
   </acte>
   <acte xml:id="L10-777">
     <titre>
@@ -4816,11 +4864,12 @@
       <lieu>Bourges</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 1634
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 56, fol. 4v, n°13
 <todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
 <temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1634
 <source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
     </tradition>
+    <remarques>lettres</remarques>
   </acte>
   <acte xml:id="L10-761">
     <titre>
@@ -4828,13 +4877,14 @@
       <lieu>Saint-Palais-en-Berry</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 1665
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 56, fol. 13v, n°44
 <todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
 <temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1665
 <source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
       <temoin type="copie">Livre rouge de la Chambre des comptes 1062
 <source>d’après P5 RTC 1665</source></temoin>
     </tradition>
+    <remarques>acte en français</remarques>
   </acte>
   <acte xml:id="L10-674">
     <titre>
@@ -4844,13 +4894,13 @@
     <datation>(1317/12/14 par erreur pour Ord.)</datation>
     <tradition>
       <temoin type="copie"><ref sigle="AHS 12">Paul Guérin, <i>Documents relatifs à l’histoire de la Saintonge et de l’Aunis extraits des registres du Trésor des chartes</i>, Paris/Saintes, 1884 (Archives historiques de la Saintonge et de l’Aunis, 12)</ref>, n° 63</temoin>
-      <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 1762b
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 56, fol. 58v-60, n°141
 <todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
 <temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1762b
 <source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
       <temoin type="copie"><ref sigle="AHS 12">Paul Guérin, <i>Documents relatifs à l’histoire de la Saintonge et de l’Aunis extraits des registres du Trésor des chartes</i>, Paris/Saintes, 1884 (Archives historiques de la Saintonge et de l’Aunis, 12)</ref>, n° 80
 <source>d’après P5 RTC 1762b</source></temoin>
-      <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 1851b
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 56, fol. 100-102v, n°227
 <todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
 <temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1851b
 <source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
@@ -4861,6 +4911,7 @@
       <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XII 425
 <source>d’après P5 RTC 1851b ; mss Colbert 10 p. 241 ; et mss Bertin 17 fol. 12</source></temoin>
     </tradition>
+    <remarques>mandement d'après notice 1851b</remarques>
   </acte>
   <acte xml:id="L10-755">
     <titre>
@@ -4868,11 +4919,12 @@
       <lieu>Meaux</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 1765b
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 56, fol. 62-63, n°144
 <todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
 <temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1765b
 <source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
     </tradition>
+    <remarques>mandement d'après la notice RTC 1765b</remarques>
   </acte>
   <acte xml:id="L10-708">
     <titre>
@@ -4880,7 +4932,7 @@
       <lieu>Orléans</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 1855
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 56, fol. 104v, n°231
 <todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
 <temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1855
 <source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
@@ -4893,6 +4945,7 @@
 <temoin type="indique"><ref sigle="RTC">Aline Vallée et Jules Viard, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. III : <i>Règne de Philippe de Valois</i>, 3 vol., Paris, 1978-1984 (Archives nationales : inventaires et documents)</ref>, n° 1234b
 <source>vidimus de Philippe VI, enregistrement en chancellerie</source></temoin>
     </tradition>
+    <remarques>les biens indiqués dans cette charte ont été donnés par accord de L10 RTC L10 n°215</remarques>
   </acte>
   <acte xml:id="L10-557">
     <titre>
@@ -4900,7 +4953,7 @@
       <lieu>Vailly-sur-Aisne</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 1932
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 56, fol. 141, n°307
 <todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
 <temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1932
 <source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
@@ -4914,7 +4967,7 @@
       <lieu>Royallieu</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 1967a
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 56, fol. 152-152v, n°342
 <todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
 <temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1967a
 <source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
@@ -4926,12 +4979,13 @@
       <lieu>Rouen</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 2075
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 56, fol. 188v-189, n°447
 <todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
 <temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 2075
 <source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
     </tradition>
     <remarques>sans suscription royale</remarques>
+    <remarques>vidimus et acte vidimé sont en français notice RTC</remarques>
   </acte>
   <acte xml:id="L10-638">
     <titre>
@@ -4939,22 +4993,26 @@
       <lieu>La Feuillie</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 2101
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 56, fol. 201, n°473
 <todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
 <temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 2101
 <source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
-      <temoin type="vidimus">C4 RTC 4333
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 62, fol. 135v-136, n° 235
 <source>vidimus de Charles IV du vidimus de Philippe V</source></temoin>
+<temoin type="indique"><ref sigle="RTC">Jean Guerout, Henri Jassemin et Aline Vallée,<i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II :
+<i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règne de Charles IV le Bel</i>, Paris, 1999 (Archives nationales : inventaires et documents)</ref>, n° 3934</temoin>
+      <source>vidimus de Charles IV du vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
       <temoin type="vidimus">perdu
 <source>vidimus du vidimus de Charles IV</source></temoin>
       <temoin type="vidimus">Chambre des comptes, dépôt du greffe, n° 82
 <source>vidimus du vidimus perdu</source></temoin>
       <temoin type="copie"><fonds>collection Lenoir, AN, 104 Mi</fonds> 19 p. 53
 <source>d’après Chambre des comptes, dépôt du greffe, n° 82</source></temoin>
-      <temoin type="vidimus">C4 RTC 4333
+<!--      <temoin type="vidimus">C4 RTC 4333 Répétition ?-->
 <source>vidimus de Charles IV, enregistrement en chancellerie</source></temoin>
     </tradition>
     <scellage>charte</scellage>
+    <remarques>l'acte de donation est en français, notice RTC 2101</remarques>
   </acte>
   <acte xml:id="L10-605">
     <titre>
@@ -4962,7 +5020,7 @@
       <lieu>Paris</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 2132a
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 56, fol. 216v-217, n°504
 <todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
 <temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 2132a
 <source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
@@ -4974,12 +5032,13 @@
       <lieu>Paris</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 2132b
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 56, fol. 216v-217, n°504
 <todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
 <temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 2132b
 <source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
     </tradition>
     <scellage>Sceau ante susceptum</scellage>
+    <remarques>Mandement d'après la notice RTC</remarques>
   </acte>
   <acte xml:id="L10-207">
     <titre>
@@ -4987,12 +5046,13 @@
       <lieu>Paris</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 2132c
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 56, fol. 216v-217, n°504
 <todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
 <temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 2132c
 <source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
     </tradition>
     <scellage>Sceau ante susceptum</scellage>
+    <remarques>Mandement d'après la notice RTC</remarques>
   </acte>
   <acte xml:id="L10-471">
     <titre>
@@ -5000,13 +5060,14 @@
       <lieu>Paris</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 2755a
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 59, fol. 12v-13v, n°35
 <todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
 <temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 2755a
 <source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
       <temoin type="indique"><ref sigle="Petit, Ducs">Ernest Petit, <i>Histoire des ducs de Bourgogne de la race capétienne, avec des documents inédits et des pièces justificatives</i>, 9 t., Paris/Dijon, 1885-1905, n° </ref> 6807
 <source>d’après P5 RTC 2755a</source></temoin>
     </tradition>
+    <remarques>notice RTC : vidimus d'une cédule en français (s.d.n.l.), contenant le texte de l'accord conclu en présence du roi, reconnaissant mise en place d'un arbitrage pour succession</remarques>
   </acte>
   <acte xml:id="L10-474">
     <titre>
@@ -5014,13 +5075,14 @@
       <lieu>Paris</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 2755b
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 59, fol. 12v-13v, n°35
 <todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
 <temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 2755b
 <source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
       <temoin type="indique"><ref sigle="Petit, Ducs">Ernest Petit, <i>Histoire des ducs de Bourgogne de la race capétienne, avec des documents inédits et des pièces justificatives</i>, 9 t., Paris/Dijon, 1885-1905, n° </ref> 6807
 <source>d’après P5 RTC 2755b</source></temoin>
     </tradition>
+    <remarques>Mandement d'après la notice RTC</remarques>
   </acte>
   <acte xml:id="L10-795">
     <titre>
@@ -5028,11 +5090,12 @@
       <lieu>Saint-Germain-en-Laye</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 2804
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 59, fol. 34, n°84
 <todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
 <temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 2804
 <source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
     </tradition>
+<!--    Il n'est pas certain qu'il s'agisse d'un vidimus : peut-être plutôt une mention dans un acte (acte de donation de biens) ici avec droit de mainmorte-->
   </acte>
   <acte xml:id="L10-806">
     <titre>
@@ -5040,11 +5103,12 @@
       <lieu>Paris</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 2890c
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 59, fol. 71-72v, n°170
 <todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
 <temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 2890c
 <source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
     </tradition>
+    <remarques>mandement d'après la notice RTC</remarques>
   </acte>
   <acte xml:id="L10-615">
     <titre>
@@ -5052,13 +5116,16 @@
       <lieu>Pont-Sainte-Maxence</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 3037
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 59, fol. 160-163, n°316
 <todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
 <temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 3037
 <source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
-      <temoin type="vidimus">C4 RTC 3954
+      <temoin type="vidimus"><fonds>AN</fonds>, JJ 61, fol. 153-155, n° 356
 <source>vidimus de Charles IV du vidimus de Philippe V</source></temoin>
+<temoin type="indique"><ref sigle="RTC">Jean Guerout, Henri Jassemin et Aline Vallée,<i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II :
+<i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règne de Charles IV le Bel</i>, Paris, 1999 (Archives nationales : inventaires et documents)</ref>, n° 3954</temoin>
     </tradition>
+    <remarques>Il n'est pas certain qu'il s'agisse d'un vidimus dans RTC 3037 : le mandement de L10 est un acte de commission d'un juge mage actif dans un acte vidimé dans RTC 3037</remarques>
   </acte>
   <acte xml:id="L10-528">
     <titre>
