@@ -2808,7 +2808,7 @@
       <date>1316-06-17</date>
       <lieu>Paris</lieu>
     </titre>
-    <!--<datation>!!</datation> Pourquoi "!!" ??-->
+    <!--<datation>Date impossible, Louis X est déjà mort</datation> Pourquoi "!!" ?? Parce que Louis X est mort depuis 10 jours... Je corrige-->
     <tradition>
       <temoin type="copie">Pater fol. 304</temoin>
       <temoin type="indique"><ref sigle="Petit, Essai, n">Joseph Petit, Michel Gavrilovitch, Maury et D.-A. Teodoru, <i>Essai de restitution des plus anciens mémoriaux de la Chambre des comptes</i>, Paris, 1899 (Université de Paris. Bibliothèque de la faculté des Lettres, 7), n</ref>° 141
@@ -2883,7 +2883,7 @@
     <tradition>
       <temoin type="copie"><fonds>AN, S 4642</fonds> dossier 2, cote fausse</temoin>
     </tradition>
-<!--    <remarques>cote fausse</remarques> Quelle est la source de cette cote fausse ?-->
+<!--    <remarques>cote fausse signalée dans l'inventaire de la série</remarques> Quelle est la source de cette cote fausse ?-->
   </acte>
   <acte xml:id="L10-74">
     <titre>
@@ -2891,7 +2891,7 @@
       <lieu>Paris</lieu>
     </titre>
     <tradition>
-<!--      <temoin type="copie"><fonds>AN, S 4957</fonds> liasse 26bis, olim <fonds>AN, S 4962</fonds> 18, fol. 10</temoin> Normalement il devrait y avoir deux temoins type copie ?-->
+<!--      <temoin type="copie"><fonds>AN, S 4957</fonds> liasse 26bis, olim S 4962 18, fol. 10</temoin> Normalement il devrait y avoir deux temoins type copie ? Non, il y a un seul témoin, simplement il a été recoté (nombreux cas dans S). Mais j'enlève la double indication de fonds-->
     </tradition>
     <mentions>Bituris (S)</mentions>
     <personnel>
@@ -2904,7 +2904,7 @@
       <lieu>Paris</lieu>
     </titre>
     <tradition>
-<!--      <temoin type="copie"><fonds>AN, S 4957</fonds> liasse 26bis, olim <fonds>AN, S 4962</fonds> 18, fol. 9v</temoin> Idem que "L10-74"-->
+<!--      <temoin type="copie"><fonds>AN, S 4957</fonds> liasse 26bis, olim S 4962 18, fol. 9v</temoin> Idem que "L10-74"-->
     </tradition>
     <mentions>P. in R. (sic) (S)</mentions>
     <scellage>Sceau ante susceptum</scellage>
@@ -4699,7 +4699,7 @@
 <temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1385
 <source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
 <todo/><source>vidimus de Philippe V du vidimus de Philippe V P5 RTC 1385, enregistrement en chancellerie</source></temoin>
-      <!--      <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 2158 A VERIFIER car la notice dans le RTC ne fait pas mention de l'acte de 1315-->
+      <!--      <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 2158 A VERIFIER car la notice dans le RTC ne fait pas mention de l'acte de 1315. En fait, l'analyse est légèrement incomplète, puisqu'elle ne mentionne que l'acte du 19 août 1316, mais cet acte est déjà vidimé sous le n°1384 (témoin précédent) et cette fois, on nous fait la liste des actes vidimés par l'acte du 19 août 1316, dont le nôtre-->
 <temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 2158
 <source>vidimus de Philippe V du vidimus de Philippe V P5 RTC 1385, enregistrement en chancellerie</source></temoin>
       <temoin type="vidimus"><fonds>AN, P6</fonds> RTC 212
@@ -4722,7 +4722,7 @@
 <todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
 <temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1385
 <source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
-<!--      <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 2158 D'après le RTC P5 2158 cet acte n'apparaît pas-->
+<!--      <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 2158 D'après le RTC P5 2158 cet acte n'apparaît pas. C'est en réalité un vidimus du témoin précédent (n°1385), même si l'on n'a là qu'une analyse (mais, pour des raisons diverses, je préfère ne pas changer le type du témoin-->
 <todo/><source>vidimus de Philippe V du vidimus de Philippe V P5 RTC 1385, enregistrement en chancellerie</source></temoin>
 <temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 2158
 <source>vidimus de Philippe V du vidimus de Philippe V P5 RTC 1385, enregistrement en chancellerie</source></temoin>
@@ -4744,7 +4744,8 @@
 <source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
       <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 376
 <todo/><source>vidimus de Philippe V du vidimus de Philippe V P5 RTC 1396, enregistrement en chancellerie</source></temoin>
-<!--<temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 376 En fait, cette lettre est nécessaire pour comprendre l'acte mais je ne suis pas certaine que cette lettre soit vidimée dans l'acte du 05-1316 (la lettre est du 03-1317 sic dans RTC mais peut-être 1316 ?)-->
+<!--<temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 376 En fait, cette lettre est nécessaire pour comprendre l'acte mais je ne suis pas certaine que cette lettre soit vidimée dans l'acte du 05-1316 (la lettre est du 03-1317 sic dans RTC mais peut-être 1316 ?)
+      OC : c'est un des rares cas où l'analyse de Guerout est incomplète : j'ai vérifié sur l'original, l'acte de 1317-03 contient bien un vidimus du n°1396 (de 1316-11), qui lui-même contient un vidimus de l'acte de 1316-05-->
 <source>vidimus de Philippe V du vidimus de Philippe V P5 RTC 1396, enregistrement en chancellerie</source></temoin>
       <temoin type="copie"><fonds>AN, J 423</fonds> 36
 <source>vidimus de Philippe V du vidimus de Philippe V P5 RTC 376</source></temoin>
@@ -5008,7 +5009,7 @@
 <source>vidimus du vidimus perdu</source></temoin>
       <temoin type="copie"><fonds>collection Lenoir, AN, 104 Mi</fonds> 19 p. 53
 <source>d’après Chambre des comptes, dépôt du greffe, n° 82</source></temoin>
-<!--      <temoin type="vidimus">C4 RTC 4333 Répétition ?-->
+<!--      <temoin type="vidimus">C4 RTC 4333 Répétition ? Oui, parce que l'acte de Charles IV vidime deux fois l'acte de Louis X : une fois directement, et une fois en vidimant un vidimus de Philippe V-->
 <source>vidimus de Charles IV, enregistrement en chancellerie</source></temoin>
     </tradition>
     <scellage>charte</scellage>
@@ -5095,7 +5096,7 @@
 <temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 2804
 <source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
     </tradition>
-<!--    Il n'est pas certain qu'il s'agisse d'un vidimus : peut-être plutôt une mention dans un acte (acte de donation de biens) ici avec droit de mainmorte-->
+<!--    Il n'est pas certain qu'il s'agisse d'un vidimus : peut-être plutôt une mention dans un acte (acte de donation de biens) ici avec droit de mainmorte. Stricto sensu, ce n'est pas un vidimus. Mais l'acte est bien transcrit intégralement-->
   </acte>
   <acte xml:id="L10-806">
     <titre>
