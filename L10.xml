@@ -4785,7 +4785,7 @@
 <source>d'après AN JJ54B, n°44</source></temoin>
       <temoin type="vidimus"><fonds>AN, JJ</fonds> 61, fol. 146, n° 336
 <source>Vidimus et confirmation d'une charte de Philippe V (1316, décembre, Vincennes, lat. : v. n° 1411) pour l'église du <?oxy_comment_start author="Isa" timestamp="20161109T191130+0100" comment="Je ne sais pas si cet acte contient le mandement de Louis X, il n&apos;en est pas fait mention dans les inventaires (il faudra être plus explicite sur la raison qui explique la présence de cet acte)"?>Gard<?oxy_comment_end?></source></temoin>
-<temoin type="indique"><ref sigle="C4 RTC">Jean Guerout, Henri Jassemin et Aline Vallée,<i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II :
+<temoin type="indique"><ref sigle="C4 RTC">Jean Guerout, Henri Jassemin et Aline Vallée,<i> Registres du Trésor des chartes. Inventaire analytique</i>, t. II :
 <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règne de Charles IV le Bel</i>, Paris, 1999 (Archives nationales : inventaires et documents)</ref>, n° 3934
 <source>d'après AN JJ61, n°336</source></temoin>
       <temoin type="vidimus"><fonds>AN, P6</fonds> RTC 348
@@ -4852,19 +4852,19 @@
       <lieu>Saint-Christophe-en-Halatte</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus"><fonds>AN</fonds>, JJ 54B, fol. 49-50, n°78
-<todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
-<temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1445a
-<source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
+      <temoin type="vidimus"><fonds>AN, JJ</fonds> 54B, fol. 49-50, n°78
+<source>Vidimus et confirmation par Philippe V (1317, janvier, Paris) d'un instrument notarié scellé du grand sceau de la cour royale de Carcassonne, du 20 novembre 1316, contenant la transcription du mandement de Louis X</source></temoin>
+<temoin type="indique"><ref sigle="P5 RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1445a
+<source>d'après AN, JJ54B, n°78</source></temoin>
       <temoin type="copie">HL, X, n° 186 <source>d’après P5 RTC 1445</source></temoin>
-      <temoin type="vidimus"><fonds>AN</fonds>, JJ 59, fol. 189v-190v, n°347
-<todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
-<temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 3068b
-<source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
-      <temoin type="vidimus"><fonds>AN</fonds>, JJ 59, fol. 193-195v, n°351
-<todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
-<temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 3072-5a
-<source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
+      <temoin type="vidimus"><fonds>AN, JJ</fonds> 59, fol. 189v-190v, n°347
+<source>Vidimus et confirmation par Philippe V (1320, mars, Paris) d'un instrument notarié contenant la transcription du mandement de Louis X</source></temoin>
+<temoin type="indique"><ref sigle="P5 RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 3068b
+<source>d'après AN, JJ59, n°347</source></temoin>
+      <temoin type="vidimus"><fonds>AN, JJ</fonds> 59, fol. 193-195v, n°351
+<source>Vidimus et confirmation par Philippe V (1320, mars, Paris) de l'instrument notarié contenant les actes relatifs à l'adjudication de tous les biens, contenant à l'endroit du 5e acte la transcription du mandement de Louis X</source></temoin>
+<temoin type="indique"><ref sigle="P5 RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 3072-5a
+<source>d'après AN, JJ59, n°351</source></temoin>
     </tradition>
     <scellage>Sceau ante susceptum</scellage>
     <remarques>mandement d'après la notice RTC 1445a</remarques>
@@ -4875,10 +4875,10 @@
       <lieu>Bourges</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus"><fonds>AN</fonds>, JJ 56, fol. 4v, n°13
-<todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
-<temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1634
-<source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
+      <temoin type="vidimus"><fonds>AN, JJ</fonds> 56, fol. 4v, n°13
+<source>Confirmation par Philippe V (1317, décembre, Paris) de la renonciation faite en présence de Jean d'Oisy, bailli de Sens de biens conformément aux lettres de Louis X</source></temoin>
+<temoin type="indique"><ref sigle="P5 RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1634
+<source>d'après AN, JJ56, n°13</source></temoin>
     </tradition>
     <remarques>lettres</remarques>
   </acte>
@@ -4888,10 +4888,10 @@
       <lieu>Saint-Palais-en-Berry</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus"><fonds>AN</fonds>, JJ 56, fol. 13v, n°44
-<todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
-<temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1665
-<source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
+      <temoin type="vidimus"><fonds>AN, JJ</fonds> 56, fol. 13v, n°44
+<source>Vidimus et confirmation par Philippe V (1317, décembre, Saint-Germain-en-Laye) de la charte de Louis X</source></temoin>
+<temoin type="indique"><ref sigle="P5 RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1665
+<source>d'après AN, JJ56, n°44</source></temoin>
       <temoin type="copie">Livre rouge de la Chambre des comptes 1062
 <source>d’après P5 RTC 1665</source></temoin>
     </tradition>
@@ -4905,16 +4905,16 @@
     <datation>(1317/12/14 par erreur pour Ord.)</datation>
     <tradition>
       <temoin type="copie"><ref sigle="AHS 12">Paul Guérin, <i>Documents relatifs à l’histoire de la Saintonge et de l’Aunis extraits des registres du Trésor des chartes</i>, Paris/Saintes, 1884 (Archives historiques de la Saintonge et de l’Aunis, 12)</ref>, n° 63</temoin>
-      <temoin type="vidimus"><fonds>AN</fonds>, JJ 56, fol. 58v-60, n°141
-<todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
-<temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1762b
-<source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
+      <temoin type="vidimus"><fonds>AN, JJ</fonds> 56, fol. 58v-60, n°141
+<source>Vidimus et confirmation par Philippe V (1318, mars, Paris) de la sentence de Nicolas de Braye, enquêteur-réformateur dans la sénéchaussée de Saintonge (1316, 13 avril) contenant la reproduction du mandement de Louis X</source></temoin>
+<temoin type="indique"><ref sigle="P5 RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1762b
+<source>d'après AN, JJ56, n°141</source></temoin>
       <temoin type="copie"><ref sigle="AHS 12">Paul Guérin, <i>Documents relatifs à l’histoire de la Saintonge et de l’Aunis extraits des registres du Trésor des chartes</i>, Paris/Saintes, 1884 (Archives historiques de la Saintonge et de l’Aunis, 12)</ref>, n° 80
 <source>d’après P5 RTC 1762b</source></temoin>
-      <temoin type="vidimus"><fonds>AN</fonds>, JJ 56, fol. 100-102v, n°227
-<todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
-<temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1851b
-<source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
+      <temoin type="vidimus"><fonds>AN, JJ</fonds> 56, fol. 100-102v, n°227
+<source>Vidimus et confirmation par Philippe V (1318, avril, Paris) des ordonnances promulguées par Nicolas de Braye et Louis de Villepreux, conseillers du roi et enquêteurs-réformateurs dans la sénéchaussée de Saintonge (1317, 25 mars, La Rochelle), contenant la reproduction du mandement de Louis X</source></temoin>
+<temoin type="indique"><ref sigle="P5 RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1851b
+<source>d'après AN, JJ56, n°227</source></temoin>
       <temoin type="copie">mss Colbert 10 p. 241
 <source>vidimus de Philippe V (P5 RTC 1851b), copie</source></temoin>
       <temoin type="copie">mss Bertin 17 fol. 12
@@ -4930,10 +4930,10 @@
       <lieu>Meaux</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus"><fonds>AN</fonds>, JJ 56, fol. 62-63, n°144
-<todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
-<temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1765b
-<source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
+      <temoin type="vidimus"><fonds>AN, JJ</fonds> 56, fol. 62-63, n°144
+<source>Vidimus et confirmation par Philippe V (1318, mars, Paris) avec amortissement de la sentence arbitrale de Pierre Poucin, chanoine et chantre de l'église Notre-Dame de Senlis, et d'Hébert l'Escrivain, l'aîné, bourgeois de Compiègne (1317, 29 juin) contenant la transcription du mandement de commission de Louis X</source></temoin>
+<temoin type="indique"><ref sigle="P5 RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1765b
+<source>d'après AN, JJ56, n°144</source></temoin>
     </tradition>
     <remarques>mandement d'après la notice RTC 1765b</remarques>
   </acte>
@@ -4943,18 +4943,18 @@
       <lieu>Orléans</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus"><fonds>AN</fonds>, JJ 56, fol. 104v, n°231
-<todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
-<temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1855
-<source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
+      <temoin type="vidimus"><fonds>AN, JJ</fonds> 56, fol. 104v, n°231
+<source>Vidimus et confirmation par Philippe V (1318, avril, Provins) de la charte de Louis X</source></temoin>
+<temoin type="indique"><ref sigle="P5 RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1855
+<source>d'après AN, JJ56, n°231</source></temoin>
       <temoin type="vidimus"><fonds>AN, P6</fonds> RTC 1234c
 <todo/><source>vidimus de Philippe V du vidimus de Philippe V P5 RTC 1855, enregistrement en chancellerie</source></temoin>
-<temoin type="indique"><ref sigle="RTC">Aline Vallée et Jules Viard, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. III : <i>Règne de Philippe de Valois</i>, 3 vol., Paris, 1978-1984 (Archives nationales : inventaires et documents)</ref>, n° 1234c
-<source>vidimus de Philippe V du vidimus de Philippe V P5 RTC 1855, enregistrement en chancellerie</source></temoin>
+<temoin type="indique"><ref sigle="P6 RTC">Aline Vallée et Jules Viard, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. III : <i>Règne de Philippe de Valois</i>, 3 vol., Paris, 1978-1984 (Archives nationales : inventaires et documents)</ref>, n° 1234c
+<source>d'après AN, JJ??, n°??</source></temoin>
       <temoin type="vidimus"><fonds>AN, P6</fonds> RTC 1234b
 <todo/><source>vidimus de Philippe VI, enregistrement en chancellerie</source></temoin>
-<temoin type="indique"><ref sigle="RTC">Aline Vallée et Jules Viard, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. III : <i>Règne de Philippe de Valois</i>, 3 vol., Paris, 1978-1984 (Archives nationales : inventaires et documents)</ref>, n° 1234b
-<source>vidimus de Philippe VI, enregistrement en chancellerie</source></temoin>
+<temoin type="indique"><ref sigle="P6 RTC">Aline Vallée et Jules Viard, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. III : <i>Règne de Philippe de Valois</i>, 3 vol., Paris, 1978-1984 (Archives nationales : inventaires et documents)</ref>, n° 1234b
+<source>d'après AN, JJ??, n°??</source></temoin>
     </tradition>
     <remarques>les biens indiqués dans cette charte ont été donnés par accord de L10 RTC L10 n°215</remarques>
   </acte>
@@ -4964,24 +4964,24 @@
       <lieu>Vailly-sur-Aisne</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus"><fonds>AN</fonds>, JJ 56, fol. 141, n°307
-<todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
-<temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1932
-<source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
-      <temoin type="vidimus"><fonds>AD Nord</fonds>, B772 [ou B1478 ?], God. 5032 et 5222
+      <temoin type="vidimus"><fonds>AN, JJ</fonds> 56, fol. 141, n°307
+<source>Vidimus et confirmation par Philippe V (1318, décembre, Paris) de la charte de Louis X</source></temoin>
+<temoin type="indique"><ref sigle="P5 RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1932
+<source>d'après AN, JJ56, n°307</source></temoin>
+      <temoin type="vidimus"><fonds>AD Nord, B</fonds>772 [ou 1478 ?], God. 5032 et 5222
 <source>vidimus</source></temoin>
     </tradition>
   </acte>
   <acte xml:id="L10-645">
     <titre>
       <date>1315-11-06</date>
-      <lieu>Royallieu</lieu>
+      <lieu>Royallieu-lès-Compiègne</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus"><fonds>AN</fonds>, JJ 56, fol. 152-152v, n°342
-<todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
-<temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1967a
-<source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
+      <temoin type="vidimus"><fonds>AN, JJ</fonds> 56, fol. 152-152v, n°342
+<source>Vidimus et confirmation par Philippe V (1318, novembre, Bourges) de l'assiette d'une rente viagère (1318, 17 février, Lyon) faite par Jean de Machery, chevalier du roi, sénéchal de Lyon et Mâcon, Hugues de La Motte-Saint-Jean, chanoine d'Autun, juge mage de la sénéchaussée de Mâcon, et Geoffroi du Bois, clerc du roi et procureur royal dans la sénéchaussée de Lyon et Mâcon, contenant le vidimus du don fait par Louis X</source></temoin>
+<temoin type="indique"><ref sigle="P5 RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1967a
+<source>d'après AN, JJ56, n°342</source></temoin>
     </tradition>
   </acte>
   <acte xml:id="L10-745">
@@ -4990,10 +4990,10 @@
       <lieu>Rouen</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus"><fonds>AN</fonds>, JJ 56, fol. 188v-189, n°447
-<todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
-<temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 2075
-<source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
+      <temoin type="vidimus"><fonds>AN, JJ</fonds> 56, fol. 188v-189, n°447
+<source>Vidimus et confirmation par Philippe V (1318, octobre, Bois de Vincennes) de l'accord conclu entre Louis X et le comte de Sarrebruck</source></temoin>
+<temoin type="indique"><ref sigle="P5 RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 2075
+<source>d'après AN, JJ56, n°447</source></temoin>
     </tradition>
     <remarques>sans suscription royale</remarques>
     <remarques>vidimus et acte vidimé sont en français notice RTC</remarques>
@@ -5004,23 +5004,21 @@
       <lieu>La Feuillie</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus"><fonds>AN</fonds>, JJ 56, fol. 201, n°473
-<todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
-<temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 2101
-<source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
-      <temoin type="vidimus"><fonds>AN</fonds>, JJ 62, fol. 135v-136, n° 235
-<source>vidimus de Charles IV du vidimus de Philippe V</source></temoin>
-<temoin type="indique"><ref sigle="RTC">Jean Guerout, Henri Jassemin et Aline Vallée,<i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II :
-<i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règne de Charles IV le Bel</i>, Paris, 1999 (Archives nationales : inventaires et documents)</ref>, n° 3934
-      <source>vidimus de Charles IV du vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
+      <temoin type="vidimus"><fonds>AN, JJ</fonds> 56, fol. 201, n°473
+<source>Vidimus et confirmation par Philippe V (1318, juin, Paris) du don fait par Louis X</source></temoin>
+<temoin type="indique"><ref sigle="P5 RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 2101
+<source>d'après AN, JJ56, n°473</source></temoin>
+      <temoin type="vidimus"><fonds>AN, JJ</fonds> 62, fol. 135v-136, n° 235
+<source>Vidimus et confirmation des chartes de Philippe le Bel (1310, septembre, Moutiers-au-Perche), de Louis X (1315, novembre, la Feuillie) et de Philippe V (1318, juin, Paris) en faveur de Raoul Durand, châtelain royal de la Feuillie</source></temoin>
+<temoin type="indique"><ref sigle="C4 RTC">Jean Guerout, Henri Jassemin et Aline Vallée,<i> Registres du Trésor des chartes. Inventaire analytique</i>, t. II :
+<i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règne de Charles IV le Bel</i>, Paris, 1999 (Archives nationales : inventaires et documents)</ref>, n° 4333
+      <source>d'après AN, JJ62, n°235</source></temoin>
       <temoin type="vidimus">perdu
 <source>vidimus du vidimus de Charles IV</source></temoin>
       <temoin type="vidimus">Chambre des comptes, dépôt du greffe, n° 82
 <source>vidimus du vidimus perdu</source></temoin>
       <temoin type="copie"><fonds>collection Lenoir, AN, 104 Mi</fonds> 19 p. 53
 <source>d’après Chambre des comptes, dépôt du greffe, n° 82</source></temoin>
-      <temoin type="vidimus">C4 RTC 4333
-<source>vidimus de Charles IV, enregistrement en chancellerie</source></temoin>
     </tradition>
     <scellage>charte</scellage>
     <remarques>l'acte de donation est en français, notice RTC 2101</remarques>
@@ -5031,10 +5029,10 @@
       <lieu>Paris</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus"><fonds>AN</fonds>, JJ 56, fol. 216v-217, n°504
-<todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
-<temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 2132a
-<source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
+      <temoin type="vidimus"><fonds>AN, JJ</fonds> 56, fol. 216v-217, n°504
+<source>Vidimus et confirmation par Philippe V (1319, mars, Paris) de la charte de Louis X (1315, octobre, Paris) vidimant et confirmant l'instrument notarié (1315, 27 juillet, Toulouse) d'une sentence de Jean [de Mauquenchy], seigneur de Blainville, chevalier du roi sénéchal de Toulouse et d'Albi</source></temoin>
+<temoin type="indique"><ref sigle="P5 RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 2132a
+<source>d'après AN, JJ56, n°504</source></temoin>
     </tradition>
   </acte>
   <acte xml:id="L10-182">
@@ -5043,13 +5041,12 @@
       <lieu>Paris</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus"><fonds>AN</fonds>, JJ 56, fol. 216v-217, n°504
-<todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
-<temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 2132b
-<source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
+      <temoin type="vidimus"><fonds>AN, JJ</fonds> 56, fol. 216v-217, n°504
+<source>Vidimus et confirmation par Philippe V (1319, mars, Paris) de la charte de Louis X (1315, octobre, Paris) vidimant et confirmant l'instrument notarié (1315, 27 juillet, Toulouse) d'une sentence de Jean [de Mauquenchy], seigneur de Blainville, chevalier du roi sénéchal de Toulouse et d'Albi contenant la transcription du mandement de Louis X adressé au sénéchal de Toulouse</source></temoin>
+<temoin type="indique"><ref sigle="P5 RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 2132b
+<source>d'après AN, JJ56, n°504</source></temoin>
     </tradition>
     <scellage>Sceau ante susceptum</scellage>
-    <remarques>Mandement d'après la notice RTC</remarques>
   </acte>
   <acte xml:id="L10-207">
     <titre>
@@ -5057,13 +5054,12 @@
       <lieu>Paris</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus"><fonds>AN</fonds>, JJ 56, fol. 216v-217, n°504
-<todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
-<temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 2132c
-<source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
+      <temoin type="vidimus"><fonds>AN, JJ</fonds> 56, fol. 216v-217, n°504
+<source>Vidimus et confirmation par Philippe V (1319, mars, Paris) de la charte de Louis X (1315, octobre, Paris) vidimant et confirmant l'instrument notarié (1315, 27 juillet, Toulouse) d'une sentence de Jean [de Mauquenchy], seigneur de Blainville, chevalier du roi sénéchal de Toulouse et d'Albi contenant la transcription du mandement de Louis X adressé au trésorier général de Toulouse</source></temoin>
+<temoin type="indique"><ref sigle="P5 RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 2132c
+<source>d'après AN, JJ56, n°504</source></temoin>
     </tradition>
     <scellage>Sceau ante susceptum</scellage>
-    <remarques>Mandement d'après la notice RTC</remarques>
   </acte>
   <acte xml:id="L10-471">
     <titre>
@@ -5071,14 +5067,13 @@
       <lieu>Paris</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus"><fonds>AN</fonds>, JJ 59, fol. 12v-13v, n°35
-<todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
-<temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 2755a
-<source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
+      <temoin type="vidimus"><fonds>AN, JJ</fonds> 59, fol. 12v-13v, n°35
+<source>Vidimus et confirmation par Philippe V (1319, mai, Asnières-sur-Oise) des lettres de Jean des Barres, chevalier du roi et de Pierre de Dicy, conseillers du roi (1315, 19 octobre) réglant un contentieux, contenant la transcription du vidimus par Louis X (1315, 28 juin, Paris) d'une cédule en français (s.d.n.l.) contenant le texte de l'accord conclu en présence du roi</source></temoin>
+<temoin type="indique"><ref sigle="P5 RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 2755a
+<source>d'après AN, JJ59, n°35</source></temoin>
       <temoin type="indique"><ref sigle="Petit, Ducs">Ernest Petit, <i>Histoire des ducs de Bourgogne de la race capétienne, avec des documents inédits et des pièces justificatives</i>, 9 t., Paris/Dijon, 1885-1905, n° </ref> 6807
 <source>d’après P5 RTC 2755a</source></temoin>
     </tradition>
-    <remarques>notice RTC : vidimus d'une cédule en français (s.d.n.l.), contenant le texte de l'accord conclu en présence du roi, reconnaissant mise en place d'un arbitrage pour succession</remarques>
   </acte>
   <acte xml:id="L10-474">
     <titre>
@@ -5086,14 +5081,13 @@
       <lieu>Paris</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus"><fonds>AN</fonds>, JJ 59, fol. 12v-13v, n°35
-<todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
-<temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 2755b
-<source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
+      <temoin type="vidimus"><fonds>AN, JJ</fonds> 59, fol. 12v-13v, n°35
+<source>Vidimus et confirmation par Philippe V (1319, mai, Asnières-sur-Oise) des lettres de Jean des Barres, chevalier du roi et de Pierre de Dicy, conseillers du roi (1315, 19 octobre) réglant un contentieux, contenant la transcription du mandement de Louis X donnant commission aux deux conseillers pour exécuter l'accord</source></temoin>
+<temoin type="indique"><ref sigle="P5 RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 2755b
+<source>d'après AN, JJ59, n°35</source></temoin>
       <temoin type="indique"><ref sigle="Petit, Ducs">Ernest Petit, <i>Histoire des ducs de Bourgogne de la race capétienne, avec des documents inédits et des pièces justificatives</i>, 9 t., Paris/Dijon, 1885-1905, n° </ref> 6807
 <source>d’après P5 RTC 2755b</source></temoin>
     </tradition>
-    <remarques>Mandement d'après la notice RTC</remarques>
   </acte>
   <acte xml:id="L10-795">
     <titre>
@@ -5101,12 +5095,11 @@
       <lieu>Saint-Germain-en-Laye</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus"><fonds>AN</fonds>, JJ 59, fol. 34, n°84
-<todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
-<temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 2804
-<source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
+      <temoin type="vidimus"><fonds>AN, JJ</fonds> 59, fol. 34, n°84
+<source>Permission donnée par Philippe V (1319, septembre, abbaye royale de Notre-Dame du Lys, près Melun) à Thomas [de Bruyères], seigneur de Bruyères-le-Châtel et de Puivert, chevalier, et à Isabelle de Melun, sa femme, de transporter en mainmorte les biens dont le roi avait confirmé la vente, faite à eux en conséquence de la charte de Louis X</source></temoin>
+<temoin type="indique"><ref sigle="P5 RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 2804
+<source>d'après AN, JJ59, n°84</source></temoin>
     </tradition>
-<!--    Il n'est pas certain qu'il s'agisse d'un vidimus : peut-être plutôt une mention dans un acte (acte de donation de biens) ici avec droit de mainmorte. Stricto sensu, ce n'est pas un vidimus. Mais l'acte est bien transcrit intégralement-->
   </acte>
   <acte xml:id="L10-806">
     <titre>
@@ -5114,12 +5107,12 @@
       <lieu>Paris</lieu>
     </titre>
     <tradition>
-      <temoin type="vidimus"><fonds>AN</fonds>, JJ 59, fol. 71-72v, n°170
-<todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
-<temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 2890c
-<source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
+      <temoin type="vidimus"><fonds>AN, JJ</fonds> 59, fol. 71-72v, n°170
+<source>Vidimus et confirmation par Philippe V (1319, 30 novembre, Longchamp) de la sentence définitive de Gilbert Peche, chevalier, seigneur du duché d'Aquitaine (1319, 12 novembre, Bordeaux) contenant la transcription du mandement de Louis X adressée au sénéchal de Gascogne</source></temoin>
+<temoin type="indique"><ref sigle="P5 RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 2890c
+<source>d'après AN, JJ59, n°170</source></temoin>
     </tradition>
-    <remarques>mandement d'après la notice RTC</remarques>
+    <remarques>Le vidimus de P5 débute comme une charte (RTC)</remarques>
   </acte>
   <acte xml:id="L10-615">
     <titre>
@@ -5128,15 +5121,15 @@
     </titre>
     <tradition>
       <temoin type="vidimus"><fonds>AN</fonds>, JJ 59, fol. 160-163, n°316
-<todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
-<temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 3037
-<source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
+<source>Vidimus et confirmation par Philippe V (1320, mars, Paris) de l'instrument notarié (1319, 24 mars) d'une vente réalisée par Jean de Machery, chevalier du roi, sénéchal de Lyon et Mâcon, procureur de Louis de France, comte d'Evreux, en son nom, contenant la transcription des procès-verbaux d'estimation des biens concernés en vertu du mandement de Louis X donnant commission au sénéchal de Quercy</source></temoin>
+<temoin type="indique"><ref sigle="P5 RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 3037
+<source>d'après AN, JJ59, n°316</source></temoin>
       <temoin type="vidimus"><fonds>AN</fonds>, JJ 61, fol. 153-155, n° 356
-<source>vidimus de Charles IV du vidimus de Philippe V</source></temoin>
-<temoin type="indique"><ref sigle="RTC">Jean Guerout, Henri Jassemin et Aline Vallée,<i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II :
-<i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règne de Charles IV le Bel</i>, Paris, 1999 (Archives nationales : inventaires et documents)</ref>, n° 3954</temoin>
+<source>Vidimus et confirmation par Charles IV (1322, octobre, Vincennes) de la charte de Philippe V relative à la vente de la terre de Tulmont par Louis de France contenant le procès-verbal des biens contenant le mandement de Louis X</source></temoin>
+<temoin type="indique"><ref sigle="C4 RTC">Jean Guerout, Henri Jassemin et Aline Vallée,<i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II :
+<i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règne de Charles IV le Bel</i>, Paris, 1999 (Archives nationales : inventaires et documents)</ref>, n° 3954
+  <source>d'après AN, JJ61, n°356</source></temoin>
     </tradition>
-    <remarques>Il n'est pas certain qu'il s'agisse d'un vidimus dans RTC 3037 : le mandement de L10 est un acte de commission d'un juge mage actif dans un acte vidimé dans RTC 3037</remarques>
   </acte>
   <acte xml:id="L10-528">
     <titre>
@@ -5151,8 +5144,8 @@
       <temoin type="copie"><fonds>AN, JJ</fonds> 46</temoin>
       <temoin type="copie">Brussel, preuves, LXXII</temoin>
       <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 307
-<todo/><source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
-<temoin type="indique"><ref sigle="RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 307
+<source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
+<temoin type="indique"><ref sigle="P5 RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 307
 <source>vidimus de Philippe V, enregistrement en chancellerie</source></temoin>
       <temoin type="vidimus">perdu
 <source>vidimus de Louis X</source></temoin>
