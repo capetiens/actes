@@ -575,8 +575,7 @@
       <lieu>s. l.</lieu>
     </titre>
     <tradition>
-      <temoin type="indique"><fonds>AN, JJ,</fonds> 59, fol. 10, n°24
-        <source>vidimus de Philippe V, daté de juin 1319, d'une ratification faite par les gens du roi</source></temoin>
+      <temoin type="indique"><fonds>AN, JJ,</fonds> 59, fol. 10, n°24</temoin>
       <temoin type="indique"><ref sigle="P5 RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref> n°2744<source>d'après AN, JJ59, n°24</source></temoin>
     </tradition>
   </acte>
@@ -3834,11 +3833,10 @@
       <temoin type="indique"><ref sigle="Wyffels">Carlos Wyffels, <i>Inventaris van de oorkonden der graven van Vlaanderen. Chronologisch gerangschikt supplement</i>, s. l., [1957] (Rijksarchief te Gent),</ref> n° 577
 <source>d’après AE Gand, chartes de Ruppelmonde</source></temoin>
       <temoin type="vidimus"><fonds>AN, JJ</fonds> 54A, fol. 45v, n°604
-<source>confirmation de Philippe V d'une donation de Louis X, 8/11/1317 à Léry</source></temoin>
+<source>vidimus de Philippe V, daté du 8 août 1317</source></temoin>
       <temoin type="indique"><ref sigle="P5 RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref> n°1268<source>d'après AN, JJ54A, n°604</source></temoin>
     </tradition>
-    <mentions>Collatio facta est per me, P. Barr[erii]. De mandato vestro (AN, JJ54A)</mentions>
-  </acte>
+</acte>
   <acte xml:id="L10-118">
     <titre>
       <date>1315-02-10</date>
@@ -3990,7 +3988,7 @@
     </titre>
     <tradition>
        <temoin type="vidimus"><fonds>AN, JJ</fonds> 61, fol. 121, n° 266
-<source>Renouvellement par Charles IV (1322, octobre. Puiseaux) de la charte de Louis X</source></temoin>
+<source>vidimus de Charles IV, daté d'octobre 1322</source></temoin>
       <temoin type="vidimus"><fonds>AN, JJ</fonds> 62, fol. 187v-189, n° 336
 <source>Vidimus et confirmation par Charles IV (1325, septembre. Beaune-en-Gâtinais), avec amortissement, des lettres d'Adam Chevrois, de Laon, garde du scel du bailliage de Vermandois établi de par le roi à Laon (1325, juillet) de la charte de Louis X</source></temoin>
       <temoin type="vidimus"><fonds>AN, JJ</fonds> 62, fol. 190-191v, n° 341
@@ -4003,8 +4001,7 @@
 <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règne de Charles IV le Bel</i>, Paris, 1999 (Archives nationales : inventaires et documents)</ref>, n° 4439<source>d'après AN, JJ62, n°341</source></temoin>
     </tradition>
     <scellage>charte</scellage>
-    <remarques>langue latine (vidimus AN JJ62, n°336 et n°341 en français mais acte en
-      latin)</remarques>
+    <langue>latin</langue>
   </acte>
   <acte xml:id="L10-791">
     <titre>
@@ -4013,7 +4010,7 @@
     </titre>
     <tradition>
       <temoin type="vidimus"><fonds>AN, JJ</fonds> 61, fol. 135, n° 307
-<source>Vidimus par Charles IV (avril 1323, Paris) de la charte de Louis X vidimant et confirmant les lettres d'Hugues de La Celle, chevalier du roi (1315, 29 décembre) </source></temoin>
+<source>vidimus de Charles IV, daté d'avril 1323</source></temoin>
       <temoin type="indique"><fonds>AN, J </fonds> 976 5 8e acte</temoin>
       <temoin type="indique"><ref sigle="C4 RTC">Jean Guerout, Henri Jassemin et Aline Vallée,<i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II :
 <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règne de Charles IV le Bel</i>, Paris, 1999 (Archives nationales : inventaires et documents)</ref>, n° 3905<source>d'après AN, JJ61, n°307</source></temoin>
@@ -4628,7 +4625,7 @@
       <lieu>Paris</lieu>
     </titre>
     <tradition>
-      <temoin type="copie"><fonds><!--?? Il manque la note du fonds--></fonds>A fol. 78</temoin>
+      <temoin type="copie"><fonds><!--?? Il manque la note du fonds. C'est en fait le registre A de la Chambre des comptes, perdu. Je lui appliquerai un traitement spécial, comme à tous les mémoriaux perdus de la Chambre (Pater, Noster...)--></fonds>A fol. 78</temoin>
       <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I 584
 <source>d’après A fol. 78</source></temoin>
       <temoin type="copie">Pater fol. 121v</temoin>
@@ -5005,11 +5002,13 @@
     </titre>
     <tradition>
       <temoin type="vidimus"><fonds>AN, JJ</fonds> 56, fol. 201, n°473
-<source>Vidimus et confirmation par Philippe V (1318, juin, Paris) du don fait par Louis X</source></temoin>
+<source>vidimus de Philippe V, daté de juin 1318</source></temoin>
 <temoin type="indique"><ref sigle="P5 RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 2101
 <source>d'après AN, JJ56, n°473</source></temoin>
       <temoin type="vidimus"><fonds>AN, JJ</fonds> 62, fol. 135v-136, n° 235
-<source>Vidimus et confirmation des chartes de Philippe le Bel (1310, septembre, Moutiers-au-Perche), de Louis X (1315, novembre, la Feuillie) et de Philippe V (1318, juin, Paris) en faveur de Raoul Durand, châtelain royal de la Feuillie</source></temoin>
+<source>vidimus de Charles IV, daté de juin 1324, du vidimus de Philippe V, daté de juin 1318</source></temoin>
+      <temoin type="vidimus"><fonds>AN, JJ</fonds> 62, fol. 135v-136, n° 235
+<source>vidimus de Charles IV, daté de juin 1324</source></temoin>
 <temoin type="indique"><ref sigle="C4 RTC">Jean Guerout, Henri Jassemin et Aline Vallée,<i> Registres du Trésor des chartes. Inventaire analytique</i>, t. II :
 <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règne de Charles IV le Bel</i>, Paris, 1999 (Archives nationales : inventaires et documents)</ref>, n° 4333
       <source>d'après AN, JJ62, n°235</source></temoin>
@@ -5021,7 +5020,7 @@
 <source>d’après Chambre des comptes, dépôt du greffe, n° 82</source></temoin>
     </tradition>
     <scellage>charte</scellage>
-    <remarques>l'acte de donation est en français, notice RTC 2101</remarques>
+    <langue>français</langue>
   </acte>
   <acte xml:id="L10-605">
     <titre>
