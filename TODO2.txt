@@ -1,0 +1,99 @@
+TODO
+
+I. L10.xml
+1. Rectifications de la structure d'ensemble du fichier
+Frédéric : Il y a eu beaucoup de flottements dans la récupération des colonnes de la bdd, flottements que le passage sous Word a masqué. Dans l'immédiat :
+a) mention <analyse>
+Sous <analyse> figure en réalité l'indication <role type="collation">
+b) colonne "total"
+Récupérer la colonne « total » de la base de données initiale, quand (et seulement quand) la colonne « sous 1 » est vide. Les données de cette colonne sont à injecter dans les notices de chaque acte, dans la balise <role type="sous">
+c) colonne "mots-clés"
+Récupérer la colonne "mots-clés" de la bdd et l'insérer dans les notices dans la balise <analyse>
+
+Olivier : vérifier systématiquement toutes les colonnes
+
+
+2. Remplacement des références RTC
+a) P6 RTC 
+Fait : ajout de <temoin type="indique">A. Vallée... (commit Frédéric 2016/10/29 et 30). 
+Isabelle : mettre la cote du registre de chancellerie dans <temoin type="vidimus">AN, JJ ??, n° ??</temoin> et ajouter la description ad hoc dans <source> (sous la forme "vidimus de Philippe VI, daté de ??"
+Frédéric : reporter dans <temoin type="indique">... <source> la cote complétée par Isabelle (cote du témoin précédent)
+
+b) P5 RTC, C4 RTC
+Isabelle : en cours de finition (commits depuis le 9 novembre)
+
+c) L10 RTC
+Isabelle : en cours de reprise (! possibilité de procéder par recherche/remplace pour ajouter systématiquement l'inventaire)
+
+Olivier : une fois l'opération terminée, reprise de toutes les indications RTC subsistantes (dans <source> pour l'essentiel)
+
+3. Langue
+Frédéric : Ajout d'une balise <langue> dans le schéma (avant <remarques>)
+
+4. Récupération des analyses de l'inventaire de Charles IV
+Isabelle : pour les actes vidimés par Charles IV et qui ne sont pas enregistrés en chancellerie (et eux seuls, les actes déjà enregistrés en chancellerie étant à récupérer autrement), récupérer dans le fichier XML de l'inventaire des registres de Charles IV leur analyse (hors la date, l'indication de la langue et une éventuelle mention hors teneur). Attention, il s'agit de la seule analyse de l'acte de Louis X vidimé ou inséré. Le tout est à inscrire dans <analyse>. Dans l'attente de réalisation du I1a, créer une balise <analyse-provisoire>
+
+
+II. Règnes suivants (Philippe IV, Philippe V, Charles IV)
+1. Frédéric : récupération des tableurs selon la même procédure que celle pour créer L10.xml. ! l'ordre des champs peut être un peu différent et ne pas oublier la colonne "total" (selon les mêmes principes que dans le I1 ci-dessus)
+
+2. Remplacement des références RTC
+! Remplacement à ne faire que pour les vidimus
+Frédéric : ajout d'un témoin (<temoin type="indique">) après tous les témoins portant <temoin type="vidimus">[P4/L10/P5/C4/P6] RTC [1-9]</temoin>, selon le schéma suivant (et en conservant cet ordre dans les témoins) :
+	<temoin type="vidimus"><fonds>AN, P6</fonds> RTC 449</temoin>
+    <temoin type="indique"><ref>Aline Vallée et Jules Viard, 
+      <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. III : 
+      <i>Règne de Philippe de Valois</i>, 3 vol., Paris, 1978-1984 
+      (Archives nationales : inventaires et documents)</ref>, 
+    n° 449</temoin>
+    
+    <temoin type="vidimus"><fonds>AN, P5</fonds> RTC 449</temoin>
+    <temoin type="indique"><ref>Jean Guerout, 
+    <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : 
+    <i>Règnes des fils de Philippe le Bel</i>, 2e partie : 
+    <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, 
+    dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, 
+    n° 449</temoin>
+
+    <temoin type="vidimus"><fonds>AN, L10</fonds> RTC 449</temoin>
+    <temoin type="indique"><ref>Jean Guerout, 
+    <i>Registres du Trésor des chartes. Inventaire analytique</i>, 
+    t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : 
+    <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, 
+    dir. Robert Fawtier, Paris, 1966 (Archives nationales : 
+    inventaires et documents)</ref>, n° 449</temoin>
+	
+	<temoin type="vidimus"><fonds>AN, P4</fonds> RTC 2250</temoin>
+    <temoin type="indique"><ref>Jean Glénisson et Jean Guerout, 
+    <i>Registres du Trésor des chartes. Inventaire analytique</i>, 
+    t. I : <i>Règne de Philippe le Bel</i>, 
+    dir. Robert Fawtier, Paris, 1958 (Archives nationales : 
+    inventaires et documents)</ref>, n° 2250</temoin>
+
+Isabelle : remplacer l'indication <temoin type="vidimus"><fonds>AN, [P4/L10/P5/C4/P6]</fonds> RTC 100</temoin> par la cote du registre et une description, comme dans le I2a.
+Frédéric : même opération que dans le I2a.
+
+3. Récupération des analyses des actes vidimés par Charles IV
+Isabelle : idem qu'au I4 ci-dessus.
+
+III. C4.xml
+Frédéric : Récupération automatique des informations venant de l'inventaire des registres
+Le numéro qui figure dans <temoin type="enregistrement en chancellerie">C4 RTC 4000</temoin> va correspondre à <num type="notice">Notice 4000</num>
+1. cote
+En fonction de la correspondance ci-dessus, remplacer <temoin type="enregistrement en chancellerie">C4 RTC 3602</temoin> par
+<temoin><fonds>AN</fonds>, JJ 61, fol. 2-2v, n° 4</temoin> (soit l'info du <unitid> de l'inventaire, le numéro du registre figurant au niveau supérieur) 
+<temoin type="indique"><ref>Jean Guerout, Henri Jassemin et Aline Vallée, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règne de Charles IV le Bel</i>, Paris, 1999 (Archives nationales : inventaires et documents)</ref>, n° 3602</temoin> 
+ Louis X), mais vaut aussi pour les témoins "copies" présents dans le fichier Charles IV. 
+
+2. les mentions hors teneur 
+Dans l'inventaire, les mentions sont repérées par un simple italique (sauf s'il y a "Pas de mentions hors la teneur", indication en romain) dans la balise <scopecontent>. Elles sont parfois dans un paragraphe isolé, mais uniquement si l'acte est un vidimus ; le reste du temps, elles sont directement à la suite de l'analyse. Moyennant quoi, je pense que l'on ne peut que se fier à l'italique, même si ce ne sont pas les seules indications en italique dans <scopecontent>. 2 options pour les repérer, peut-être complémentaires : 
+- elles commencent le plus souvent par "per", "par" ou "in", mais il y a quelques exceptions ; 
+- piste peut-etre meilleure, je pense que ce sont les seules indications en italique en début de phrase. Il faudrait alors récupérer les deux chaînes suivantes : ". <emph>...</emph" et ".</p><p><emph>...</emph> 
+Il faut tester, a priori on ne doit trouver qu'une seule mention par acte, sauf 2 cas : le "pas de mentions hors la teneur" déjà évoqué, qui remplace la mention; et le cas rare où, en plus de la mention de l'acte, s'ajoute une mention dans un acte inséré. Ce sera probablement à nettoyer à la main. 
+Les mentions peuvent au choix être d'abord balisées dans l'inventaire ou directement introduites dans le fichier du catalogue. Je pense que la 1re solution peut toutefois être utile pour l'étape suivante. 
+
+3. l'analyse 
+A priori, elle est dans <scopecontent>. Sauf que <scopecontent> contient d'autres infos que la seule analyse : la mention hors teneur, des notes éventuelles... Ce qui m'intéresse s'arrête donc au début de la mention hors teneur (d'où l'intérêt sans doute de baliser celle-ci). 
+
+4. la langue 
+Récupérer dans <langue> l'indication de la langue de l'acte, qui figure en italique dans <unitid> ("lat." à transformer en "latin", "fr." à transformer en "français").
