@@ -1,0 +1,22 @@
+Mode d'emploi de CharlesIV.xls
+- n° : clé primaire de la base
+- enregistrement en chancellerie : <temoin type="enregistrement en chancellerie">
+- original 1 à original 5 : <temoin type="original">
+- copie 1 à copie 6 : <temoin type="copie">
+- vid 1 à vid 10 : <temoin type="vidimus">
+- enregistrement en chancellerie 2 et 3 : <temoin type="enregistrement en chancellerie">
+- enr en Parlement 1 à enr en Parlement 3 : <temoin type="enregistrement en Parlement">
+- mentions hors teneur intégrales : <mentions>
+- notaire 1 et notaire 2 : <role type="notaire">
+- total : <role type="sous">. A conserver si et seulement si non nul et si "sous 1" vide
+- sous 1 à sous 10 : <role type="sous">
+- analyse : <analyse>
+- lecta : <role type="lecta">
+- refait : <role type="refait">
+- refait notaire : <role type="refait notaire">
+- collation : <role type="collation" 
+- sceau : <scellage>
+- cire : <scellage>. Séparé des données du champ précédent par un espace
+- expédition : <expédition>
+- remarques : <remarques>
+
