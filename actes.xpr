@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project version="17.1">
+<project version="18.0">
     <meta>
         <filters directoryPatterns="" filePatterns="" positiveFilePatterns="" showHiddenFiles="false"/>
         <options>
-            <serialized version="17.1" xml:space="preserve">
+            <serialized version="18.0" xml:space="preserve">
                 <serializableOrderedMap>
                     <entry>
                         <String>author.caret.proximity.highlight.color</String>
@@ -4834,6 +4834,27 @@ Note: If the XPath expression is not defined this argument is ignored&lt;/li>&lt
                                     <String>text/css</String>
                                 </field>
                                 <field name="unparsedInsertString">
+                                    <String>operation, 'ro.sync.ecss.extensions.commons.operations.PromoteDemoteItemOperation',
+          arg-promote, 'false'</String>
+                                </field>
+                                <field name="descriptionString">
+                                    <String>&lt;html>&lt;head>&lt;/head>&lt;body>Description:&lt;p style="margin-left:10px;">Promotes or demotes a list item.&lt;/p>&lt;br/>Arguments: &lt;ul>&lt;li>&lt;b>promote&lt;/b> = Should be true to promote the list item at the caret position, or false to demote it.&lt;/li>&lt;/ul> &lt;br/> Template: &lt;br/>&lt;p style="margin-left:10px;">operation, 'ro.sync.ecss.extensions.commons.operations.PromoteDemoteItemOperation',&lt;br/>          arg-promote, 'false'&lt;/p>&lt;/body>&lt;/html></String>
+                                </field>
+                                <field name="renderString">
+                                    <String>op_PromoteDemoteItemOperation</String>
+                                </field>
+                                <field name="enabled">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="accelerator">
+                                    <null/>
+                                </field>
+                            </codeTemplateItem>
+                            <codeTemplateItem>
+                                <field name="contentType">
+                                    <String>text/css</String>
+                                </field>
+                                <field name="unparsedInsertString">
                                     <String>operation, 'ro.sync.ecss.extensions.commons.operations.RemovePseudoClassOperation',
           arg-elementLocation, '.',
           arg-name, ''</String>
@@ -4867,6 +4888,27 @@ Note: If it is not defined then the element at the caret position will be used.&
                                 </field>
                                 <field name="renderString">
                                     <String>op_RenameElementOperation</String>
+                                </field>
+                                <field name="enabled">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="accelerator">
+                                    <null/>
+                                </field>
+                            </codeTemplateItem>
+                            <codeTemplateItem>
+                                <field name="contentType">
+                                    <String>text/css</String>
+                                </field>
+                                <field name="unparsedInsertString">
+                                    <String>operation, 'ro.sync.ecss.extensions.commons.operations.ReplaceContentOperation',
+          arg-content, ''</String>
+                                </field>
+                                <field name="descriptionString">
+                                    <String>&lt;html>&lt;head>&lt;/head>&lt;body>Description:&lt;p style="margin-left:10px;">Replaces the content of a document.&lt;/p>&lt;br/>Arguments: &lt;ul>&lt;li>&lt;b>content&lt;/b> = The new content of the document.&lt;/li>&lt;/ul> &lt;br/> Template: &lt;br/>&lt;p style="margin-left:10px;">operation, 'ro.sync.ecss.extensions.commons.operations.ReplaceContentOperation',&lt;br/>          arg-content, ''&lt;/p>&lt;/body>&lt;/html></String>
+                                </field>
+                                <field name="renderString">
+                                    <String>op_ReplaceContentOperation</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
@@ -5966,6 +6008,27 @@ Note: If the XPath expression is not defined this argument is ignored&lt;/li>&lt
                                     <String>text/less</String>
                                 </field>
                                 <field name="unparsedInsertString">
+                                    <String>operation, 'ro.sync.ecss.extensions.commons.operations.PromoteDemoteItemOperation',
+          arg-promote, 'false'</String>
+                                </field>
+                                <field name="descriptionString">
+                                    <String>&lt;html>&lt;head>&lt;/head>&lt;body>Description:&lt;p style="margin-left:10px;">Promotes or demotes a list item.&lt;/p>&lt;br/>Arguments: &lt;ul>&lt;li>&lt;b>promote&lt;/b> = Should be true to promote the list item at the caret position, or false to demote it.&lt;/li>&lt;/ul> &lt;br/> Template: &lt;br/>&lt;p style="margin-left:10px;">operation, 'ro.sync.ecss.extensions.commons.operations.PromoteDemoteItemOperation',&lt;br/>          arg-promote, 'false'&lt;/p>&lt;/body>&lt;/html></String>
+                                </field>
+                                <field name="renderString">
+                                    <String>op_PromoteDemoteItemOperation</String>
+                                </field>
+                                <field name="enabled">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="accelerator">
+                                    <null/>
+                                </field>
+                            </codeTemplateItem>
+                            <codeTemplateItem>
+                                <field name="contentType">
+                                    <String>text/less</String>
+                                </field>
+                                <field name="unparsedInsertString">
                                     <String>operation, 'ro.sync.ecss.extensions.commons.operations.RemovePseudoClassOperation',
           arg-elementLocation, '.',
           arg-name, ''</String>
@@ -5999,6 +6062,27 @@ Note: If it is not defined then the element at the caret position will be used.&
                                 </field>
                                 <field name="renderString">
                                     <String>op_RenameElementOperation</String>
+                                </field>
+                                <field name="enabled">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="accelerator">
+                                    <null/>
+                                </field>
+                            </codeTemplateItem>
+                            <codeTemplateItem>
+                                <field name="contentType">
+                                    <String>text/less</String>
+                                </field>
+                                <field name="unparsedInsertString">
+                                    <String>operation, 'ro.sync.ecss.extensions.commons.operations.ReplaceContentOperation',
+          arg-content, ''</String>
+                                </field>
+                                <field name="descriptionString">
+                                    <String>&lt;html>&lt;head>&lt;/head>&lt;body>Description:&lt;p style="margin-left:10px;">Replaces the content of a document.&lt;/p>&lt;br/>Arguments: &lt;ul>&lt;li>&lt;b>content&lt;/b> = The new content of the document.&lt;/li>&lt;/ul> &lt;br/> Template: &lt;br/>&lt;p style="margin-left:10px;">operation, 'ro.sync.ecss.extensions.commons.operations.ReplaceContentOperation',&lt;br/>          arg-content, ''&lt;/p>&lt;/body>&lt;/html></String>
+                                </field>
+                                <field name="renderString">
+                                    <String>op_ReplaceContentOperation</String>
                                 </field>
                                 <field name="enabled">
                                     <Boolean>true</Boolean>
