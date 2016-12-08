@@ -67,7 +67,7 @@
     </titre>
     <datation>Millésime restitué</datation>
     <tradition>
-      <temoin type="original"><fonds>Archivo de la Corona de Aragón</fonds>, Jaime II perg. Extra-inventario 375</temoin>
+      <temoin type="original"><fonds>Archivo de la Corona de Aragón,</fonds> Jaime II perg. Extra-inventario 375</temoin>
     </tradition>
     <scellage>missive ? (pas de trace de scellage, adresse inversée). Sceau ante susceptum</scellage>
   </acte>
@@ -749,7 +749,7 @@
     <localisation>(s.l. pour Petit)</localisation>
     <tradition>
       <temoin type="copie">A fol. 51 ou 52</temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XI 440
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XI, p. 440
 <source>d’après A fol. 51 ou 52</source></temoin>
       <temoin type="indique"><ref sigle="Petit, Essai, n">Joseph Petit, Michel Gavrilovitch, Maury et D.-A. Teodoru, <i>Essai de restitution des plus anciens mémoriaux de la Chambre des comptes</i>, Paris, 1899 (Université de Paris. Bibliothèque de la faculté des Lettres, 7)</ref>, n° 576
 <source>d’après A fol. 51 ou 52</source></temoin>
@@ -858,12 +858,12 @@
     </titre>
     <tradition>
       <temoin type="copie">A fol. 78</temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XI 434
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XI, p. 434
 <source>d’après A fol. 78 avec réf. erronée</source></temoin>
       <temoin type="indique"><ref sigle="Petit, Essai, n">Joseph Petit, Michel Gavrilovitch, Maury et D.-A. Teodoru, <i>Essai de restitution des plus anciens mémoriaux de la Chambre des comptes</i>, Paris, 1899 (Université de Paris. Bibliothèque de la faculté des Lettres, 7)</ref>, n° 599
 <source>d’après A fol. 78</source></temoin>
     </tradition>
-    <remarques>Petit renvoie à tort à Ord. I 583</remarques>
+    <remarques>Petit renvoie à tort à Ord. I, p. 583</remarques>
   </acte>
   <acte xml:id="L10-563">
     <titre>
@@ -872,7 +872,7 @@
     </titre>
     <tradition>
       <temoin type="copie">A fol. 81</temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I 605
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I, p. 605
 <source>d’après A fol. 81</source></temoin>
       <temoin type="indique"><ref sigle="Petit, Essai, n">Joseph Petit, Michel Gavrilovitch, Maury et D.-A. Teodoru, <i>Essai de restitution des plus anciens mémoriaux de la Chambre des comptes</i>, Paris, 1899 (Université de Paris. Bibliothèque de la faculté des Lettres, 7)</ref>, n° 603
 <source>d’après A fol. 81</source></temoin>
@@ -885,7 +885,7 @@
     </titre>
     <tradition>
       <temoin type="copie">A fol. 81v</temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I 603
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I, p. 603
 <source>d’après A fol. 81v</source></temoin>
       <temoin type="indique"><ref sigle="Petit, Essai, n">Joseph Petit, Michel Gavrilovitch, Maury et D.-A. Teodoru, <i>Essai de restitution des plus anciens mémoriaux de la Chambre des comptes</i>, Paris, 1899 (Université de Paris. Bibliothèque de la faculté des Lettres, 7)</ref>, n° 604
 <source>d’après A fol. 81v</source></temoin>
@@ -910,7 +910,7 @@
     <localisation>(BSG)</localisation>
     <tradition>
       <temoin type="copie">A fol. 82</temoin>
-      <temoin type="copie"><fonds>Bibliothèque Sainte-Geneviève</fonds>, 786, fol. 153v
+      <temoin type="copie"><fonds>Bibliothèque Sainte-Geneviève,</fonds> 786, fol. 153v
 <source>d’après A fol. 82</source></temoin>
       <temoin type="indique"><ref sigle="Petit, Essai, n">Joseph Petit, Michel Gavrilovitch, Maury et D.-A. Teodoru, <i>Essai de restitution des plus anciens mémoriaux de la Chambre des comptes</i>, Paris, 1899 (Université de Paris. Bibliothèque de la faculté des Lettres, 7)</ref>, n° 606
 <source>d’après A fol. 82</source></temoin>
@@ -933,9 +933,9 @@
       <lieu>Paris</lieu>
     </titre>
     <tradition>
-      <temoin type="original"><fonds>AN, K </fonds> 948, n° 27</temoin>
+      <temoin type="original"><fonds>AN, K</fonds> 948, n° 27</temoin>
       <temoin type="copie">A fol. 87v</temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I 608
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I, p. 608
 <source>d’après A fol. 87v (avec renvoi au fol. 27)</source></temoin>
       <temoin type="indique"><ref sigle="Petit, Essai, n">Joseph Petit, Michel Gavrilovitch, Maury et D.-A. Teodoru, <i>Essai de restitution des plus anciens mémoriaux de la Chambre des comptes</i>, Paris, 1899 (Université de Paris. Bibliothèque de la faculté des Lettres, 7)</ref>, n° 620
 <source>d’après A fol. 87v</source></temoin>
@@ -953,7 +953,7 @@
     </titre>
     <tradition>
       <temoin type="copie">A fol. 88</temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I 609
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I, p. 609
 <source>d’après A fol. 88</source></temoin>
       <temoin type="indique"><ref sigle="Petit, Essai, n">Joseph Petit, Michel Gavrilovitch, Maury et D.-A. Teodoru, <i>Essai de restitution des plus anciens mémoriaux de la Chambre des comptes</i>, Paris, 1899 (Université de Paris. Bibliothèque de la faculté des Lettres, 7)</ref>, n° 621
 <source>d’après A fol. 88</source></temoin>
@@ -966,7 +966,7 @@
     </titre>
     <tradition>
       <temoin type="copie">A fol. 89</temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I 614b
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I, p. 614b
 <source>d’après A fol. 89 et Le Blanc, Traité des monnaies, éd. Hollande, p. 199 (indiqué)</source></temoin>
       <temoin type="copie">Le Blanc, Traité des monnaies, éd. Hollande, p. 199</temoin>
       <temoin type="indique"><ref sigle="Petit, Essai, n">Joseph Petit, Michel Gavrilovitch, Maury et D.-A. Teodoru, <i>Essai de restitution des plus anciens mémoriaux de la Chambre des comptes</i>, Paris, 1899 (Université de Paris. Bibliothèque de la faculté des Lettres, 7)</ref>, n° 624
@@ -980,7 +980,7 @@
     </titre>
     <tradition>
       <temoin type="copie">A fol. 91</temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I 617
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I, p. 617
 <source>d’après A fol. 91</source></temoin>
       <temoin type="indique"><ref sigle="Petit, Essai, n">Joseph Petit, Michel Gavrilovitch, Maury et D.-A. Teodoru, <i>Essai de restitution des plus anciens mémoriaux de la Chambre des comptes</i>, Paris, 1899 (Université de Paris. Bibliothèque de la faculté des Lettres, 7)</ref>, n° 625
 <source>d’après A fol. 91</source></temoin>
@@ -993,7 +993,7 @@
     </titre>
     <tradition>
       <temoin type="copie">A fol. 92</temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I 619
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I, p. 619
 <source>d’après A fol. 92</source></temoin>
       <temoin type="indique"><ref sigle="Petit, Essai, n">Joseph Petit, Michel Gavrilovitch, Maury et D.-A. Teodoru, <i>Essai de restitution des plus anciens mémoriaux de la Chambre des comptes</i>, Paris, 1899 (Université de Paris. Bibliothèque de la faculté des Lettres, 7)</ref>, n° 626
 <source>d’après A fol. 92</source></temoin>
@@ -1007,7 +1007,7 @@
     <datation>(a.s.) / 1316/04/01 (Petit)</datation>
     <tradition>
       <temoin type="copie">A fol. 92 ou 92v</temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XI 431
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XI, p. 431
 <source>d’après A fol. 92 ou 92v</source></temoin>
       <temoin type="indique"><ref sigle="Petit, Essai, n">Joseph Petit, Michel Gavrilovitch, Maury et D.-A. Teodoru, <i>Essai de restitution des plus anciens mémoriaux de la Chambre des comptes</i>, Paris, 1899 (Université de Paris. Bibliothèque de la faculté des Lettres, 7)</ref>, n° 627
 <source>d’après A fol. 92 ou 92v</source></temoin>
@@ -1044,7 +1044,7 @@
       <lieu>Paris</lieu>
     </titre>
     <tradition>
-      <temoin type="copie"><fonds>Archivo de la Corona de Aragón</fonds>, Jaime II Reg. 337 fol. 249</temoin>
+      <temoin type="copie"><fonds>Archivo de la Corona de Aragón,</fonds> Jaime II Reg. 337 fol. 249</temoin>
     </tradition>
   </acte>
   <acte xml:id="L10-39">
@@ -1054,7 +1054,7 @@
     </titre>
     <datation>Millésime restitué</datation>
     <tradition>
-      <temoin type="copie"><fonds>Archivo de la Corona de Aragón</fonds>, Jaime II Reg. 337 fol. 345v</temoin>
+      <temoin type="copie"><fonds>Archivo de la Corona de Aragón,</fonds> Jaime II Reg. 337 fol. 345v</temoin>
       <temoin type="indique"><ref sigle="Irht fiches">Corpus philippicum, itinéraire de Philippe le Bel, fiches mss. (conservé à l’Institut de recherches et d’histoire des textes)</ref>
 <source>d’après ACA Jaime II Reg. 337 fol. 345v</source></temoin>
     </tradition>
@@ -1152,9 +1152,9 @@
       <temoin type="copie"><ref sigle="Devillers">Léopold Devillers, <i>Monuments pour servir à l’histoire des provinces de Namur, de Hainaut et de Luxembourg</i>, t. III, Bruxelles, 1874 (Collection des chroniques belges inédites, 5),</ref> n° 148
 <source>d’après 2e cartulaire de Hainaut n° 91</source></temoin>
     </tradition>
-    <mentions>per Vos (sous le sceau). Guido. Au dos : R. (B1170)</mentions>
+    <mentions>per Vos (sous le sceau). Guido. Au dos : R. (AD Nord, B 1170)</mentions>
     <scellage>mandement (AD Nord)</scellage>
-    <remarques>R. au dos. Mention sous le sceau (B1170)</remarques>
+    <remarques>R. au dos. Mention sous le sceau (AD Nord, B 1170)</remarques>
     <personnel>
       <role type="notaire">Guido</role>
     </personnel>
@@ -1171,8 +1171,8 @@
       <temoin type="indique"><ref sigle="Devillers">Léopold Devillers, <i>Monuments pour servir à l’histoire des provinces de Namur, de Hainaut et de Luxembourg</i>, t. III, Bruxelles, 1874 (Collection des chroniques belges inédites, 5),</ref> p. 793
 <source>d’après 3e cartulaire de Hainaut n° 169, God. 5041</source></temoin>
     </tradition>
-    <mentions>Guido (AD Nord B1219)</mentions>
-    <scellage>mandement (AD Nord B1219)</scellage>
+    <mentions>Guido (AD Nord, B 1219)</mentions>
+    <scellage>mandement (AD Nord, B 1219)</scellage>
     <personnel>
       <role type="notaire">Guido</role>
     </personnel>
@@ -1471,7 +1471,7 @@
       <temoin type="copie"><fonds>AM Lyon, AA</fonds> 1 ou 2, fol. 17</temoin>
       <temoin type="copie">Ménestrier, Histoire de Lyon, preuves, partie II, p. 87, col. 2
 <source>d’après AM Lyon AA1 ou AA2 fol. 17</source></temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XI 433
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XI, p. 433
 <source>d’après Ménestrier, Histoire de Lyon, preuves, partie II, p. 87, col. 2</source></temoin>
       <temoin type="copie"><ref sigle="Guigue">Marie-Claude Guigue, <i>Cartulaire municipal de la ville de Lyon : privilèges, franchises, libertés et autres titres de la commune. Recueil formé au <pc>xiv</pc><sup>e</sup> siècle par Étienne de Villeneuve</i> […], Lyon, 1876,</ref> n° XXXV
 <source>d’après AM Lyon, AA1 ou AA2, fol. 17</source></temoin>
@@ -1526,7 +1526,7 @@
       <temoin type="copie">Provins ms 29 [Ancien coutumier de Champagne]</temoin>
       <temoin type="copie">Bourdot de Richebourg, III, p. 234 [Ancien coutumier de Champagne]</temoin>
       <temoin type="copie"><fonds>BNF, fr.</fonds> 7508, fol. 187</temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I 577</temoin>
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I, p. 577</temoin>
       <temoin type="copie">Brussel, II, p. LXVI</temoin>
       <temoin type="indique"><ref sigle="Artonne, p.">André Artonne, <i>Le mouvement de 1314 et les chartes provinciales de 1315</i>, Paris, 1912 (Université de Paris. Bibliothèque de la faculté des Lettres, 29), p. </ref> 161
 <source>d’après fr. 5256 fol. 10 ; fr. 7508 fol. 187 ; Dupuy 758 fol. 28v et 34v ; Ord. I 577 ; Bourdot de Richebourg, III, p. 234 ; Brussel, II, p. LXVI ; Pithou, Coustumes du bailliage de Troyes, p. 493</source></temoin>
@@ -1546,7 +1546,7 @@
 <source>d’après fr. 5256 fol. 8</source></temoin>
       <temoin type="copie">Pithou, Coustumes du bailliage de Troyes, p. 487
 <source>d’après fr. 5256 fol. 8</source></temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I 573
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I, p. 573
 <source>d’après Pithou, Coustumes du bailliage de Troyes, p. 487</source></temoin>
       <temoin type="copie"><fonds>BM Provins</fonds>, ms. 29 [Ancien coutumier de Champagne] fol. 35</temoin>
       <temoin type="copie">Bourdot de Richebourg, III, p. 233 [Ancien coutumier de Champagne]</temoin>
@@ -1556,11 +1556,11 @@
       <temoin type="copie">Brussel, II, p. XLII</temoin>
       <temoin type="copie"><fonds>AD Marne, G</fonds> 168, fol. 35</temoin>
       <temoin type="indique"><ref sigle="Artonne, p.">André Artonne, <i>Le mouvement de 1314 et les chartes provinciales de 1315</i>, Paris, 1912 (Université de Paris. Bibliothèque de la faculté des Lettres, 29), p. </ref> 161
-<source>d’après fr. 5256 fol. 8 ; fr. 5259 fol. 195 ; fr. 7508 fol. 184 ; Dupuy 135 fol. 171 ; Dupuy 758 fol. 25 et 32 ; BM Provins ms. 29 fol. 35 ; AD Marne G168 fol. 35 ; Ord. I 573 ; Bourdot de Richebourg, III, p. 233 ; Brussel, II, p. XLII ; Pithou, Coustumes du bailliage de Troyes, p. 487</source></temoin>
+<source>d’après BNF, fr. 5256, fol. 8 ; BNF, fr. 5259 fol. 195 ; BNF, fr. 7508, fol. 184 ; Dupuy 135 fol. 171 ; Dupuy 758 fol. 25 et 32 ; BM Provins ms. 29 fol. 35 ; AD Marne, G 168, fol. 35 ; Ord. I, p. 573 ; Bourdot de Richebourg, III, p. 233 ; Brussel, II, p. XLII ; Pithou, Coustumes du bailliage de Troyes, p. 487</source></temoin>
       <temoin type="indique">NRHDFE 1907 p. 291
-<source>d’après fr. 5256 fol. 8 ; Dupuy 758 fol. 25 et 32 ; Pithou, Coustumes du bailliage de Troyes, p. 487 ; Ord. I 573 ; BM Provins ms. 29 fol. 35 ; et Bourdot de Richebourg, III, p. 233</source></temoin>
+<source>d’après BNF, fr. 5256, fol. 8 ; BNF, Dupuy 758, fol. 25 et 32 ; Pithou, Coustumes du bailliage de Troyes, p. 487 ; Ord. I, p. 573 ; BM Provins, ms. 29, fol. 35 ; et Bourdot de Richebourg, III, p. 233</source></temoin>
       <temoin type="indique"><ref sigle="Artonne, p.">André Artonne, <i>Le mouvement de 1314 et les chartes provinciales de 1315</i>, Paris, 1912 (Université de Paris. Bibliothèque de la faculté des Lettres, 29), p. </ref> 161
-<source>d’après Dupuy 135 fol. 171</source></temoin>
+<source>d’après BNF, Dupuy 135, fol. 171</source></temoin>
     </tradition>
     <remarques>Artonne ne lie pas les trois familles de l’Ancien coutumier de Champagne ; Chenon dans la NRHDFE les rapproche, sans dire explicitement que l’ordonnance est dans le coutumier</remarques>
   </acte>
@@ -1682,7 +1682,7 @@
     </titre>
     <tradition>
       <temoin type="copie"><fonds>BM Orléans</fonds>, 258, t. I, fol. 1</temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XI 433
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XI, p. 433
 <source>d’après BM Orléans 258, t. I, fol. 1</source></temoin>
     </tradition>
     <remarques>ordre d’exécution général en 1315/05/10 et à Mâcon et Lyon en 1315/05/29</remarques>
@@ -1694,8 +1694,8 @@
     </titre>
     <tradition>
       <temoin type="copie"><fonds>BM Orléans</fonds>, 258, t. I, fol. 22v</temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XI 434
-<source>d’après BM Orléans 258 t. I, fol. 22v</source></temoin>
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XI, p. 434
+<source>d’après BM Orléans 258, t. I, fol. 22v</source></temoin>
     </tradition>
   </acte>
   <acte xml:id="L10-203">
@@ -1706,10 +1706,10 @@
     <localisation>(Ord.) / Paris (Artonne)</localisation>
     <tradition>
       <temoin type="copie"><fonds>BM Rouen</fonds>, ms. E 42</temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I 551
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I, p. 551
 <source>d’après BM Rouen, ms. E 42</source></temoin>
       <temoin type="indique"><ref sigle="Artonne, p.">André Artonne, <i>Le mouvement de 1314 et les chartes provinciales de 1315</i>, Paris, 1912 (Université de Paris. Bibliothèque de la faculté des Lettres, 29), p. </ref> 150
-<source>d’après BM Rouen, ms. E 42 et Ord. I 551</source></temoin>
+<source>d’après BM Rouen, ms. E 42 et Ord. I, p. 551</source></temoin>
     </tradition>
     <scellage>Sceau ante susceptum (Ord.)</scellage>
   </acte>
@@ -1720,7 +1720,7 @@
     </titre>
     <tradition>
       <temoin type="original">perdu</temoin>
-      <temoin type="copie"><fonds>BM Saint-Omer</fonds>, 803, t. IVb, n° 57 <ref sigle="Haigneré">abbé Daniel Haigneré, <i>Les chartes de Saint-Bertin, d’après le grand cartulaire de dom Charles-Joseph Dewitte, dernier archiviste de ce monastère</i>, t. II : <i>1241-1380</i>, Saint-Omer, 1891 (Société des antiquaires de la Morinie),</ref> n° 1466
+      <temoin type="copie"><fonds>BM Saint-Omer,</fonds> 803, t. IVb, n° 57 <ref sigle="Haigneré">abbé Daniel Haigneré, <i>Les chartes de Saint-Bertin, d’après le grand cartulaire de dom Charles-Joseph Dewitte, dernier archiviste de ce monastère</i>, t. II : <i>1241-1380</i>, Saint-Omer, 1891 (Société des antiquaires de la Morinie),</ref> n° 1466
 <source>d’après original perdu</source></temoin>
     </tradition>
   </acte>
@@ -1751,7 +1751,7 @@
 <source>d’après BNF, fr. 10988, fol. 345 et <i>Bulletin de la société des études du Lot</i> t. 14 p. 198</source></temoin>
       <temoin type="indique"><fonds>BNF, fr.</fonds> 10988, fol. 345</temoin>
     </tradition>
-    <expeditions>Najac (Brown), Gourdon (Bulletin de la société du Lot) / 225 expéditions pour au moins 3 assemblées (fr. 10988)</expeditions>
+    <expeditions>Najac (Brown), Gourdon (Bulletin de la société du Lot) / 225 expéditions pour au moins 3 assemblées (BNF, fr. 10988)</expeditions>
     <scellage>close (Bulletin de la société du Lot et fr. 10988)</scellage>
     <remarques>toutes les expéditions sont-elles de la même date ? fr. 10988 fournit plusieurs dates, de 1315/12/12 à 1315/12/17, mais cela semble être la date de remise des lettres à la Chambre des comptes</remarques>
   </acte>
@@ -1799,7 +1799,7 @@
     </titre>
     <tradition>
       <temoin type="copie">Coutume de Troyes, in-4, p. 602</temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I 606
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I, p. 606
 <source>d’après Coutume de Troyes, in-4, p. 602</source></temoin>
     </tradition>
   </acte>
@@ -1850,7 +1850,7 @@
       <temoin type="copie">Cod. Harcur. fol. 69</temoin>
       <temoin type="copie">archives de l’Université, registre 94 p. 79, n° 76</temoin>
       <temoin type="copie">Bulaeus IV 171</temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I 623 note</temoin>
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I, p. 623 note</temoin>
     </tradition>
     <mentions>reno. P. Vos. Barr. (A10 D)</mentions>
     <scellage>double queue</scellage>
@@ -1916,7 +1916,7 @@
     </titre>
     <tradition>
       <temoin type="copie">Douai, registre aux privilèges</temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XI 438
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XI, p. 438
 <source>d’après Douai, registre aux privilèges</source></temoin>
     </tradition>
   </acte>
@@ -1964,8 +1964,8 @@
       <temoin type="original"><fonds>AC Douai, AA</fonds> 113</temoin>
       <temoin type="copie">Espinas -Verlinden n° 116
 <source>d’après AC Douai, AA 113 et AC Douai registre AA 84, fol. 7</source></temoin>
-      <temoin type="copie"><fonds>AC Douai, registre AA</fonds>84, fol. 7</temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XI 438
+      <temoin type="copie"><fonds>AC Douai, registre AA</fonds> 84, fol. 7</temoin>
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XI, p. 438
 <source>d’après AC Douai, registre AA 84, fol. 7</source></temoin>
     </tradition>
   </acte>
@@ -2064,10 +2064,10 @@
     </titre>
     <tradition>
       <temoin type="copie">Girard et Joly, II, p. 1815-1816</temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I 560
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I, p. 560
 <source>d’après Girard et Joly, II, p. 1815-1816</source></temoin>
       <temoin type="copie">Pithou, Coutumes de Troyes, éd. 1609, p. 468</temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XII 409
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XII, p. 409
 <source>d’après Pithou, Coutumes de Troyes, éd. 1609, p. 468</source></temoin>
     </tradition>
     <remarques>ordre d’exécution à Mâcon et Lyon en 1315/05/29, et aux bailliages normands en 1315/06/25</remarques>
@@ -2261,7 +2261,7 @@
     <datation>vers 12/25</datation>
     <tradition>
       <temoin type="copie">Le Blanc, Traité des monnaies, p. 198</temoin>
-      <temoin type="indique"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I 624 note
+      <temoin type="indique"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I, p. 624 note
 <source>d’après Le Blanc, Traité des monnaies, p. 198</source></temoin>
     </tradition>
   </acte>
@@ -2488,7 +2488,7 @@
     <tradition>
       <temoin type="original"><fonds>AN, J</fonds> 374, n° 16</temoin>
       <temoin type="original"><fonds>AN, J</fonds> 374, n° 16bis</temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XII 416
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XII, p. 416
 <source>d’après J 374 16bis</source></temoin>
       <temoin type="copie"><fonds>Bibliothèque Sainte-Geneviève</fonds>, 786, fol. 212
 <source>d’après J 374 16bis</source></temoin>
@@ -2498,17 +2498,17 @@
       <temoin type="copie"><fonds>BNF, Moreau 221</fonds>, fol. 250
 <source>d’après mss de la Chambre des Comptes</source></temoin>
       <temoin type="copie">mss de la bibliothèque d’Orléans [BM Orléans 550?], p. 262</temoin>
-      <temoin type="copie"><fonds>BNF, Moreau 221</fonds>, fol. 250
+      <temoin type="copie"><fonds>BNF, Moreau 221,</fonds> fol. 250
 <source>d’après mss de la bibliothèque d’Orléans [BM Orléans 550?], p. 262</source></temoin>
       <temoin type="copie">Mémoires des pairs, p. 216</temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XII 416
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XII, p. 416
 <source>d’après Mémoires des pairs, p. 216</source></temoin>
       <temoin type="indique"><ref sigle="de Curzon">Théodore de Curzon, inventaire analytique par ordre chronologique du Trésor des chartes, 1890-1891, fiches mss. (conservé aux Archives nationales, département de l’Ancien Régime)</ref>
-<source>d’après J 374 16</source></temoin>
+<source>d’après AN, J 374, n° 16</source></temoin>
       <temoin type="indique"><ref sigle="de Curzon">Théodore de Curzon, inventaire analytique par ordre chronologique du Trésor des chartes, 1890-1891, fiches mss. (conservé aux Archives nationales, département de l’Ancien Régime)</ref>
-<source>d’après J 975 14</source></temoin>
+<source>d’après AN, J 975, n° 14</source></temoin>
     </tradition>
-    <mentions>per Vos. Barr. (AN, J 374, n° 16bis) / extracta de registris de mandato vestro. P. Barr. (J 374 16)</mentions>
+    <mentions>per Vos. Barr. (AN, J 374, n° 16bis) / extracta de registris de mandato vestro. P. Barr. (AN, J 374, n° 16)</mentions>
     <scellage>double queue (J)</scellage>
     <remarques>rédaction légèrement différente entre AN, J 374, n° 16 et 16bis</remarques>
     <personnel>
@@ -2661,7 +2661,7 @@
     </titre>
     <tradition>
       <temoin type="copie">Pater fol. 110</temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I 604 note
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I, p. 604 note
 <source>d’après Pater fol. 110</source></temoin>
       <temoin type="copie"><fonds>bibliothèque Sainte-Geneviève</fonds>, 786, fol. 149
 <source>d’après Pater fol. 110</source></temoin>
@@ -2681,7 +2681,7 @@
     <datation>(1315/08/10 pour BSG)</datation>
     <tradition>
       <temoin type="copie">Pater fol. 110</temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I 605 note
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I, p. 605 note
 <source>d’après Pater fol. 110</source></temoin>
       <temoin type="copie"><fonds>Bibliothèque Sainte-Geneviève</fonds>, 786 fol. 149v
 <source>d’après Pater fol. 110</source></temoin>
@@ -2701,7 +2701,7 @@
     <datation>(1314/07/28 pour Petit d’après PP109)</datation>
     <tradition>
       <temoin type="copie">Pater fol. 117</temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XI 435
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XI, p. 435
 <source>d’après Pater avec renvoi erroné au fol. 120</source></temoin>
       <temoin type="copie"><fonds>Bibliothèque Sainte-Geneviève</fonds>, 786 fol. 141v
 <source>d’après Pater fol. 117</source></temoin>
@@ -2716,9 +2716,9 @@
     </titre>
     <tradition>
       <temoin type="copie">Pater fol. 120v</temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I 604
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I, p. 604
 <source>d’après Pater fol. 120v</source></temoin>
-      <temoin type="copie"><fonds>Bibliothèque Sainte-Geneviève</fonds>, 786 fol. 147v
+      <temoin type="copie"><fonds>Bibliothèque Sainte-Geneviève,</fonds> 786 fol. 147v
 <source>d’après Pater fol. 120v</source></temoin>
       <temoin type="copie">Pater fol. 110</temoin>
       <temoin type="indique"><ref sigle="Petit, Essai, n">Joseph Petit, Michel Gavrilovitch, Maury et D.-A. Teodoru, <i>Essai de restitution des plus anciens mémoriaux de la Chambre des comptes</i>, Paris, 1899 (Université de Paris. Bibliothèque de la faculté des Lettres, 7), n</ref>° 31
@@ -2735,7 +2735,7 @@
     </titre>
     <tradition>
       <temoin type="copie">Pater fol. 125</temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I 582
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I, p. 582
 <source>d’après Pater fol. 125</source></temoin>
       <temoin type="copie">A fol. 76</temoin>
       <temoin type="indique"><ref sigle="Petit, Essai, n">Joseph Petit, Michel Gavrilovitch, Maury et D.-A. Teodoru, <i>Essai de restitution des plus anciens mémoriaux de la Chambre des comptes</i>, Paris, 1899 (Université de Paris. Bibliothèque de la faculté des Lettres, 7), n</ref>° 35
@@ -2763,7 +2763,7 @@
     </titre>
     <tradition>
       <temoin type="copie">Pater fol. 237</temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I 606
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I, p. 606
 <source>d’après Pater fol. 237, avec renvoi erroné au mémorial A</source></temoin>
       <temoin type="copie"><fonds>Bibliothèque Sainte-Geneviève</fonds>, 786 fol. 159v</temoin>
       <temoin type="indique"><ref sigle="Petit, Essai, n">Joseph Petit, Michel Gavrilovitch, Maury et D.-A. Teodoru, <i>Essai de restitution des plus anciens mémoriaux de la Chambre des comptes</i>, Paris, 1899 (Université de Paris. Bibliothèque de la faculté des Lettres, 7), n</ref>° 109
@@ -2778,7 +2778,7 @@
     </titre>
     <tradition>
       <temoin type="copie">Pater fol. 243</temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I 598
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I, p. 598
 <source>d’après Pater fol. 243</source></temoin>
       <temoin type="indique"><ref sigle="Petit, Essai, n">Joseph Petit, Michel Gavrilovitch, Maury et D.-A. Teodoru, <i>Essai de restitution des plus anciens mémoriaux de la Chambre des comptes</i>, Paris, 1899 (Université de Paris. Bibliothèque de la faculté des Lettres, 7), n</ref>° 110
 <source>d’après Pater fol. 243</source></temoin>
@@ -3051,9 +3051,9 @@
       <temoin type="copie">Mansi, Sacrorum conciliorum…, 25, col. 551
 <source>d’après Dubois, Historia ecclesie Parisiensis II p. 565</source></temoin>
       <temoin type="indique"><ref sigle="Artonne, p.">André Artonne, <i>Le mouvement de 1314 et les chartes provinciales de 1315</i>, Paris, 1912 (Université de Paris. Bibliothèque de la faculté des Lettres, 29), p. </ref> 84, n. 1
-<source>d’après AD Somme G566</source></temoin>
+<source>d’après AD Somme, G 566</source></temoin>
       <temoin type="indique"><ref sigle="Brown, Royal Salvation">Elizabeth A. R. Brown, « Royal salvation and needs of State in early Fourteenth-century France », dans ead., <i>The Monarchy of Capetian France and Royal Ceremonial</i>, Aldershot, 1991, art. IV, p. 1-56, à la</ref> p. 36 n. 97
-<source>d’après AD Somme G566 et Dubois, Historia ecclesie Parisiensis II p. 565</source></temoin>
+<source>d’après AD Somme, G 566 et Dubois, Historia ecclesie Parisiensis II p. 565</source></temoin>
       <temoin type="indique"><ref sigle="Artonne, p.">André Artonne, <i>Le mouvement de 1314 et les chartes provinciales de 1315</i>, Paris, 1912 (Université de Paris. Bibliothèque de la faculté des Lettres, 29), p. </ref> 84, n. 1
 <source>d’après Mansi, Sacrorum conciliorum…, 25, col. 551</source></temoin>
     </tradition>
@@ -3073,7 +3073,7 @@
       <temoin type="copie">registre de l’archevêché de Paris</temoin>
       <temoin type="copie">Coutumes du Beauvaisis, p. 362
 <source>d’après registre de l’archevêché de Paris</source></temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XII 411
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XII, p. 411
 <source>d’après Coutumes du Beauvaisis, p. 362</source></temoin>
       <temoin type="indique"><ref sigle="Artonne, p.">André Artonne, <i>Le mouvement de 1314 et les chartes provinciales de 1315</i>, Paris, 1912 (Université de Paris. Bibliothèque de la faculté des Lettres, 29), p. </ref> 85, n. 2
 <source>d’après AD Somme, G 399, n° 2 et AD Lozère, G 19, n° 1</source></temoin>
@@ -3089,7 +3089,7 @@
     <datation>(Martin-Chabot et Ord. texte) / 1315/12/15 (Ord. titre par erreur et Artonne)</datation>
     <tradition>
       <temoin type="copie"><fonds>BNF, lat.</fonds> 11016, fol. 52</temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I 610
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I, p. 610
 <source>d’après BNF, lat. 11016, fol. 52</source></temoin>
       <temoin type="indique"><ref sigle="Artonne, p.">André Artonne, <i>Le mouvement de 1314 et les chartes provinciales de 1315</i>, Paris, 1912 (Université de Paris. Bibliothèque de la faculté des Lettres, 29), p. </ref> 88, n. 3
 <source>d’après Ord. I, p. 610</source></temoin>
@@ -3122,16 +3122,16 @@
 <source>d’après BNF, lat. 3359, fol. 158</source></temoin>
       <temoin type="copie">HL, X, n° 189
 <source>d’après BNF, lat. 5138, fol. 74-78 et Ord. I, p. 617</source></temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XII 411
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XII, p. 411
 <source>d’après HL, 1<sup>re</sup> édition</source></temoin>
       <temoin type="copie">trésor du roi à Toulouse, registre la Saume</temoin>
       <temoin type="copie">Caseneuve, Franc-alleu, I, chap. 13, n° 7, p. 122
 <source>d’après trésor du roi à Toulouse, registre la Saume</source></temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I 617
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I, p. 617
 <source>Caseneuve, Franc-alleu, I, chap. 13, n° 7, p. 122</source></temoin>
       <temoin type="copie">Brussel, II, p. LXXIV</temoin>
       <temoin type="indique"><ref sigle="Artonne, p.">André Artonne, <i>Le mouvement de 1314 et les chartes provinciales de 1315</i>, Paris, 1912 (Université de Paris. Bibliothèque de la faculté des Lettres, 29), p. </ref> 155
-<source>d’après lat. 3359 fol. 158 ; lat. 5138 fol. 74-78 ; Brussel, II, p. LXXIV ; HL, X, n° 189 ; Ord. I 617 ; et Ord. XII 411</source></temoin>
+<source>d’après lat. 3359 fol. 158 ; lat. 5138 fol. 74-78 ; Brussel, II, p. LXXIV ; HL, X, n° 189 ; Ord. I, p. 617 ; et Ord. XII, p. 411</source></temoin>
     </tradition>
     <remarques>Ord. I et Brussel partiels d’après Artonne</remarques>
   </acte>
@@ -3365,7 +3365,7 @@
       <temoin type="copie"><fonds>BNF, lat.</fonds> 9993, fol. 66v</temoin>
       <temoin type="copie">HL, X, n° 185
 <source>d’après BNF, lat. 9993, fol. 66v</source></temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XII 416 d’après l’ancienne édition
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XII, p. 416 d’après l’ancienne édition
 <source>d’après HL, 1<sup>re</sup> édition</source></temoin>
     </tradition>
     <scellage>Sceau ante susceptum (Ord. et HL)</scellage>
@@ -3420,9 +3420,10 @@
       <lieu>Vincennes</lieu>
     </titre>
     <tradition>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I 560 note</temoin>
-      <temoin type="copie"><fonds>BNF, Dupuy 758</fonds> fol. 34</temoin>
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I, p. 560 note</temoin>
+      <temoin type="copie"><fonds>BNF, Dupuy 758,</fonds> fol. 34</temoin>
     </tradition>
+    <remarques>mandement d'après Ord., I, p. 560</remarques>
   </acte>
   <acte xml:id="L10-722">
     <titre>
@@ -3491,7 +3492,7 @@
     </titre>
     <tradition>
       <temoin type="vidimus"><fonds>AC Ypres</fonds>
-<source>copie d'un vidimus donné sous le sceau de Jean Loncle, garde de la prévôté de Paris, le mercredi après la Trinité [25-05-]1323</source></temoin>
+<source>copie d'un vidimus donné sous le sceau de Jean Loncle, garde de la prévôté de Paris, daté du mercredi après la Trinité [25-05-]1323</source></temoin>
       <temoin type="indique"><ref sigle="Diegerick">Isidore-Lucien-Antoine Diegerick, <i>Inventaire analytique et chronologique des chartes et documents appartenant aux archives de la ville d’Ypres</i>, t.1, Bruges, 1853, p.252-254</ref>, n° 323
 <source>d’après AC Ypres</source></temoin>
     </tradition>
@@ -3907,7 +3908,7 @@
     <localisation>(s.l. pour Artières)</localisation>
     <tradition>
       <temoin type="copie">Pater fol. 109</temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I 595
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I, p. 595
 <source>d’après Pater fol. 109 et fol. 118v</source></temoin>
       <temoin type="copie"><fonds>Bibliothèque Sainte-Geneviève</fonds>, 786, fol. 142v
 <source>d’après Pater fol. 109</source></temoin>
@@ -4051,7 +4052,7 @@
       <temoin type="original"><fonds>AD Puy-de-Dôme, 1 G</fonds> 12, n° 11</temoin>
       <temoin type="vidimus"><fonds>AN, JJ</fonds> 62, fol. 21v-22, n° 42
 <source>vidimus de Charles IV, daté de février 1324 ; enregistrement en chancellerie</source></temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I 779</temoin>
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I, p. 779</temoin>
       <temoin type="indique"><ref sigle="C4 RTC">Jean Guerout, Henri Jassemin et Aline Vallée,<i> Registres du Trésor des chartes. Inventaire analytique</i>, t. II :
 <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règne de Charles IV le Bel</i>, Paris, 1999 (Archives nationales : inventaires et documents)</ref>, n° 4139
           <source>d'après AN, JJ 62, n° 42</source></temoin>
@@ -4074,10 +4075,10 @@
 <source>vidimus de Charles IV, daté de février 1324 ; enregistrement en chancellerie</source></temoin>
       <temoin type="indique"><ref sigle="C4 RTC">Jean Guerout, Henri Jassemin et Aline Vallée,<i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règne de Charles IV le Bel</i>, Paris, 1999 (Archives nationales : inventaires et documents)</ref>, n° 4141
         <source>d'après AN, JJ 62, n° 44</source></temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I, p. 613b
-<source>d’après C4 RTC 4141</source></temoin>
+      <!--<temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I, p. 613b
+<source>d’après C4 RTC 4141</source></temoin> Problème : il y a deux "p. 613" dans le t.1 des ORF et dans ces deux pages, les actes de Louis X ne sont pas datés de septembre-->
       <temoin type="indique"><ref sigle="Artonne, p.">André Artonne, <i>Le mouvement de 1314 et les chartes provinciales de 1315</i>, Paris, 1912 (Université de Paris. Bibliothèque de la faculté des Lettres, 29), p. </ref> 162
-<source>d’après AD Puy-de-Dôme 1 G 4 n° 5 ; C4 RTC 4141 ; et Ord. I 613b</source></temoin>
+<source>d’après AD Puy-de-Dôme 1 G 4 n° 5 ; C4 RTC 4141 ; et Ord. I, p. 613b</source></temoin>
     </tradition>
     <mentions>rien (AD Puy-de-Dôme)</mentions>
     <scellage>charte (AD Puy-de-Dôme)</scellage>
@@ -4092,7 +4093,7 @@
       <temoin type="vidimus"><fonds>AN, JJ</fonds> 62, fol. 23, n° 45
 <source>vidimus de Charles IV, daté de février 1324 ; enregistrement en chancellerie</source></temoin>
       <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I, p. 779
-<source>d’après C4 RTC 4142</source></temoin>
+        <source>d’après AN, JJ 62, n° 45</source></temoin>
       <temoin type="indique"><ref sigle="C4 RTC">Jean Guerout, Henri Jassemin et Aline Vallée,<i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II :
 <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règne de Charles IV le Bel</i>, Paris, 1999 (Archives nationales : inventaires et documents)</ref>, n° 4142
         <source>d'après AN, JJ 62, n° 45</source></temoin>
@@ -4111,18 +4112,18 @@
         <source>vidimus de Charles IV, daté de ??</source></temoin>
       <temoin type="vidimus"><fonds>AN, JJ</fonds> 62, fol. 83-83v, n° 146
         <source>vidimus de Charles IV, daté de juillet 1324 ; enregistrement en chancellerie</source></temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I 620
-        <source>d’après C4 RTC 4243 et X1A 8602 fol. 130v</source></temoin>
-      <temoin type="indique"><ref sigle="C4 RTC3">Jean Guerout, Henri Jassemin et Aline Vallée,<i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règne de Charles IV le Bel</i>, Paris, 1999 (Archives nationales : inventaires et documents)</ref> n°4243
-       <source>d'après AN, JJ62, n°146</source></temoin>
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I, p. 620
+        <source>d’après AN, JJ 62, n° 146 et AN, X1A 8602, fol. 130v</source></temoin>
+      <temoin type="indique"><ref sigle="C4 RTC">Jean Guerout, Henri Jassemin et Aline Vallée,<i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règne de Charles IV le Bel</i>, Paris, 1999 (Archives nationales : inventaires et documents)</ref> n°4243
+       <source>d'après AN, JJ 62, n° 146</source></temoin>
       <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I, p. 782
-<source>d’après C4 RTC 4243</source></temoin>
-      <temoin type="copie">X1A 8602 fol. 130v
+        <source>d’après AN, JJ 62, n° 146</source></temoin>
+      <temoin type="copie"><fonds>AN, X1A</fonds> 8602, fol. 130v
 <source>vidimus de Charles IV, enregistrement au Parlement</source></temoin>
       <temoin type="vidimus"><fonds>AN, J</fonds> 241B, n° 32bis
 <source>vidimus du vidimus AN, J 241B, n° 32</source></temoin>
       <temoin type="indique"><ref sigle="Artonne, p.">André Artonne, <i>Le mouvement de 1314 et les chartes provinciales de 1315</i>, Paris, 1912 (Université de Paris. Bibliothèque de la faculté des Lettres, 29)</ref>, p.  155
-<source>d’après Morice, t. I, col. 1260 ; C4 RTC 4243 ; J 241B 32 ; J 241B 32bis ; et Ord. I 620</source></temoin>
+        <source>d’après Morice, t. I, col. 1260 ; AN, JJ 62, n° 146 ; AN, J 241B, n° 32 ; AN, J 241B, n° 32bis ; et Ord. I, p. 620</source></temoin>
       <temoin type="indique"><ref sigle="de Curzon">Théodore de Curzon, Inventaire analytique par ordre chronologique du Trésor des chartes, 1890-1891, fiches mss. (conservé aux Archives nationales, département de l’Ancien Régime)</ref>
 <source>d’après AN, J 241B, n° 32</source></temoin>
       <temoin type="indique"><ref sigle="Stein">Henri Stein, <i>Inventaire analytique des ordonnances enregistrées au parlement de Paris jusqu’à la mort de Louis XII</i>, Paris, 1908</ref>, n° 135
@@ -4158,10 +4159,11 @@
     </titre>
     <tradition>
       <temoin type="vidimus"><fonds>AN, JJ</fonds> 98, n° 37 et n° 38
-<source>vidimus de Charles V ; enregistrement en chancellerie</source></temoin>
+<source>vidimus de Charles V, daté de janvier 1365 ; enregistrement en chancellerie</source></temoin>
       <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> IV, p. 519
 <source>d’après AN, JJ 98, n° 37 et n° 38</source></temoin>
     </tradition>
+    <remarques>la date du vidimus de Charles IV a été indiquée en n.st. contrairement à l'édition des ORF</remarques>
   </acte>
   <acte xml:id="L10-797">
     <titre>
@@ -4247,8 +4249,8 @@
     </titre>
     <datation>(1315/12/20 pour Ord. par erreur, 1315/12/18 pour Thierry d’après la table des Ord.)</datation>
     <tradition>
-      <temoin type="vidimus"><fonds>AN, JJ</fonds> 80, n° 661
-<source>vidimus de Jean II ; enregistrement en chancellerie</source></temoin>
+</TODO><temoin type="vidimus"><fonds>AN, JJ</fonds> 80, n° 661
+<source>vidimus de Jean II, daté de novembre 1350 ; enregistrement en chancellerie</source></temoin>
       <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> IV, p. 8
 <source>d’après AN, JJ 80, n° 661</source></temoin>
       <temoin type="indique"><ref sigle="Thierry IV">Augustin Thierry, <i>Recueil des monuments inédits de l’histoire du Tiers-État</i>, 1<sup>re</sup> série : <i>Chartes, coutumes, actes municipaux, statuts des corporations d’arts et métiers des villes et communes de France. Région du Nord</i>, t. IV : <i>Contenant les pièces relatives à l’histoire municipale d’Abbeville et à celles des villes, bourgs et villages de la Basse Picardie</i>, Paris, 1870 (Collection des documents inédits sur l’histoire de France. 1<sup>re</sup> série : histoire politique),</ref> p. 761
@@ -4339,7 +4341,7 @@
       <temoin type="original"><fonds>AD Somme, G</fonds> 399, n° 4</temoin>
       <temoin type="original"><fonds>AD Lozère, G</fonds> 19, n° 3</temoin>
       <temoin type="copie"><fonds>BM Orléans, 258</fonds> t. I, fol. 29v</temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XI 440.2
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XI, p. 440.2
 <source>d’après BM Orléans 258, t. I, fol. 29v</source></temoin>
       <temoin type="vidimus"><fonds>AN, K</fonds> 39, n° 8
 <source>vidimus</source></temoin>
@@ -4506,11 +4508,11 @@
       <temoin type="copie"><fonds>BNF, Moreau 226</fonds>, fol. 25
 <source>vidimus de Philippe VI, copie</source></temoin>
       <temoin type="vidimus"><fonds>AN, JJ</fonds> 80, n° 332
-<todo/><source>vidimus de Jean II du vidimus de Philippe VI ; enregistrement en chancellerie</source></temoin>
+<todo/><source>vidimus de Jean II, daté d'avril 1351a.s. du vidimus de Philippe VI, daté de novembre 1328 ; enregistrement en chancellerie</source></temoin>
       <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> II, p. 420
 <source>d’après AN, JJ 80, n° 332</source></temoin>
       <temoin type="vidimus"><fonds>AN, JJ</fonds> 89, n° 501
-<todo/><source>vidimus de Jean II, daté d'avril 1351, du vidimus de Philippe VI, daté de ??, du vidimus de Charles IV, daté de mai 1323 ; enregistrement en chancellerie</source></temoin>
+<todo/><source>vidimus de Jean II, daté de février 1361, du vidimus de Philippe VI, daté de novembre 1328 ; enregistrement en chancellerie</source></temoin>
       <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> III, p. 460
 <source>d’après AN, JJ 89, n° 501</source></temoin>
       <todo/>
@@ -4562,7 +4564,7 @@
       <temoin type="indique"><ref sigle="P6 RTC">Aline Vallée et Jules Viard, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. III : <i>Règne de Philippe de Valois</i>, 3 vol., Paris, 1978-1984 (Archives nationales : inventaires et documents)</ref>, n° 342
 <source>d'après AN, JJ 65B, n° 52</source></temoin>
       <temoin type="vidimus"><fonds>AN, JJ</fonds> 80, n° 330
-        <source>vidimus de Jean II, daté d'avril 1351, du vidimus de Philippe VI, daté de novembre 1328 ; enregistrement en chancellerie</source></temoin>
+</todo><source>vidimus de Jean II, daté d'avril 1351, du vidimus de Philippe VI, daté de novembre 1328 ; enregistrement en chancellerie</source></temoin>
       <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> IV, p. 70
 <source>d’après AN, JJ 80, n° 330</source></temoin>
       <temoin type="copie"><fonds>BNF, Moreau 234</fonds> fol. 91
@@ -4672,9 +4674,9 @@
       <temoin type="indique"><ref sigle="P5 RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1369
   <source>d'après AN, JJ 54B, n° 4</source></temoin>
       <temoin type="copie"><fonds>Bibliothèque Sainte-Geneviève</fonds>, 786, fol. 168v
-<source>d’après P5 RTC 1369</source></temoin>
+<source>d’après AN, JJ 54B, fol. 1v-2v, n° 4</source></temoin>
       <temoin type="copie">Wolfenbüttel 3.1.93. Aug. Fol., fol. 232
-<source>d’après P5 RTC 1369</source></temoin>
+<source>d’après AN, JJ 54B, fol. 1v-2v, n° 4</source></temoin>
       <temoin type="copie"><ref sigle="Leibnitz n°">Gottfried Wilhem von Leibniz, <i>Codex juris gentium diplomaticus <i>[…]</i> ex manuscriptis præsertim Bibliothecæ augustæ guelfebytanæ codicibus et monumentis regiorum aliorumque archivorum ac propriis denique collectaneis</i>, Hanovre, 1693</ref>, n° 43
 <source>d’après Wolfenbüttel 3.1.93. Aug. Fol., fol. 232</source></temoin>
       <temoin type="copie"><ref sigle="Bernard">Jacques Bernard, <i>Recueil des traitez de paix, de trêve, de neutralité, de suspensions d’armes, de confédération</i> […], 4 t., Amsterdam/La Haye, 1700</ref>, t. I, n° 217
@@ -4734,7 +4736,7 @@
       <temoin type="indique"><ref sigle="P6 RTC">Aline Vallée et Jules Viard, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. III : <i>Règne de Philippe de Valois</i>, 3 vol., Paris, 1978-1984 (Archives nationales : inventaires et documents)</ref>, n° 212
 <source>d'après AN JJ 65A, n° 210</source></temoin>
     </tradition>
-    <remarques>d'après P6 RTC n° 212, le dernier vidimus de P5 est de 1318</remarques>
+    <remarques>d'après AN, JJ 65A, fol. 139, n° 210, le dernier vidimus de P5 est de 1318</remarques>
   </acte>
   <acte xml:id="L10-774">
     <titre>
@@ -4759,7 +4761,7 @@
       <temoin type="indique"><ref sigle="P6 RTC">Aline Vallée et Jules Viard, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. III : <i>Règne de Philippe de Valois</i>, 3 vol., Paris, 1978-1984 (Archives nationales : inventaires et documents)</ref>, n° 212
 <source>d'après AN, JJ 65A, n° 210</source></temoin>
     </tradition>
-    <remarques>d'après P6 RTC n° 212, le dernier vidimus de P5 est de 1318</remarques>
+    <remarques>d'après AN, JJ 65A, fol. 139, n° 210, le dernier vidimus de P5 est de 1318</remarques>
   </acte>
   <acte xml:id="L10-798">
     <titre>
@@ -4776,7 +4778,7 @@
       <temoin type="indique"><ref sigle="P5 RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 376 
 <source>d'après AN, JJ 53, n° 89</source></temoin>
       <temoin type="copie"><fonds>AN, J</fonds> 423, n° 36
-<source>vidimus de Philippe V du vidimus de Philippe V P5 RTC 376</source></temoin>
+<source>vidimus de Philippe V du vidimus de Philippe V, daté de mars 1317</source></temoin>
     </tradition>
   </acte>
   <acte xml:id="L10-789">
@@ -4841,7 +4843,7 @@
       <temoin type="copie">mss Bertin 17 fol. 12
 <source>vidimus de Philippe V (P5 RTC 1851a), copie</source></temoin>
       <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XII, p. 425
-<source>d’après P5 RTC 1851a ; mss Colbert 10 p. 241 ; et mss Bertin 17 fol. 12</source></temoin>
+        <source>d’après AN, JJ 56, fol. 100-102v, n° 227 ; mss Colbert 10 p. 241 ; et mss Bertin 17 fol. 12</source></temoin>
     </tradition>
     <expeditions>AHS et P5 1762 et 1851 pour la Saintonge, P5 1427 pour Toulouse</expeditions>
     <remarques>mandement d'après notice RTC 1427 ; mandement de commission d'enquêteurs qui agissent dans de nombreux domaines</remarques>
@@ -4911,7 +4913,7 @@
       <temoin type="indique"><ref sigle="P5 RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 1665
 <source>d'après AN, JJ 56, n° 44</source></temoin>
       <temoin type="copie">Livre rouge de la Chambre des comptes 1062
-<source>d’après P5 RTC 1665</source></temoin>
+<source>d’après AN, JJ 56, fol. 13v, n° 44</source></temoin>
     </tradition>
     <remarques>acte en français</remarques>
   </acte>
@@ -4937,8 +4939,8 @@
 <source>vidimus de Philippe V (P5 RTC 1851b), copie</source></temoin>
       <temoin type="copie">mss Bertin 17 fol. 12
 <source>vidimus de Philippe V (P5 RTC 1851b), copie</source></temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XII 425
-<source>d’après P5 RTC 1851b ; mss Colbert 10 p. 241 ; et mss Bertin 17 fol. 12</source></temoin>
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XII, p. 425
+        <source>d’après AN, JJ 56, fol. 100-102v, n° 227 ; mss Colbert 10 p. 241 ; et mss Bertin 17 fol. 12</source></temoin>
     </tradition>
     <remarques>mandement d'après notice 1851b</remarques>
   </acte>
@@ -5158,7 +5160,7 @@
     </titre>
     <tradition>
       <temoin type="copie">A fol. 77v</temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I 583
+</todo><temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I, p. 583
 <source>d’après A fol. 77v ; JJ 35, ??, n° 48 (indiqué) ; JJ 46 (indiqué)</source></temoin>
       <temoin type="copie"><fonds>AN, JJ</fonds> 35, fol. ??, n° 48</temoin>
       <temoin type="copie"><fonds>AN, JJ</fonds> 46, fol. ??</temoin>
@@ -5331,7 +5333,7 @@
       <temoin type="indique"><ref sigle="C4 RTC">Jean Guerout, Henri Jassemin et Aline Vallée,<i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règne de Charles IV le Bel</i>, Paris, 1999 (Archives nationales : inventaires et documents)</ref>, n° 5106
         <source>d'après AN, JJ 64, n° 469</source></temoin>
       <temoin type="copie"><fonds>AN, J</fonds> 425, n° 41bis
-        <source>vidimus de Charles IV (C4 RTC 5106), copie</source></temoin>
+        <source>vidimus de Charles IV, daté de juin 1327, copie</source></temoin>
       <temoin type="vidimus"><fonds>AN, JJ</fonds> 65A, fol. 164, n° 255
 <source>vidimus de Philippe VI, daté de juillet 1328, du vidimus de Charles IV, daté de juin 1327 ; enregistrement en chancellerie</source></temoin>
       <temoin type="indique"><ref sigle="P6 RTC">Aline Vallée et Jules Viard, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. III : <i>Règne de Philippe de Valois</i>, 3 vol., Paris, 1978-1984 (Archives nationales : inventaires et documents)</ref>, n° 259
@@ -5409,11 +5411,11 @@
       <temoin type="copie"><fonds>AD Somme, G</fonds> 399, perdu</temoin>
       <temoin type="copie"><fonds>AN, JJ</fonds> 198, n° 462</temoin>
       <temoin type="copie">Menestrier, Histoire de la ville de Lyon, 1696, preuves, 1re partie, p. 54, col. 2</temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XI 437
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XI, p. 437
         <source>d’après Menestrier, Histoire de la ville de Lyon, 1696, preuves, 1re partie, p. 54, col. 2</source></temoin>
       <temoin type="copie"><fonds>BNF, NAF</fonds> 7597, fol. 220</temoin>
       <temoin type="copie"><fonds>BNF, lat.</fonds> 11016, fol. 129 et 136</temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I 613a
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I, p. 613a
         <source>d’après BNF, lat. 11016, fol. 129 et 136</source></temoin>
       <temoin type="copie"><fonds>AN, L</fonds> 409, 26.2</temoin>
       <temoin type="copie"><ref sigle="Port, p.">Célestin Port, « Livre de Guillaume le Maire », dans <i>Mélanges historiques. Choix de documents</i>, t. II, Paris, 1877 (Collection de documents inédits sur l’histoire de France), p. </ref> 505</temoin>
@@ -5422,7 +5424,7 @@
       <temoin type="indique"><ref sigle="P5 RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 412a
         <source>d'après AN, JJ 53, n° 124</source></temoin>
       <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I, p. 638
-        <source>d’après P5 RTC 412a</source></temoin>
+        <source>d’après AN, JJ 53, fol. 57-58, n° 124a</source></temoin>
       <temoin type="copie"><fonds>Bibliothèque Sainte-Geneviève</fonds>, 786, fol. 178
         <source>d’après P5 RTC 412a</source></temoin>
       <temoin type="vidimus"><fonds>AD Puy-de-Dôme, 1 G</fonds> 4, n° 13
@@ -5452,8 +5454,8 @@
         <source>vidimus de Philippe V, daté de mars 1317 ; enregistrement en chancellerie</source></temoin>
       <temoin type="indique"><ref sigle="P5 RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 412b
         <source>d'après AN, JJ 53, n° 124</source></temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I 638
-        <source>d’après P5 RTC 412b</source></temoin>
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> I, p. 638
+        <source>d’après AN, JJ 53, fol. 57-58, n° 124</source></temoin>
       <temoin type="copie"><fonds>bibliothèque Sainte-Geneviève</fonds>, 786 fol. 186
         <source>d’après P5 RTC 412b</source></temoin>
       <temoin type="indique"><ref sigle="Artonne, p.">André Artonne, <i>Le mouvement de 1314 et les chartes provinciales de 1315</i>, Paris, 1912 (Université de Paris. Bibliothèque de la faculté des Lettres, 29), p. </ref> 84, n 4
@@ -5790,7 +5792,7 @@
       <temoin type="vidimus"><fonds>AN, K</fonds> 948, n° 37
         <source>vidimus de Jean II du vidimus de Philippe VI, original</source></temoin>
       <temoin type="copie"><fonds>AN, JJ</fonds> 80, n° 701
-        <source>vidimus de Jean II ; enregistrement en chancellerie</source></temoin>
+</todo><source>vidimus de Jean II ; enregistrement en chancellerie</source></temoin>
       <temoin type="copie">registre A de l’Hôtel de ville de Paris fol. 4, perdu
         <source>vidimus de Jean II, copie</source></temoin>
       <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> II, p. 438
@@ -5802,9 +5804,9 @@
       <temoin type="vidimus">perdu
         <source>vidimus de Charles VII du vidimus de Philippe VI</source></temoin>
       <temoin type="vidimus"><fonds>AN, JJ</fonds> 198, n° 366
-        <source>vidimus de Louis XI du vidimus de Charles VII ; enregistrement en chancellerie</source></temoin>
+        <source>vidimus de Louis XI, daté de septembre 1461, du vidimus de Charles VI, daté de septembre 1403 ; enregistrement en chancellerie</source></temoin>
       <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XV, p. 48
-        <source>d’après JJ 198 366</source></temoin>
+        <source>d’après AN, JJ 198, n° 366</source></temoin>
       <temoin type="indique"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XV, p. 52 1°
         <source>d’après registre A dit Livre rouge de l’Hôtel de ville fol. 1</source></temoin>
       <temoin type="indique"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> IV, p. 267 note a
