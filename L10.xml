@@ -1514,9 +1514,10 @@
   </acte>
   <acte xml:id="L10-763">
     <titre>
-      <!--<date>1316-03</date> Mai pour Ord.-->
+      <date>1316-03</date>
       <lieu>Sens</lieu>
     </titre>
+    <datation>Les Ord. donnent mai pour la date</datation>
     <tradition>
       <temoin type="copie"><fonds>BNF, fr.</fonds> 5256 [Ancien coutumier de Champagne ], fol. 10</temoin>
       <temoin type="copie"><fonds>BNF, Dupuy 758</fonds> fol. 28v et 34v
@@ -4254,13 +4255,19 @@
     </titre>
     <datation>(1315/12/20 pour Ord. par erreur, 1315/12/18 pour Thierry d’après la table des Ord.)</datation>
     <tradition>
-<temoin type="vidimus"><fonds>AN, JJ</fonds> 80, n° 661
+<temoin type="vidimus"><fonds>AN, JJ</fonds> 80, fol. 407v, n° 661
 <source>vidimus de Jean II, daté de novembre 1350 ; enregistrement en chancellerie</source></temoin>
       <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> IV, p. 8
 <source>d’après AN, JJ 80, n° 661</source></temoin>
       <temoin type="indique"><ref sigle="Thierry IV">Augustin Thierry, <i>Recueil des monuments inédits de l’histoire du Tiers-État</i>, 1<sup>re</sup> série : <i>Chartes, coutumes, actes municipaux, statuts des corporations d’arts et métiers des villes et communes de France. Région du Nord</i>, t. IV : <i>Contenant les pièces relatives à l’histoire municipale d’Abbeville et à celles des villes, bourgs et villages de la Basse Picardie</i>, Paris, 1870 (Collection des documents inédits sur l’histoire de France. 1<sup>re</sup> série : histoire politique),</ref> p. 761
 <source>d’après Ord., t. IV, p. 8</source></temoin>
     </tradition>
+   <mentions>per dominum regem in suis requestio, presente domino Ja. Rouss., Jussy, et rescripta sub nova data propter mutacionem regis de precepto vestro. Chapelle</mentions>
+	<langue>latin</langue>
+    <remarques>mentions hors teneur tirées de la mention hors teneur du vidimus de Jean II ; mandement</remarques>
+    <personnel>
+      <role type="notaire">Chapelle</role>
+    </personnel>
   </acte>
   <acte xml:id="L10-574">
     <titre>
@@ -4280,7 +4287,7 @@
     </titre>
     <tradition>
       <temoin type="vidimus"><fonds>AN, JJ</fonds> 81, fol. 311r, n° 605
-        <source>vidimus de Jean II, daté de mars 1353, d'un vidimus de Louis X, daté d'octobre 1315, d'un vidimus de Philippe le Convers, clerc du roi ; enregistrement en chancellerie</source></temoin>
+        <source>vidimus de Jean II, daté de mars 1353, du vidimus de Louis X, daté d'octobre 1315, du vidimus de Philippe le Convers, clerc du roi ; enregistrement en chancellerie</source></temoin>
     </tradition>
   </acte>
   <acte xml:id="L10-606">
@@ -4483,10 +4490,10 @@
       <temoin type="vidimus"><fonds>AN, S</fonds> 4902, dossier 10, n° 2
 <source>vidimus de Philippe VI du vidimus de Philippe VI, original</source></temoin>
       <temoin type="vidimus"><fonds>AN, JJ</fonds> 66, fol. 342v, n° 840
-<source>vidimus de Philippe VI, daté de janvier 1330, du vidimus de Philippe VI, daté du 12 janvier 1329, du vidimus de Charles IV, daté du 2 juin 1322 ; enregistrement en chancellerie</source></temoin>
+<source>vidimus de Philippe VI, daté de janvier 1330, du vidimus de Philippe VI, daté du 12 janvier 1329, du vidimus de Charles IV, daté du 2 juin 1322, du vidimus de Philippe V, daté du 28 juillet 1317 ; enregistrement en chancellerie</source></temoin>
       <temoin type="indique"><ref sigle="P6 RTC">Aline Vallée et Jules Viard, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. III : <i>Règne de Philippe de Valois</i>, 3 vol., Paris, 1978-1984 (Archives nationales : inventaires et documents)</ref>, n° 1479
-      <source>d'après AN, JJ ??, n° ??</source></temoin>
-    </tradition>
+      <source>d'après AN, JJ 66, n° 840</source></temoin>
+	 </tradition>
     <remarques>la date de P6 1479 doit être corrigée en 1330/11 d’après S et JJ</remarques>
   </acte>
   <acte xml:id="L10-577">
@@ -4512,11 +4519,11 @@
 <source>d'après AN, JJ 65B, n°160</source></temoin>
       <temoin type="copie"><fonds>BNF, Moreau 226</fonds>, fol. 25
 <source>vidimus de Philippe VI, copie</source></temoin>
-      <temoin type="vidimus"><fonds>AN, JJ</fonds> 80, n° 332
+      <temoin type="vidimus"><fonds>AN, JJ</fonds> 80, fol. 249v, n° 332
 <source>vidimus de Jean II, daté d'avril 1351 a.s., du vidimus de Philippe VI, daté de novembre 1328 ; enregistrement en chancellerie</source></temoin>
       <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> II, p. 420
 <source>d’après AN, JJ 80, n° 332</source></temoin>
-      <temoin type="vidimus"><fonds>AN, JJ</fonds> 89, n° 501
+      <temoin type="vidimus"><fonds>AN, JJ</fonds> 89, fol. 227v, n° 501
 <source>vidimus de Jean II, daté de février 1361, du vidimus de Philippe VI, daté de novembre 1328 ; enregistrement en chancellerie</source></temoin>
       <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> III, p. 460
 <source>d’après AN, JJ 89, n° 501</source></temoin>
@@ -4536,7 +4543,7 @@
       <temoin type="indique">Espinas n° 269
 <source>d’après C4 RTC 3922 et BNF, Moreau 224, fol. 119</source></temoin>
       <temoin type="indique">Espinas n° 271
-<source>d’après P6 RTC 449 et BNf, Moreau 226, fol. 25</source></temoin>
+<source>d’après P6 RTC 449 et BNF, Moreau 226, fol. 25</source></temoin>
       <temoin type="indique">Espinas n° 273
 <source>d’après AN, JJ 80, n° 332 et Ord. II, p. 420</source></temoin>
       <temoin type="indique">Espinas n° 275
@@ -4567,7 +4574,7 @@
 <source>vidimus de Philippe VI, daté de novembre 1328, du vidimus de Charles IV, daté de mai 1323 ; enregistrement en chancellerie</source></temoin>
       <temoin type="indique"><ref sigle="P6 RTC">Aline Vallée et Jules Viard, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. III : <i>Règne de Philippe de Valois</i>, 3 vol., Paris, 1978-1984 (Archives nationales : inventaires et documents)</ref>, n° 342
 <source>d'après AN, JJ 65B, n° 52</source></temoin>
-      <temoin type="vidimus"><fonds>AN, JJ</fonds> 80, n° 330
+      <temoin type="vidimus"><fonds>AN, JJ</fonds> 80, fol. 248v, n° 330
 <source>vidimus de Jean II, daté d'avril 1351, du vidimus de Philippe VI, daté de novembre 1328 ; enregistrement en chancellerie</source></temoin>
       <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> IV, p. 70
 <source>d’après AN, JJ 80, n° 330</source></temoin>
@@ -5795,8 +5802,8 @@
         <source>vidimus de Philippe VI, copie</source></temoin>
       <temoin type="vidimus"><fonds>AN, K</fonds> 948, n° 37
         <source>vidimus de Jean II du vidimus de Philippe VI, original</source></temoin>
-      <temoin type="copie"><fonds>AN, JJ</fonds> 80, n° 701
-<source>vidimus de Jean II ; enregistrement en chancellerie</source></temoin>
+      <temoin type="copie"><fonds>AN, JJ</fonds> 80, fol. 423, n° 701
+<source>vidimus de Jean II, daté de juin 1351, du vidimus de Philippe VI, daté de mars 1346 ; enregistrement en chancellerie</source></temoin>
       <temoin type="copie">registre A de l’Hôtel de ville de Paris fol. 4, perdu
         <source>vidimus de Jean II, copie</source></temoin>
       <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> II, p. 438
@@ -5843,7 +5850,7 @@
       <temoin type="vidimus">perdu
         <source>vidimus de Charles VII du vidimus de Philippe VI</source></temoin>
       <temoin type="vidimus"><fonds>AN, JJ</fonds> 198, n° 366
-        <source>vidimus de Louis XI du vidimus de Charles VII</source></temoin>
+        <source>vidimus de Louis XI, daté de septembre 1461, du vidimus de Charles VII, daté de décembre 1437 ; enregistrement en chancellerie </source></temoin>
       <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XV, p. 51
         <source>d’après AN, JJ 198, n° 366</source></temoin>
     </tradition>
@@ -5889,15 +5896,15 @@
         <source>d'après AN, JJ 75, n° 480</source></temoin>
       <temoin type="vidimus"><fonds>AN, K</fonds> 948, n° 36
         <source>vidimus de Jean II du vidimus de Philippe VI, original</source></temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> II 434
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> II, p. 434
         <source>d’après AN, JJ 80, n° 666</source></temoin>
       <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> IV, p. 268
         <source>d’après AN, JJ 80, n° 666 et K 948, n° 36</source></temoin>
-       <temoin type="copie"><fonds>AN, JJ</fonds> 80, n° 666
-        <source>vidimus de Jean II ; enregistrement en chancellerie</source></temoin>
+       <temoin type="copie"><fonds>AN, JJ</fonds> 80, fol. 409v, n° 666
+        <source>vidimus de Jean II, daté de juin 1351, du vidimus de Philippe VI, daté de mars 1346 ; enregistrement en chancellerie</source></temoin>
       <temoin type="vidimus"><fonds>AN, JJ</fonds> 198, n° 366
-        <source>vidimus de Louis XI</source></temoin>
-      <temoin type="indique"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XV 52 n° 2
+        <source>vidimus de Louis XI, daté de septembre 1461 ; enregistrement en chancellerie</source></temoin>
+      <temoin type="indique"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XV, p. 52 n° 2
         <source>d’après AN, JJ 198, n° 366</source></temoin>
     </tradition>
     <mentions>per dominum regem ad rel. archid. Rothom. Ja. de Vertus (P6) / per dominum regem ad relationem archiepiscopi (K 948 : arch. ; corr. archidiaconi d’après Ord. IV et XV) Rothomagensis. Ja. de Vertus (K et Ord. II)</mentions>
@@ -5923,7 +5930,7 @@
         <source>d'après AN, JJ 75, n° 481</source></temoin>
       <temoin type="vidimus"><fonds>AN, JJ</fonds> 81, fol. 2v, n° 4
         <source>vidimus de Jean II, de juin 1351, du vidimus de Philippe VI, daté de mars 1345 ; enregistrement en chancellerie</source></temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> IV 87
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> IV, p. 87
         <source>d’après AN, JJ 81, n° 4</source></temoin>
       <temoin type="indique">Actes de Philippe Auguste n° 1108 addenda
         <source>d’après AN, K 948, n° 25bis</source></temoin>
@@ -5952,7 +5959,7 @@
       <temoin type="vidimus">perdu
         <source>vidimus de Charles VII du vidimus de Philippe VI</source></temoin>
       <temoin type="vidimus"><fonds>AN, JJ</fonds> 198, n° 366
-        <source>vidimus de Louis XI du vidimus de Charles VII</source></temoin>
+        <source>vidimus de Louis XI, daté de septembre 1461, du vidimus de Charles VII ; enregistrement en chancellerie</source></temoin>
       <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XV, p. 50
         <source>d’après AN, JJ 198, n° 366</source></temoin>
       <temoin type="indique"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XV, p. 53 5°
@@ -5978,19 +5985,19 @@
 <source>vidimus de Philippe VI, daté de mars 1346 ; enregistrement en chancellerie</source></temoin>
       <temoin type="indique"><ref sigle="P6 RTC">Aline Vallée et Jules Viard, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. III : <i>Règne de Philippe de Valois</i>, 3 vol., Paris, 1978-1984 (Archives nationales : inventaires et documents)</ref>, n° 6021
         <source>d'après AN, JJ 75, n° 484</source></temoin>
-      <temoin type="vidimus"><fonds>AN, JJ</fonds> 80, n° 667
-       <todo/><source>vidimus de Jean II du vidimus de Philippe VI ; enregistrement en chancellerie</source></temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> II 432
+      <temoin type="vidimus"><fonds>AN, JJ</fonds> 80, fol. 409v, n° 667
+       <source>vidimus de Jean II, daté de juin 1351, du vidimus de Philippe VI, daté de mars 1346 ; enregistrement en chancellerie</source></temoin>
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> II, p. 432
         <source>d’après AN, JJ 80, n° 667</source></temoin>
       <temoin type="copie">registre A dit Livre rouge de l’Hôtel de ville fol. 11 et 11v
         <source>vidimus de Jean II, copie</source></temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> IV 270
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> IV, p. 270
         <source>d’après registre A dit Livre rouge de l’Hôtel de ville fol. 11 et 11v</source></temoin>
       <temoin type="vidimus">perdu
         <source>vidimus de Charles VII du vidimus de Jean II</source></temoin>
       <temoin type="vidimus"><fonds>AN, JJ</fonds> 198, n° 366
-        <source>vidimus de Louis XI du vidimus de Charles VII</source></temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XV 48
+        <source>vidimus de Louis XI, daté de septembre 1461, du vidimus de Charles VII ; enregistrement en chancellerie</source></temoin>
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XV, p. 48
         <source>d’après AN, JJ 198, n° 366</source></temoin>
     </tradition>
     <mentions>per dominum regem ad rel. arch. Rothom. Ja. de Vertus (P6)/ per dominum regem ad relationem archiepiscopi (corr. archidiaconi par Ord. XV) Rothomagensis. Ja. de Vertus (Ord. II) / par le roy a la relation de l’archediacre de Rouan. Ja. de Vertus (Ord. IV)</mentions>
@@ -6013,9 +6020,8 @@
 <source>vidimus de Philippe VI, daté de mars 1346 ; enregistrement en chancellerie</source></temoin>
       <temoin type="indique"><ref sigle="P6 RTC">Aline Vallée et Jules Viard, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. III : <i>Règne de Philippe de Valois</i>, 3 vol., Paris, 1978-1984 (Archives nationales : inventaires et documents)</ref>, n° 6022
         <source>d'après AN, JJ 75, n° 485</source></temoin>
-      <todo/>
-      <temoin type="vidimus"><fonds>AN, JJ</fonds> 80, n° 700
-        <source>vidimus de Jean II du vidimus de Philippe VI</source></temoin>
+      <temoin type="vidimus"><fonds>AN, JJ</fonds> 80, fol. 422v, n° 700
+        <source>vidimus de Jean II, daté de juin 1351, du vidimus de Philippe VI, daté de mars 1346 ; enregistrement en chancellerie</source></temoin>
       <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> II 435
         <source>d’après AN, JJ 80, n° 700</source></temoin>
       <temoin type="vidimus"><fonds>AN, K</fonds> 948, n° 33
@@ -6207,7 +6213,7 @@
       <temoin type="copie"><fonds>AN, L</fonds> 409, n° 26.4</temoin>
       <temoin type="copie"><fonds>BNF, fr.</fonds> 10468, fol. 302</temoin>
       <temoin type="copie"><fonds>BM Orléans</fonds>, 258 t. I, fol. 25v</temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XI 439
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XI, p. 439
         <source>d’après BM Orléans 258 t. I, fol. 25v</source></temoin>
       <temoin type="copie"><fonds>AN, L</fonds> 409, n° 26.5</temoin>
       <temoin type="copie"><fonds>AN, L</fonds> 409, n° 26.6</temoin>
@@ -6393,9 +6399,10 @@
   </acte>
   <acte xml:id="L10-450">
     <titre>
-      <!--<date>1315-06-04</date> Le texte des ORF ne donne pas le quantième du jour-->
+      <date>1315-06-04</date>
       <lieu>Paris</lieu>
     </titre>
+    <localisation>Les Ord. n'indiquent pas le quantième du jour pour la date de cet acte</localisation>
     <tradition>
       <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849</ref>, t. I, p. 581 note</temoin>
       <temoin type="copie">A fol. 70v</temoin>
@@ -8416,13 +8423,13 @@
         <source>d'après AN, JJ 52, n° 66</source></temoin>
       <temoin type="copie">AHP XI 66
         <source>d’après AN, JJ 52, n° 66</source></temoin>
-      <temoin type="vidimus"><fonds>AN, JJ</fonds> 86, n° 41
+      <temoin type="vidimus"><fonds>AN, JJ</fonds> 86, fol. 16v, n° 41
 <source>vidimus de Charles régent, daté d'avril 1358 ; enregistrement en chancellerie</source></temoin>
       <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> III, p. 216
         <source>d’après AN, JJ 86, n° 41</source></temoin>
     </tradition>
-    <scellage>charte (Ord. III)</scellage>
     <mentions>per dominum Regem, ad relationem subdecani Pictavensis. Guido. Collatio fit (JJ)</mentions>
+    <scellage>charte (Ord. III)</scellage>
     <personnel>
       <role type="notaire">Guido</role>
       <role type="sous">2</role>
@@ -8950,9 +8957,9 @@
       <temoin type="copie"><ref sigle="Levesque">Guillaume Levesque, <i>Chartres <i>(sic)</i>, lettres, titres et arrests, de l’Antiquité, chappelle, droicts, fonctions, pouvoirs, exemptions et privileges des notaires et gardenottes du roy au Chastelet de Paris</i>, Paris, 1663,</ref> p. 52
         <source>d’après archives du Châtelet 5</source></temoin>
       <temoin type="copie"><fonds>AN, JJ</fonds> 66, fol. 191, n° 477
-        <source>vidimus de Philippe VI, daté de septembre 1330 ; enregistrement en chancellerie</source></temoin>
-     <!-- <temoin type="indique"><ref sigle="P6 RTC">Aline Vallée et Jules Viard, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. III : <i>Règne de Philippe de Valois</i>, 3 vol., Paris, 1978-1984 (Archives nationales : inventaires et documents)</ref>, n° 1116
-        <source>d'après AN, JJ 66, n° 477</source></temoin> Vérifier n° JJ ORF donne JJ 67-->
+        <source>vidimus de Philippe VI, daté de septembre 1330, du vidimus de Philippe V, daté de février 1317 ; enregistrement en chancellerie</source></temoin>
+      <temoin type="indique"><ref sigle="P6 RTC">Aline Vallée et Jules Viard, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. III : <i>Règne de Philippe de Valois</i>, 3 vol., Paris, 1978-1984 (Archives nationales : inventaires et documents)</ref>, n° 1116
+        <source>d'après AN, JJ 66, n° 477</source></temoin>
       <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> II, p. 52
         <source>d’après AN, JJ 66, n° 477</source></temoin>
       <temoin type="indique"><ref sigle="Tuetey">Alexandre Tuetey, <i>Inventaire analytique des livres de couleur et bannières du Châtelet de Paris</i>, Paris, 1899-1907, t. I,</ref> n° 41
@@ -8962,6 +8969,7 @@
     </tradition>
     <mentions>per dominum regem. Yvo (Levesque et JJ)</mentions>
     <scellage>Sceau ante susceptum (JJ)</scellage>
+    <remarques>Les Ord. donnent, pour le vidimus de Philippe VI daté de septembre 1330 la référence à JJ 67 mais il s'agit d'une erreur, le vidimus est bien dans JJ 66</remarques>
     <personnel>
       <role type="notaire">Yvo</role>
     </personnel>
@@ -8975,8 +8983,8 @@
       <temoin type="chancellerie"><fonds>AN, JJ</fonds> 52, fol. 48v, n° 90</temoin>
       <temoin type="indique"><ref sigle="L10 RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 140
         <source>d'après AN, JJ 52, n° 90</source></temoin>
-      <temoin type="vidimus"><fonds>AN, JJ</fonds> 80, n° 580
-<todo/><source>vidimus de Jean II ; enregistrement en chancellerie</source></temoin>
+      <temoin type="vidimus"><fonds>AN, JJ</fonds> 80, fol. 376, n° 580
+<source>vidimus de Jean II, daté de janvier 1351 ; enregistrement en chancellerie</source></temoin>
       <temoin type="indique"><ref sigle="J2 RTC"/></temoin>
     </tradition>
     <mentions>per dominum Mercorii. Prunetus. Collatio fit (JJ)</mentions>
@@ -11145,8 +11153,8 @@
 <source>vidimus de Philippe VI</source></temoin>
       <temoin type="vidimus">perdu
 <source>vidimus de Jean II du vidimus de Philippe VI</source></temoin>
-      <temoin type="vidimus"><fonds>AN, JJ</fonds> 95, n° 222
-<source>vidimus de Charles V du vidimus de Jean II</source></temoin>
+      <temoin type="vidimus"><fonds>AN, JJ</fonds> 95, fol. 95v, n° 222
+<source>vidimus de Charles V, daté d'août 1364, du vidimus de Jean II, daté de juillet 1361, du vidimus de Philippe VI, daté de juillet 1332 ; enregistrement en chancellerie</source></temoin>
     </tradition>
     <mentions>per dominum Regem, ad relationem domini G., elemosinarii. Maillardus. Facta est collatio. Collatio fit (JJ)</mentions>
     <personnel>
@@ -11642,7 +11650,7 @@
       <temoin type="indique"><ref sigle="de Curzon">Théodore de Curzon, inventaire analytique par ordre chronologique du Trésor des chartes, 1890-1891, fiches mss. (conservé aux Archives nationales, département de l’Ancien Régime)</ref>
 <source>d’après AN, J 300, n° 101</source></temoin>
       <temoin type="indique"><fonds>AN, JJ</fonds> 72, fol. 221, n° 306
-<source>vidimus de Philippe VI, daté du 4 septembre 1340</source></temoin>
+<source>vidimus de Philippe VI, daté du 4 septembre 1340, de la confirmation de Philippe V</source></temoin>
       <temoin type="indique"><ref sigle="P6 RTC">Aline Vallée et Jules Viard, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. III : <i>Règne de Philippe de Valois</i>, 3 vol., Paris, 1978-1984 (Archives nationales : inventaires et documents)</ref>, n° 4201
       <source>d'après AN, JJ 72, n° 306</source></temoin>
       <temoin type="indique"><fonds>AD Pyrénées-Atlantique, E</fonds> 513, fol. 48v-49
@@ -12055,8 +12063,8 @@
 <source>vidimus de Philippe VI, daté de juin 1335, du vidimus de Charles IV, daté de février 1322 ; enregistrement en chancellerie</source></temoin>
       <temoin type="indique"><ref sigle="P6 RTC">Aline Vallée et Jules Viard, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. III : <i>Règne de Philippe de Valois</i>, 3 vol., Paris, 1978-1984 (Archives nationales : inventaires et documents)</ref>, n° 2806
 <source>d'après AN, JJ 69, n° 94</source></temoin>
-      <todo/><temoin type="vidimus"><fonds>AN, JJ</fonds> 80, n° 751
-<source>vidimus de Jean II, daté de janvier 1351 ; enregistrement en chancellerie</source></temoin>
+      <temoin type="vidimus"><fonds>AN, JJ</fonds> 80, fol. 452v, n° 751
+<source>vidimus de Jean II, daté de janvier 1351, de l'acte de Louis X ; enregistrement en chancellerie</source></temoin>
       <temoin type="vidimus">perdu
 <source>vidimus de Charles V, daté de mai 1374, du vidimus de Jean II, daté de janvier 1351 ; enregistrement en chancellerie</source></temoin>
       <temoin type="vidimus">perdu
@@ -12954,17 +12962,17 @@
       <temoin type="vidimus"><fonds>AD Seine-Maritime, G</fonds> 3692
 <source>vidimus du vidimus de Charles VII</source></temoin>
       <temoin type="vidimus">perdu
-<source>vidimus de Louis XI du vidimus de Charles VII</source></temoin>
+<source>vidimus de Louis XI, daté du 4 janvier 1462, du vidimus de Charles VII</source></temoin>
       <temoin type="copie">Coutumier général, t. I, p. 1038
 <source>vidimus de Louis XI, copie</source></temoin>
       <temoin type="copie">Bourdot de Richebourg, t. IV, p. 98
 <source>vidimus de Louis XI, copie</source></temoin>
-      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XV 302
-<source>d’après Coutumier général I 1038 et Bourdot de Richebourg IV 98</source></temoin>
-      <temoin type="vidimus"><fonds>BNF, fr.</fonds> 10468 fol. 304v
+      <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XV, p. 302
+<source>d’après Coutumier général I, p. 1038 et Bourdot de Richebourg IV, p. 98</source></temoin>
+      <temoin type="vidimus"><fonds>BNF, fr.</fonds> 10468, fol. 304v
 <source>vidimus de Henri VI</source></temoin>
       <temoin type="indique"><ref sigle="Artonne, p.">André Artonne, <i>Le mouvement de 1314 et les chartes provinciales de 1315</i>, Paris, 1912 (Université de Paris. Bibliothèque de la faculté des Lettres, 29), p. </ref> 150
-<source>d’après AD Seine-Maritime, G 3692 ; AN, JJ 52, n° 26 ; BNF, lat. 4042, fol. 8 ; Petit, Essai, n° 671 ; Ord. I 587 ; P6 RTC 3733a ; BNF, fr. 16199, fol. 527 ; Dupuy 532 fol. 305 ; AN, J 210, n° 5 ; AN, JJ 118, n° 285 ; Ord. VI 550 ; P6 RTC 3776 ; AN, J 210, n° 6 ; AN, JJ 187, n° 226 ; Ord. XIV 464 ; Ord. XV 302 ; BNF, fr. 10468, fol. 304v ; Coutumier général, I, n° 1038 ; et Bourdot de Richebourg, IV, n° 98</source></temoin>
+        <source>d’après AD Seine-Maritime, G 3692 ; AN, JJ 52, n° 26 ; BNF, lat. 4042, fol. 8 ; Petit, Essai, n° 671 ; Ord. I 587 ; P6 RTC 3733a ; BNF, fr. 16199, fol. 527 ; Dupuy 532 fol. 305 ; AN, J 210, n° 5 ; AN, JJ 118, n° 285 ; Ord., t. VI, p. 550 ; AN, JJ 71, fol. 202, sans numéro ; AN, J 210, n° 6 ; AN, JJ 187, n° 226 ; Ord. XIV 464 ; Ord. XV 302 ; BNF, fr. 10468, fol. 304v ; Coutumier général, I, n° 1038 ; et Bourdot de Richebourg, IV, n° 98</source></temoin>
       <temoin type="indique"><fonds>bibliothèque Sainte-Geneviève</fonds>, 786 fol. 91
 <source>d’après AN, JJ 52, n° 26 et A fol. 142</source></temoin>
       <temoin type="indique"><ref sigle="Petit, Essai, n">Joseph Petit, Michel Gavrilovitch, Maury et D.-A. Teodoru, <i>Essai de restitution des plus anciens mémoriaux de la Chambre des comptes</i>, Paris, 1899 (Université de Paris. Bibliothèque de la faculté des Lettres, 7),</ref> n° 671
@@ -13064,7 +13072,7 @@
       <temoin type="copie"><ref sigle="Ord.">Eusèbe-Jacob de Laurière et al., <i>Ordonnances des roys de France de la troisième race recueillies par ordre chronologique</i> […], 22 t., Paris, 1723-1849, t. </ref> XIII, p. 486
 <source>d’après AN, JJ 178, n° 84 et mss Colbert 53, p.148</source></temoin>
       <temoin type="vidimus"><fonds>AN, JJ</fonds> 199, n° 419
-<source>vidimus de Louis XI du vidimus de Charles VII, enregistrement en chancellerie</source></temoin>
+<source>vidimus de Louis XI, daté de novembre 1463, du vidimus de Charles VII, daté de décembre 1446 ; enregistrement en chancellerie</source></temoin>
       <temoin type="copie">archives de Nîmes
 <source>vidimus de Louis XI, daté de novembre 1463 ; copie</source></temoin>
       <temoin type="copie">Ménard III n° 105
@@ -13155,7 +13163,7 @@
       <temoin type="indique"><ref sigle="L10 RTC">Jean Guerout, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. II : <i>Règnes des fils de Philippe le Bel</i>, 2e partie : <i>Règnes de Louis X le Hutin et de Philippe V le Long</i>, dir. Robert Fawtier, Paris, 1966 (Archives nationales : inventaires et documents)</ref>, n° 81
         <source>d’après AN, JJ 52, n° 31</source></temoin>
       <temoin type="vidimus"><fonds>AN, JJ</fonds> 74, fol. 22v, n° 40
-<source>vidimus de Philippe VI, daté de mars 1345 ; enregistrement en chancellerie</source></temoin>
+<source>vidimus de Jean duc de Normandie, daté de mars 1345 ; enregistrement en chancellerie</source></temoin>
       <temoin type="indique"><ref sigle="P6 RTC">Aline Vallée et Jules Viard, <i>Registres du Trésor des chartes. Inventaire analytique</i>, t. III : <i>Règne de Philippe de Valois</i>, 3 vol., Paris, 1978-1984 (Archives nationales : inventaires et documents)</ref>, n° 4858
 <source>d'après AN, JJ 74, n° 40</source></temoin>
     </tradition>
@@ -13634,3 +13642,4 @@
     <remarques>sur la source, Ord. I cite les mêmes sources pour la version de 1315/07 et celle de 1315/03/19. Pour Artonne, toutes ces sources renvoient à 1315/07</remarques>
   </acte>
 </catalogue>
+
